@@ -27,6 +27,9 @@
     <ClCompile Include="36_有效的数独.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="292_Nim_游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">

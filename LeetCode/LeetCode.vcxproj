@@ -141,6 +141,7 @@
   <ItemGroup>
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
+    <ClCompile Include="292_Nim_游戏.cpp" />
     <ClCompile Include="36_有效的数独.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
