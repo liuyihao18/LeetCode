@@ -36,6 +36,9 @@
     <ClCompile Include="673_最长递增子序列的个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="58_最后一个单词的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
