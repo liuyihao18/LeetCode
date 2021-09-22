@@ -146,6 +146,7 @@
     <ClCompile Include="58_最后一个单词的长度.cpp" />
     <ClCompile Include="650_只有两个键的键盘.cpp" />
     <ClCompile Include="673_最长递增子序列的个数.cpp" />
+    <ClCompile Include="725_分隔链表.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
