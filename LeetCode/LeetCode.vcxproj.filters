@@ -51,6 +51,9 @@
     <ClCompile Include="583_两个字符串的删除操作.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="371_两整数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
