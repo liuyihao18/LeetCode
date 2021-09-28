@@ -57,6 +57,9 @@
     <ClCompile Include="639_解码方法 II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="437_路径总和 III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
