@@ -60,6 +60,9 @@
     <ClCompile Include="437_路径总和 III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="517_超级洗衣机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">

@@ -147,6 +147,7 @@
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
     <ClCompile Include="437_路径总和 III.cpp" />
+    <ClCompile Include="517_超级洗衣机.cpp" />
     <ClCompile Include="583_两个字符串的删除操作.cpp" />
     <ClCompile Include="58_最后一个单词的长度.cpp" />
     <ClCompile Include="639_解码方法 II.cpp" />
