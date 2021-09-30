@@ -63,6 +63,9 @@
     <ClCompile Include="517_超级洗衣机.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="223_矩形面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
