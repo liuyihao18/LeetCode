@@ -72,6 +72,9 @@
     <ClCompile Include="405_数字转换为十六进制数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="166_分数到小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
