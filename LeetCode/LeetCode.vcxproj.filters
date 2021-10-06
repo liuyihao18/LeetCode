@@ -75,6 +75,9 @@
     <ClCompile Include="284_窥探迭代器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="414_第三大的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
