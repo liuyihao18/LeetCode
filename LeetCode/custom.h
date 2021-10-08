@@ -11,6 +11,8 @@
 #include <set>
 #include <sstream>
 #include <string>
+#include <unordered_map>
+#include <unordered_set>
 #include <vector>
 #define ustd using namespace std;
 #endif // !__CUSTOM_H__

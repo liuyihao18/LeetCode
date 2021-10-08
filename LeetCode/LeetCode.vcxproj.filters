@@ -81,6 +81,9 @@
     <ClCompile Include="434_字符串中的单词数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="187_重复的DNA序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
