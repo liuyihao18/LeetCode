@@ -148,6 +148,7 @@
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
+    <ClCompile Include="352_将数据流变为多个不相交区间.cpp" />
     <ClCompile Include="36_有效的数独.cpp" />
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="405_数字转换为十六进制数.cpp" />
