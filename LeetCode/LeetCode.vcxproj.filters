@@ -90,6 +90,9 @@
     <ClCompile Include="441_排列硬币.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="273_整数转换英文表示.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">

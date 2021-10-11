@@ -145,6 +145,7 @@
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
+    <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
