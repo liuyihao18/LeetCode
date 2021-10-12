@@ -93,6 +93,9 @@
     <ClCompile Include="273_整数转换英文表示.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="29_两数相除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
