@@ -96,6 +96,9 @@
     <ClCompile Include="29_两数相除.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="412_Fizz_Buzz.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
