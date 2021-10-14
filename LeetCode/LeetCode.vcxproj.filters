@@ -99,6 +99,9 @@
     <ClCompile Include="412_Fizz_Buzz.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
