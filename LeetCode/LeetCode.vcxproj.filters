@@ -102,6 +102,9 @@
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="38_外观数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
