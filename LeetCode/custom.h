@@ -4,12 +4,14 @@
 #define __CUSTOM_H__
 #include <array>
 #include <algorithm>
+#include <functional>
 #include <iostream>
 #include <iterator>
 #include <map>
 #include <numeric>
 #include <set>
 #include <sstream>
+#include <stack>
 #include <string>
 #include <unordered_map>
 #include <unordered_set>

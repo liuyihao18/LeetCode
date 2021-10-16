@@ -105,6 +105,9 @@
     <ClCompile Include="38_外观数列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="282_给表达式添加运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
