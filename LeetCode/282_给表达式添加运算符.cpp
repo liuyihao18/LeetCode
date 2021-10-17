@@ -86,7 +86,7 @@ public:
     }
     vector<string> addOperators(string num, long long target) {
         vector<string> result;
-        for (size_t i = 0; i < (1 << 2 * (num.size() - 1)); ++i) {
+        for (size_t i = 0; i < static_cast<size_t>(1 << 2 * (num.size() - 1)); ++i) {
             size_t copy_i = i;
             string copy_num = num;
             for (auto iter = copy_num.begin() + 1; iter != copy_num.end(); ++iter) {

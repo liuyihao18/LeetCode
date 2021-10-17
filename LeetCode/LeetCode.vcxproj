@@ -145,6 +145,7 @@
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
+    <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
