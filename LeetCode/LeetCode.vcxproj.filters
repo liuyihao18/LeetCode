@@ -111,6 +111,9 @@
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="476_数字的补数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
