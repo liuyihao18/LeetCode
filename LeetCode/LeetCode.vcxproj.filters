@@ -114,6 +114,9 @@
     <ClCompile Include="476_数字的补数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">

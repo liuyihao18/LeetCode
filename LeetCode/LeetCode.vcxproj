@@ -143,6 +143,7 @@
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
+    <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
