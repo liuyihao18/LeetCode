@@ -163,6 +163,7 @@
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
     <ClCompile Include="434_字符串中的单词数.cpp" />
     <ClCompile Include="441_排列硬币.cpp" />
+    <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="476_数字的补数.cpp" />
     <ClCompile Include="482_密钥格式化.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
