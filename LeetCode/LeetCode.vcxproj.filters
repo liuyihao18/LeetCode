@@ -123,6 +123,9 @@
     <ClCompile Include="66_加一.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="229_求众数_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">

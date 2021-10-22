@@ -146,6 +146,7 @@
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
+    <ClCompile Include="229_求众数_II.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
