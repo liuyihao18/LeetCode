@@ -1,33 +1,103 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="源文件">
-      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
-      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
-    </Filter>
-    <Filter Include="头文件">
-      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
-      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
-    </Filter>
-    <Filter Include="资源文件">
-      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
-      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
-    </Filter>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="162_寻找峰值.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="212_单词搜索Ⅱ.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="29_两数相除.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="36_有效的数独.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="38_外观数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58_最后一个单词的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="66_加一.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="162_寻找峰值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="166_分数到小数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="187_重复的DNA序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="212_单词搜索Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="223_矩形面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="229_求众数_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="230_二叉搜索树中第K小的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="273_整数转换英文表示.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="282_给表达式添加运算符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="284_窥探迭代器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="292_Nim_游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="326_3的幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="352_将数据流变为多个不相交区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="371_两整数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="405_数字转换为十六进制数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="412_Fizz_Buzz.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="414_第三大的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="430_扁平化多级双向链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="434_字符串中的单词数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="441_排列硬币.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="453_最小操作次数使数组元素相等.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="476_数字的补数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="482_密钥格式化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="492_构造矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="517_超级洗衣机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="583_两个字符串的删除操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="638_大礼包.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="650_只有两个键的键盘.cpp">
@@ -36,106 +106,33 @@
     <ClCompile Include="673_最长递增子序列的个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="58_最后一个单词的长度.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="725_分隔链表.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="326_3的幂.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="430_扁平化多级双向链表.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="583_两个字符串的删除操作.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="371_两整数之和.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="517_超级洗衣机.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="223_矩形面积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="1436_旅行终点站.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="405_数字转换为十六进制数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="166_分数到小数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="482_密钥格式化.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="284_窥探迭代器.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="414_第三大的数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="434_字符串中的单词数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="187_重复的DNA序列.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="352_将数据流变为多个不相交区间.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="441_排列硬币.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="273_整数转换英文表示.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="29_两数相除.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="412_Fizz_Buzz.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="38_外观数列.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="282_给表达式添加运算符.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="230_二叉搜索树中第K小的元素.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="476_数字的补数.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="453_最小操作次数使数组元素相等.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="66_加一.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="229_求众数_II.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="638_大礼包.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{7e05ddec-cb46-4108-b339-b9d1830fb856}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{35c84ffe-0d99-455b-83ba-0082b6b87e79}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h">
       <Filter>头文件</Filter>
     </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="cpp.hint" />
   </ItemGroup>
 </Project>
