@@ -169,6 +169,7 @@
     <ClCompile Include="476_数字的补数.cpp" />
     <ClCompile Include="482_密钥格式化.cpp" />
     <ClCompile Include="492_构造矩形.cpp" />
+    <ClCompile Include="496_下一个更大元素_I.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
     <ClCompile Include="583_两个字符串的删除操作.cpp" />
     <ClCompile Include="58_最后一个单词的长度.cpp" />

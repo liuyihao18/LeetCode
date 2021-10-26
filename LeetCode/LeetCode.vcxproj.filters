@@ -119,6 +119,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
+    <ClCompile Include="496_下一个更大元素_I.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
