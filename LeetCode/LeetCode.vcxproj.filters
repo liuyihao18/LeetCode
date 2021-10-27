@@ -118,8 +118,15 @@
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="240_搜索二维矩阵_II.cpp" />
-    <ClCompile Include="496_下一个更大元素_I.cpp" />
+    <ClCompile Include="240_搜索二维矩阵_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="301_删除无效的括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="496_下一个更大元素_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
