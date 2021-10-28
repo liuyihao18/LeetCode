@@ -54,7 +54,7 @@ public:
         }
         for (auto vote : votes) {
             // 如果投票数大于0，需要再统计出现次数
-            if (vote.second > 0 && count(nums.begin(), nums.end(), vote.first) > nums.size() / 3) {
+            if (vote.second > 0 && static_cast<size_t>(count(nums.begin(), nums.end(), vote.first)) > nums.size() / 3) {
                 result.push_back(vote.first);
             }
         }
