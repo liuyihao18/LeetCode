@@ -5,7 +5,7 @@ ustd
 class Solution {
 public:
     vector<int> constructRectangle(int area) {
-        for (int width = sqrt(area); width > 1; width--) {
+        for (int width = static_cast<int>(sqrt(area)); width > 1; width--) {
             int length = area / width;
             if (width * length == area) {
                 return  { length, width };

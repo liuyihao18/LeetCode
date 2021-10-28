@@ -179,6 +179,7 @@
     <ClCompile Include="66_加一.cpp" />
     <ClCompile Include="673_最长递增子序列的个数.cpp" />
     <ClCompile Include="725_分隔链表.cpp" />
+    <ClCompile Include="869_重新排序得到2的幂.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />
   </ItemGroup>
