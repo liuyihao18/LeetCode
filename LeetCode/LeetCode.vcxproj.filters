@@ -144,6 +144,9 @@
     <ClCompile Include="869_重新排序得到2的幂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="335_路径交叉.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
