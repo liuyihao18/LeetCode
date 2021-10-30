@@ -147,6 +147,9 @@
     <ClCompile Include="335_路径交叉.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="260_只出现一次的数字_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
