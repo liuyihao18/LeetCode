@@ -164,6 +164,7 @@
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="38_外观数列.cpp" />
     <ClCompile Include="405_数字转换为十六进制数.cpp" />
+    <ClCompile Include="407_接雨水_II.cpp" />
     <ClCompile Include="412_Fizz_Buzz.cpp" />
     <ClCompile Include="414_第三大的数.cpp" />
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
