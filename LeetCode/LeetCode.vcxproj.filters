@@ -165,6 +165,9 @@
     <ClCompile Include="367_有效的完全平方数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1218_最长定差子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
