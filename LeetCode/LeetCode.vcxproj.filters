@@ -171,6 +171,9 @@
     <ClCompile Include="268_丢失的数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="598_范围求和_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
