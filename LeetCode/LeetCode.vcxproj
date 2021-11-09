@@ -177,6 +177,7 @@
     <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="476_数字的补数.cpp" />
     <ClCompile Include="482_密钥格式化.cpp" />
+    <ClCompile Include="488_祖玛游戏.cpp" />
     <ClCompile Include="492_构造矩形.cpp" />
     <ClCompile Include="496_下一个更大元素_I.cpp" />
     <ClCompile Include="500_键盘行.cpp" />

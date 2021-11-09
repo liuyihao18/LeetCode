@@ -177,6 +177,9 @@
     <ClCompile Include="299_猜数字游戏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="488_祖玛游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
