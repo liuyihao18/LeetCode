@@ -179,6 +179,7 @@
     <ClCompile Include="482_密钥格式化.cpp" />
     <ClCompile Include="488_祖玛游戏.cpp" />
     <ClCompile Include="492_构造矩形.cpp" />
+    <ClCompile Include="495_提莫攻击.cpp" />
     <ClCompile Include="496_下一个更大元素_I.cpp" />
     <ClCompile Include="500_键盘行.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
