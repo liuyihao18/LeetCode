@@ -29,13 +29,13 @@ public:
     int dfs(vector<int> price, const vector<vector<int>>& special, vector<int> curNeeds, vector<vector<int>>& filterSpecial, size_t n) {
         if (!memo.count(curNeeds)) {
             int minPrice = 0;
-            for (int i = 0; i < n; ++i) {
+            for (size_t i = 0; i < n; ++i) {
                 minPrice += curNeeds[i] * price[i]; // 不购买任何大礼包，原价购买购物清单中的所有物品
             }
             for (auto& curSpecial : filterSpecial) {
                 int specialPrice = curSpecial[n];
                 vector<int> nxtNeeds;
-                for (int i = 0; i < n; ++i) {
+                for (size_t i = 0; i < n; ++i) {
                     if (curSpecial[i] > curNeeds[i]) { // 不能购买超出购物清单指定数量的物品
                         break;
                     }

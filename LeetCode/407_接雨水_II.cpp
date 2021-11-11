@@ -5,8 +5,8 @@ ustd
 class Solution {
     struct Node
     {
-        int x{ 0 };
-        int y{ 0 };
+        size_t x{ 0 };
+        size_t y{ 0 };
         int h{ 0 };
     };
     struct NodeCmp {
@@ -20,14 +20,14 @@ public:
         size_t n = heightMap[0].size();
         vector<vector<bool>> visit(m, vector<bool>(n));
         priority_queue<Node,vector<Node>, NodeCmp> q;
-        for (int i = 0; i < m; i++) {
+        for (size_t i = 0; i < m; i++) {
             q.push({ i, 0, heightMap[i][0] });
-            q.push({ i, static_cast<int>(n - 1), heightMap[i][n - 1] });
+            q.push({ i, n - 1, heightMap[i][n - 1] });
             visit[i][0] = visit[i][n - 1] = true;
         }
-        for (int j = 0; j < n; j++) {
+        for (size_t j = 0; j < n; j++) {
             q.push({ 0, j, heightMap[0][j] });
-            q.push({ static_cast<int>(m - 1),j, heightMap[m - 1][j] });
+            q.push({ m - 1,j, heightMap[m - 1][j] });
             visit[0][j] = visit[m - 1][j] = true;
         }
         int dirs[4][2] = { {1,0},{-1,0},{0,1},{0,-1} };
@@ -36,8 +36,8 @@ public:
             Node node = q.top();
             q.pop();
             for (auto dir : dirs) {
-                int nx = node.x + dir[0];
-                int ny = node.y + dir[1];
+                size_t nx = node.x + dir[0];
+                size_t ny = node.y + dir[1];
                 if (nx < 0 || nx >= m || ny < 0 || ny >= n) {
                     continue;
                 }
