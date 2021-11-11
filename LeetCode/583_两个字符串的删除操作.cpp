@@ -27,6 +27,6 @@ public:
         return dp[m][n];
     }
     int minDistance(string word1, string word2) {
-        return word1.size() + word2.size() - 2 * findLCS(word1, word2);
+        return static_cast<int>(word1.size() + word2.size() - 2 * findLCS(word1, word2));
     }
 };

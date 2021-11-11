@@ -11,6 +11,6 @@ public:
         while (in >> word) {
             ++count;
         }
-        return count;
+        return static_cast<int>(count);
     }
 };

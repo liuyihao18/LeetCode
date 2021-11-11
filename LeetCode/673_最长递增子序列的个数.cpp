@@ -30,6 +30,6 @@ public:
                 max_count += counts[i];
             }
         }
-        return max_count;
+        return static_cast<int>(max_count);
     }
 };

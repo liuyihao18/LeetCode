@@ -5,7 +5,7 @@ ustd
 class Solution {
 public:
     bool isSelfCrossing(vector<int>& x) {
-        for (int i = 3, l = x.size(); i < l; i++) {
+        for (size_t i = 3, l = x.size(); i < l; i++) {
             // Case 1: current line crosses the line 3 steps ahead of it
             if (x[i] >= x[i - 2] && x[i - 1] <= x[i - 3]) return true;
             // Case 2: current line crosses the line 4 steps ahead of it

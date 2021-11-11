@@ -8,6 +8,6 @@ public:
         istringstream is(s);
         string word;
         while (is >> word);
-        return word.length();
+        return static_cast<int>(word.length());
     }
 };

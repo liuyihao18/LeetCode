@@ -17,6 +17,6 @@ public:
                 right = middle;
             }
         }
-        return left;
+        return static_cast<int>(left);
     }
 };

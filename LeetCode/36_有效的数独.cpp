@@ -11,11 +11,11 @@ public:
                 if (num == '.') {
                     continue;
                 }
-                if (appeared[num - '0' - 1]) {
+                if (appeared[static_cast<size_t>(num) - '0' - 1]) {
                     return false;
                 }
                 else {
-                    appeared[num - '0' - 1] = true;
+                    appeared[static_cast<size_t>(num) - '0' - 1] = true;
                 }
             }
         }
@@ -28,11 +28,11 @@ public:
                 if (board[i][j] == '.') {
                     continue;
                 }
-                if (appeared[board[i][j] - '0' - 1]) {
+                if (appeared[static_cast<size_t>(board[i][j]) - '0' - 1]) {
                     return false;
                 }
                 else {
-                    appeared[board[i][j] - '0' - 1] = true;
+                    appeared[static_cast<size_t>(board[i][j]) - '0' - 1] = true;
                 }
             }
         }
@@ -48,18 +48,18 @@ public:
         }
         return true;
     }
-    bool validSquare(const vector<vector<char>>& board, int origin_i, int origin_j) {
+    bool validSquare(const vector<vector<char>>& board, size_t origin_i, size_t origin_j) {
         array<bool, 9> appeared{};
         for (size_t i = 0; i < 3; i++) {
             for (size_t j = 0; j < 3; j++) {
                 if (board[origin_i + i][origin_j + j] == '.') {
                     continue;
                 }
-                if (appeared[board[origin_i + i][origin_j + j] - '0' - 1]) {
+                if (appeared[static_cast<size_t>(board[origin_i + i][origin_j + j]) - '0' - 1]) {
                     return false;
                 }
                 else {
-                    appeared[board[origin_i + i][origin_j + j] - '0' - 1] = true;
+                    appeared[static_cast<size_t>(board[origin_i + i][origin_j + j]) - '0' - 1] = true;
                 }
             }
         }

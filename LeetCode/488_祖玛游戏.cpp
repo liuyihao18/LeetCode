@@ -80,7 +80,7 @@ public:
                 }
             }
         }
-        return min_count;
+        return static_cast<int>(min_count);
     }
 };
 

@@ -5,9 +5,9 @@ ustd
 class Solution {
 public:
     int peakIndexInMountainArray(vector<int>& arr) {
-        int left = 0;
-        int right = arr.size();
-        int mid = (left + right) / 2;
+        size_t left = 0;
+        size_t right = arr.size();
+        size_t mid = (left + right) / 2;
         while (right - left > 1) {
             if (arr[mid] > arr[mid - 1] && arr[mid] > arr[mid + 1]) {
                 break;
@@ -20,7 +20,7 @@ public:
             }
             mid = (left + right) / 2;
         }
-        return mid;
+        return static_cast<int>(mid);
         // return partition_point(arr.begin() + 1, arr.end() - 1, [](auto&& x) {return *((&x) + 1) > x; }) - arr.begin();
     }
 };

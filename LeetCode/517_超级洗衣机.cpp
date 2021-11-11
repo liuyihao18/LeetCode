@@ -32,7 +32,7 @@ public:
         if (sum % machines.size() != 0) {
             return -1;
         }
-        int avg_num = sum / machines.size();
+        int avg_num = sum / static_cast<int>(machines.size());
         /*
         int result = 0;
         while (move(machines, avg_num)) {

@@ -48,7 +48,7 @@ public:
         }
         return false;
     }
-    bool dfs(const string& word, int index, vector<vector<char>>& board, int i, int j) {
+    bool dfs(const string& word, int index, vector<vector<char>>& board, size_t i, size_t j) {
         if (index == word.size()) {
             return true;
         }
