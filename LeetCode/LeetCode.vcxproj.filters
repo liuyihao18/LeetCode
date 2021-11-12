@@ -186,6 +186,9 @@
     <ClCompile Include="629_K个逆序对数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="375_猜数字大小_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
