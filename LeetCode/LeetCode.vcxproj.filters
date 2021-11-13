@@ -189,6 +189,9 @@
     <ClCompile Include="375_猜数字大小_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="520_检测大写字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
