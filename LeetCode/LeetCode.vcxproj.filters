@@ -195,6 +195,9 @@
     <ClCompile Include="677_键值映射.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="319_灯泡开关.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
