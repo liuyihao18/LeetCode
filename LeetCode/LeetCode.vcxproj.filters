@@ -198,6 +198,9 @@
     <ClCompile Include="319_灯泡开关.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="391_完美矩形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

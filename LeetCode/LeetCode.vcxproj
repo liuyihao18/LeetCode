@@ -169,6 +169,7 @@
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="375_猜数字大小_II.cpp" />
     <ClCompile Include="38_外观数列.cpp" />
+    <ClCompile Include="391_完美矩形.cpp" />
     <ClCompile Include="405_数字转换为十六进制数.cpp" />
     <ClCompile Include="407_接雨水_II.cpp" />
     <ClCompile Include="412_Fizz_Buzz.cpp" />
