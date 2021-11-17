@@ -201,6 +201,9 @@
     <ClCompile Include="391_完美矩形.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="318_最大单词长度乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
