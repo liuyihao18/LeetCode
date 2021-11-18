@@ -204,6 +204,9 @@
     <ClCompile Include="318_最大单词长度乘积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="563_二叉树的坡度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
