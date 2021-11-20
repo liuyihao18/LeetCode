@@ -210,6 +210,9 @@
     <ClCompile Include="397_整数替换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="594_最长和谐子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -8,7 +8,12 @@ class Solution {
         if (times > dp[1]) {
             return;
         }
-        dp[n] = min(dp[n], times);
+        if (dp.find(n) != dp.end()) {
+            dp[n] = min(dp[n], times);
+        }
+        else {
+            dp[n] = times;
+        }
         if (n == 1) {
             return;
         }
@@ -41,7 +46,7 @@ public:
                 // 此时 n = 0x...1
                 if (n != 3 && (n >> 1) & 1) {
                     // 此时 n = 0x...11
-                    // 加1可以消除连续的一段1
+                    // 加一可以消除连续的一段1
                     n++;
                 }
                 else {
