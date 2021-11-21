@@ -189,6 +189,7 @@
     <ClCompile Include="500_键盘行.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
     <ClCompile Include="520_检测大写字母.cpp" />
+    <ClCompile Include="559_N叉树的最大深度.cpp" />
     <ClCompile Include="563_二叉树的坡度.cpp" />
     <ClCompile Include="575_分糖果.cpp" />
     <ClCompile Include="583_两个字符串的删除操作.cpp" />

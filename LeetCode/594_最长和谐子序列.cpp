@@ -24,6 +24,6 @@ public:
                 max_sum = max(max_sum, next->second + prev->second);
             }
         }
-        return max_sum;
+        return static_cast<int>(max_sum);
     }
 };

@@ -213,6 +213,9 @@
     <ClCompile Include="594_最长和谐子序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="559_N叉树的最大深度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
