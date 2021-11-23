@@ -219,6 +219,9 @@
     <ClCompile Include="384_打乱数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="859_亲密字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
