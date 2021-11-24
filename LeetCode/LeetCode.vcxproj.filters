@@ -222,6 +222,9 @@
     <ClCompile Include="859_亲密字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="423_从英文中重建数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

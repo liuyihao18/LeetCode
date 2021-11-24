@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -116,6 +117,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -177,6 +179,7 @@
     <ClCompile Include="407_接雨水_II.cpp" />
     <ClCompile Include="412_Fizz_Buzz.cpp" />
     <ClCompile Include="414_第三大的数.cpp" />
+    <ClCompile Include="423_从英文中重建数字.cpp" />
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
     <ClCompile Include="434_字符串中的单词数.cpp" />
     <ClCompile Include="441_排列硬币.cpp" />
