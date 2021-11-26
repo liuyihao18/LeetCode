@@ -228,6 +228,9 @@
     <ClCompile Include="458_可怜的小猪.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="700_二叉搜索树中的搜索.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
