@@ -237,6 +237,9 @@
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="786_第K个最小的素数分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
