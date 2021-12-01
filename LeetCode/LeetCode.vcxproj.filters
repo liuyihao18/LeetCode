@@ -243,6 +243,9 @@
     <ClCompile Include="400_第N位数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1446_连续字符.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
