@@ -195,6 +195,7 @@
     <ClCompile Include="495_提莫攻击.cpp" />
     <ClCompile Include="496_下一个更大元素_I.cpp" />
     <ClCompile Include="500_键盘行.cpp" />
+    <ClCompile Include="506_相对名次.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
     <ClCompile Include="519_随机翻转矩阵.cpp" />
     <ClCompile Include="520_检测大写字母.cpp" />
