@@ -249,6 +249,9 @@
     <ClCompile Include="506_相对名次.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1005_K次取反后最大化的数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
