@@ -173,6 +173,7 @@
     <ClCompile Include="36_有效的数独.cpp" />
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="375_猜数字大小_II.cpp" />
+    <ClCompile Include="383_赎金信.cpp" />
     <ClCompile Include="384_打乱数组.cpp" />
     <ClCompile Include="38_外观数列.cpp" />
     <ClCompile Include="391_完美矩形.cpp" />
