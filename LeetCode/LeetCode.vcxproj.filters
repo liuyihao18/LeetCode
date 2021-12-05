@@ -255,6 +255,9 @@
     <ClCompile Include="383_赎金信.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="372_超级次方.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

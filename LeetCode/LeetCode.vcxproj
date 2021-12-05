@@ -172,6 +172,7 @@
     <ClCompile Include="367_有效的完全平方数.cpp" />
     <ClCompile Include="36_有效的数独.cpp" />
     <ClCompile Include="371_两整数之和.cpp" />
+    <ClCompile Include="372_超级次方.cpp" />
     <ClCompile Include="375_猜数字大小_II.cpp" />
     <ClCompile Include="383_赎金信.cpp" />
     <ClCompile Include="384_打乱数组.cpp" />
