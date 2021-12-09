@@ -267,6 +267,9 @@
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="794_有效的井字游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

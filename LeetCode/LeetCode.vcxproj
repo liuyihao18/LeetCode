@@ -221,6 +221,7 @@
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="725_分隔链表.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
+    <ClCompile Include="794_有效的井字游戏.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
     <ClCompile Include="main.cpp" />
