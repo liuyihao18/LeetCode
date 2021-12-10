@@ -270,6 +270,9 @@
     <ClCompile Include="794_有效的井字游戏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="748_最短补全词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
