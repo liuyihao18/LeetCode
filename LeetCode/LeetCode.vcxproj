@@ -225,6 +225,7 @@
     <ClCompile Include="794_有效的井字游戏.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
+    <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />
   </ItemGroup>
