@@ -279,6 +279,9 @@
     <ClCompile Include="709_换成小写字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="807_保持城市天际线.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
