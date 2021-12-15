@@ -285,6 +285,9 @@
     <ClCompile Include="630_课程表_III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="851_喧闹和富有.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
