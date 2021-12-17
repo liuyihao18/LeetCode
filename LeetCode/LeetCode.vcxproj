@@ -146,6 +146,7 @@
     <ClCompile Include="1218_最长定差子序列.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
+    <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1610_可见点的最大数目.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
