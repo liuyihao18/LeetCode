@@ -294,6 +294,9 @@
     <ClCompile Include="1518_换酒问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="419_甲板上的战舰.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
