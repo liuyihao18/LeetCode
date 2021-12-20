@@ -196,6 +196,7 @@
     <ClCompile Include="441_排列硬币.cpp" />
     <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="458_可怜的小猪.cpp" />
+    <ClCompile Include="475_供暖器.cpp" />
     <ClCompile Include="476_数字的补数.cpp" />
     <ClCompile Include="482_密钥格式化.cpp" />
     <ClCompile Include="488_祖玛游戏.cpp" />

@@ -300,6 +300,9 @@
     <ClCompile Include="997_找到小镇的法官.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="475_供暖器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
