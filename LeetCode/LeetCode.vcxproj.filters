@@ -303,6 +303,9 @@
     <ClCompile Include="475_供暖器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1154_一年中的第几天.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
