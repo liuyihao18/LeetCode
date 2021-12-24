@@ -312,6 +312,9 @@
     <ClCompile Include="1044_最长重复子串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1705_吃苹果的最大数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

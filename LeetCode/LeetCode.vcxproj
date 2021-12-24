@@ -152,6 +152,7 @@
     <ClCompile Include="1610_可见点的最大数目.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
+    <ClCompile Include="1705_吃苹果的最大数目.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
