@@ -318,6 +318,9 @@
     <ClCompile Include="1609_奇偶树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1078_Bigram_分词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -144,6 +144,7 @@
     <ClCompile Include="1005_K次取反后最大化的数组和.cpp" />
     <ClCompile Include="1034_边界着色.cpp" />
     <ClCompile Include="1044_最长重复子串.cpp" />
+    <ClCompile Include="1078_Bigram_分词.cpp" />
     <ClCompile Include="1154_一年中的第几天.cpp" />
     <ClCompile Include="1218_最长定差子序列.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
