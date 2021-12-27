@@ -321,6 +321,9 @@
     <ClCompile Include="1078_Bigram_分词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="825_适龄的朋友.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

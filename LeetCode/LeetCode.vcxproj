@@ -236,6 +236,7 @@
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
     <ClCompile Include="794_有效的井字游戏.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
+    <ClCompile Include="825_适龄的朋友.cpp" />
     <ClCompile Include="851_喧闹和富有.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
