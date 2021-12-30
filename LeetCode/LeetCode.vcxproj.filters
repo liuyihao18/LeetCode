@@ -330,6 +330,9 @@
     <ClCompile Include="1995_统计特殊四元组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="846_一手顺子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
