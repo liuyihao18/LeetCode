@@ -333,6 +333,9 @@
     <ClCompile Include="846_一手顺子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="507_完美数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
