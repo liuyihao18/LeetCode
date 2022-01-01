@@ -158,6 +158,7 @@
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="1995_统计特殊四元组.cpp" />
+    <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />

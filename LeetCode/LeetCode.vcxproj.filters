@@ -336,6 +336,9 @@
     <ClCompile Include="507_完美数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2022_将一维数组转变成二维数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
