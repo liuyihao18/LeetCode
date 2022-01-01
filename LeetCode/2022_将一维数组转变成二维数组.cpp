@@ -10,6 +10,7 @@ public:
         if (original.size() != _SIZE(m) * _SIZE(n)) {
             return {};
         }
+        /*
         vector<vector<int>> result(m, vector<int>(n, 0));
         size_t k = 0;
         for (size_t i = 0; i < _SIZE(m); i++) {
@@ -17,6 +18,11 @@ public:
             for (size_t j = 0; j < _SIZE(n); j++) {
                 row[j] = original[k++];
             }
+        }
+        */
+        vector<vector<int>> result;
+        for (auto iter = original.begin(); iter != original.end(); iter += n) {
+            result.emplace_back(iter, iter + n);
         }
         return result;
     }
