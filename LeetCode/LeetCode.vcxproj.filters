@@ -342,6 +342,9 @@
     <ClCompile Include="390_消除游戏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1185_一周中的第几天.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
