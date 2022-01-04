@@ -19,6 +19,9 @@ class Solution {
             return -1;
         }
         // TODO: Хажи
+        if (n > 2 * static_cast<int>(graph.size())) {
+            return 0;
+        }
         // Mouse
         if (turn) {
             int mouse = state.mouse;
