@@ -2,7 +2,7 @@
 #include "custom.h"
 ustd
 
-/* 不会做 */
+/* alpha-beta剪枝 */
 class Solution {
     struct State{
         int mouse;
@@ -11,19 +11,57 @@ class Solution {
             return mouse < s.mouse || mouse == s.mouse && cat < s.cat;
         }
     };
+    int minimax(vector<vector<int>>& graph, State state, int turn, int n, int alpha, int beta) {
+        if (state.mouse == 0) {
+            return 1;
+        }
+        if (state.mouse == state.cat) {
+            return -1;
+        }
+        // TODO: 判重
+        // Mouse
+        if (turn) {
+            int mouse = state.mouse;
+            int val = INT_MIN;
+            for (auto to : graph[mouse]) {
+                State temp = state;
+                state.mouse = to;
+                val = max(val, minimax(graph, state, turn ^ 1, n + 1, alpha, beta));
+                if (val >= beta) {
+                    break;
+                }
+                alpha = max(alpha, val);
+            }
+            return val;
+        }
+        // Cat
+        else {
+            int cat = state.cat;
+            int val = INT_MAX;
+            for (auto to : graph[cat]) {
+                if (to == 0) {
+                    continue;
+                }
+                State temp = state;
+                state.cat = to;
+                val = min(val, minimax(graph, state, turn ^ 1, n + 1, alpha, beta));
+                if (val <= alpha) {
+                    break;
+                }
+                beta = min(val, beta);
+            }
+            return val;
+        }
+    }
 public:
     int catMouseGame(vector<vector<int>>& graph) {
-        set<State> visited;
         State init{ 1,2 };
-        queue<State> q;
-        q.push(init);
-        int turn = 1;
-        while (!q.empty()) {
-            State state = q.front();
-            q.pop();
-            if (visited.find(state) != visited.end()) {
-                continue;
-            }            
+        int result = minimax(graph, init, 1, 1, INT_MIN, INT_MAX);
+        if (result == -1) {
+            return 2;
+        }
+        else {
+            return result;
         }
     }
 };
