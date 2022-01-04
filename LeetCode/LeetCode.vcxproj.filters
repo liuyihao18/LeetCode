@@ -345,6 +345,9 @@
     <ClCompile Include="1185_一周中的第几天.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="913_猫和老鼠.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

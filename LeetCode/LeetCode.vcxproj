@@ -248,6 +248,7 @@
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
     <ClCompile Include="911_在线选举.cpp" />
+    <ClCompile Include="913_猫和老鼠.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />
