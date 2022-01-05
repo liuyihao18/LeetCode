@@ -348,6 +348,9 @@
     <ClCompile Include="913_猫和老鼠.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1576_替换所有的问号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
