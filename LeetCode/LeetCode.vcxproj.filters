@@ -357,6 +357,9 @@
     <ClCompile Include="1614_括号的最大嵌套深度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="89_格雷编码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
