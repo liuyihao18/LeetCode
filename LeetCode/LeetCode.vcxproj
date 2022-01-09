@@ -155,6 +155,7 @@
     <ClCompile Include="1609_奇偶树.cpp" />
     <ClCompile Include="1610_可见点的最大数目.cpp" />
     <ClCompile Include="1614_括号的最大嵌套深度.cpp" />
+    <ClCompile Include="1629_按键持续时间最长的键.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
