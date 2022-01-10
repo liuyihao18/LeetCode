@@ -179,6 +179,7 @@
     <ClCompile Include="299_猜数字游戏.cpp" />
     <ClCompile Include="29_两数相除.cpp" />
     <ClCompile Include="301_删除无效的括号.cpp" />
+    <ClCompile Include="306_累加数.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
