@@ -372,6 +372,9 @@
     <ClCompile Include="334_递增的三元子序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="747_至少是其他数字两倍的最大数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
