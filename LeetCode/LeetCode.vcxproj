@@ -149,6 +149,7 @@
     <ClCompile Include="1154_一年中的第几天.cpp" />
     <ClCompile Include="1185_一周中的第几天.cpp" />
     <ClCompile Include="1218_最长定差子序列.cpp" />
+    <ClCompile Include="1220_统计元音字母序列的数目.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
