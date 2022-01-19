@@ -168,6 +168,7 @@
     <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
+    <ClCompile Include="219_存在重复元素_II.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />

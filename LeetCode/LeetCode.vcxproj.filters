@@ -390,6 +390,9 @@
     <ClCompile Include="539_最小时间差.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="219_存在重复元素_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
