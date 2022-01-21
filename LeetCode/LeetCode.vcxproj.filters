@@ -396,6 +396,9 @@
     <ClCompile Include="2029_石子游戏_IX.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1345_跳跃游戏_IV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
