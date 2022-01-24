@@ -170,6 +170,7 @@
     <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />
     <ClCompile Include="2029_石子游戏_IX.cpp" />
     <ClCompile Include="2034_股票价格波动.cpp" />
+    <ClCompile Include="2045_到达目的地的第二短时间.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="219_存在重复元素_II.cpp" />
