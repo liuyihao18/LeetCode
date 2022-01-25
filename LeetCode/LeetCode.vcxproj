@@ -162,6 +162,7 @@
     <ClCompile Include="1629_按键持续时间最长的键.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
+    <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
     <ClCompile Include="1716_计算力扣银行的钱.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />

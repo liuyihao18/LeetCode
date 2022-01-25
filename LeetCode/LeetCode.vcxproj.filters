@@ -408,6 +408,9 @@
     <ClCompile Include="2045_到达目的地的第二短时间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1688_比赛中的配对次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
