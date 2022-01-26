@@ -411,6 +411,9 @@
     <ClCompile Include="1688_比赛中的配对次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2013_检测正方形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
