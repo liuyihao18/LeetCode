@@ -414,6 +414,9 @@
     <ClCompile Include="2013_检测正方形.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2047_句子中的有效单词数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
