@@ -420,6 +420,9 @@
     <ClCompile Include="1996_游戏中弱角色的数量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1765_地图中的最高点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

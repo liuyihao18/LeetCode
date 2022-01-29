@@ -165,6 +165,7 @@
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
     <ClCompile Include="1716_计算力扣银行的钱.cpp" />
+    <ClCompile Include="1765_地图中的最高点.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="1995_统计特殊四元组.cpp" />
