@@ -271,6 +271,7 @@
     <ClCompile Include="851_喧闹和富有.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
+    <ClCompile Include="884_两句话中的不常见单词.cpp" />
     <ClCompile Include="89_格雷编码.cpp" />
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />

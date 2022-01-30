@@ -423,6 +423,9 @@
     <ClCompile Include="1765_地图中的最高点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="884_两句话中的不常见单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
