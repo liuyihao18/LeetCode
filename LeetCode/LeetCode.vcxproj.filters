@@ -426,6 +426,9 @@
     <ClCompile Include="884_两句话中的不常见单词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1342_将数字变成0的操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
