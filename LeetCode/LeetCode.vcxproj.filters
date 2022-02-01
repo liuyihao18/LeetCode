@@ -429,6 +429,9 @@
     <ClCompile Include="1342_将数字变成0的操作次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1763_最长的美好子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
