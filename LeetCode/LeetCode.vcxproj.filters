@@ -432,6 +432,9 @@
     <ClCompile Include="1763_最长的美好子字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2000_反转单词前缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
