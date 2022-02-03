@@ -435,6 +435,9 @@
     <ClCompile Include="2000_反转单词前缀.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1414_和为K的最少斐波那契数字数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

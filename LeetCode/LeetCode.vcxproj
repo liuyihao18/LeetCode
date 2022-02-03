@@ -153,6 +153,7 @@
     <ClCompile Include="1332_删除回文子序列.cpp" />
     <ClCompile Include="1342_将数字变成0的操作次数.cpp" />
     <ClCompile Include="1345_跳跃游戏_IV.cpp" />
+    <ClCompile Include="1414_和为K的最少斐波那契数字数目.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
