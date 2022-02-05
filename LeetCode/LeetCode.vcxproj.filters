@@ -441,6 +441,9 @@
     <ClCompile Include="1725_可以形成最大正方形的矩形数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1219_黄金矿工.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
