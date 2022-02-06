@@ -444,6 +444,9 @@
     <ClCompile Include="1219_黄金矿工.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1748_唯一元素的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
