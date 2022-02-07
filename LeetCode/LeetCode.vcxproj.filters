@@ -447,6 +447,9 @@
     <ClCompile Include="1748_唯一元素的和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1405_最长快乐字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
