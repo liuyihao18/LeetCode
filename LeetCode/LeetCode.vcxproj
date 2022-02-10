@@ -159,6 +159,7 @@
     <ClCompile Include="1414_和为K的最少斐波那契数字数目.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
+    <ClCompile Include="1447_最简分数.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1609_奇偶树.cpp" />

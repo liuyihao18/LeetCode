@@ -456,6 +456,9 @@
     <ClCompile Include="2006_差的绝对值为K的数对数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1447_最简分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
