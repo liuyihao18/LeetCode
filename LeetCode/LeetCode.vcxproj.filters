@@ -462,6 +462,9 @@
     <ClCompile Include="1984_学生分数的最小差值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1020_飞地的数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
