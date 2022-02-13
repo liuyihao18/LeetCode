@@ -150,6 +150,7 @@
     <ClCompile Include="1078_Bigram_分词.cpp" />
     <ClCompile Include="1154_一年中的第几天.cpp" />
     <ClCompile Include="1185_一周中的第几天.cpp" />
+    <ClCompile Include="1189_“气球”的最大数量.cpp" />
     <ClCompile Include="1218_最长定差子序列.cpp" />
     <ClCompile Include="1219_黄金矿工.cpp" />
     <ClCompile Include="1220_统计元音字母序列的数目.cpp" />
