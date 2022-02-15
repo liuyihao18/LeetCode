@@ -157,6 +157,7 @@
     <ClCompile Include="1332_删除回文子序列.cpp" />
     <ClCompile Include="1342_将数字变成0的操作次数.cpp" />
     <ClCompile Include="1345_跳跃游戏_IV.cpp" />
+    <ClCompile Include="1380_矩阵中的幸运数.cpp" />
     <ClCompile Include="1405_最长快乐字符串.cpp" />
     <ClCompile Include="1414_和为K的最少斐波那契数字数目.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />

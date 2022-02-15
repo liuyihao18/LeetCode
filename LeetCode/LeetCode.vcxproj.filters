@@ -471,6 +471,9 @@
     <ClCompile Include="540_有序数组中的单一元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1380_矩阵中的幸运数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
