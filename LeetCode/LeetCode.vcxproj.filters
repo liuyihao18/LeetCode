@@ -474,6 +474,9 @@
     <ClCompile Include="1380_矩阵中的幸运数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1719_重构一棵树的方案数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
