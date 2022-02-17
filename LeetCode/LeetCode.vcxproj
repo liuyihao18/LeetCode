@@ -273,6 +273,7 @@
     <ClCompile Include="673_最长递增子序列的个数.cpp" />
     <ClCompile Include="677_键值映射.cpp" />
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
+    <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />

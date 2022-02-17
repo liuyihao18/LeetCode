@@ -477,6 +477,9 @@
     <ClCompile Include="1719_重构一棵树的方案数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="688_骑士在棋盘上的概率.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
