@@ -294,6 +294,7 @@
     <ClCompile Include="89_格雷编码.cpp" />
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />
+    <ClCompile Include="969_煎饼排序.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />

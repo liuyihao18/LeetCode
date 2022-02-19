@@ -483,6 +483,9 @@
     <ClCompile Include="1791_找出星型图的中心节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="969_煎饼排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
