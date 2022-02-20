@@ -278,6 +278,7 @@
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
+    <ClCompile Include="717_1比特与2比特字符.cpp" />
     <ClCompile Include="71_简化路径.cpp" />
     <ClCompile Include="725_分隔链表.cpp" />
     <ClCompile Include="747_至少是其他数字两倍的最大数.cpp" />
