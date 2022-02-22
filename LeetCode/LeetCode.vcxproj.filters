@@ -492,6 +492,9 @@
     <ClCompile Include="838_推多米诺.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1994_好子集的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

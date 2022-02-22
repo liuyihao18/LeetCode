@@ -183,6 +183,7 @@
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="1984_学生分数的最小差值.cpp" />
+    <ClCompile Include="1994_好子集的数目.cpp" />
     <ClCompile Include="1995_统计特殊四元组.cpp" />
     <ClCompile Include="1996_游戏中弱角色的数量.cpp" />
     <ClCompile Include="2000_反转单词前缀.cpp" />
