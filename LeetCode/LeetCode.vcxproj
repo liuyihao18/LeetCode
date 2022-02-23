@@ -297,6 +297,7 @@
     <ClCompile Include="89_格雷编码.cpp" />
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />
+    <ClCompile Include="917_仅仅反转字母.cpp" />
     <ClCompile Include="969_煎饼排序.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="main.cpp" />
