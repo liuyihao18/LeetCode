@@ -498,6 +498,9 @@
     <ClCompile Include="917_仅仅反转字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1706_球会落何处.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
