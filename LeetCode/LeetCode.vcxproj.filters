@@ -501,6 +501,9 @@
     <ClCompile Include="1706_球会落何处.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="537_复数乘法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
