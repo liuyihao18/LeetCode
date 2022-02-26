@@ -504,6 +504,9 @@
     <ClCompile Include="537_复数乘法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2016_增量元素之间的最大差值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
