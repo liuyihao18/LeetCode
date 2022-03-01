@@ -282,6 +282,7 @@
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
+    <ClCompile Include="6_Z字形变换.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
     <ClCompile Include="717_1比特与2比特字符.cpp" />
