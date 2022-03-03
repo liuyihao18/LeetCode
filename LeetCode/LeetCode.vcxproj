@@ -205,6 +205,7 @@
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
+    <ClCompile Include="258_各位相加.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
     <ClCompile Include="268_丢失的数字.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
