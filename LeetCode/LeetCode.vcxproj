@@ -197,6 +197,7 @@
     <ClCompile Include="2034_股票价格波动.cpp" />
     <ClCompile Include="2045_到达目的地的第二短时间.cpp" />
     <ClCompile Include="2047_句子中的有效单词数.cpp" />
+    <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />

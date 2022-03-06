@@ -528,6 +528,9 @@
     <ClCompile Include="521_最长特殊序列_Ⅰ.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2100_适合打劫银行的日子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
