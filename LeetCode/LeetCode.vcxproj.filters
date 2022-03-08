@@ -531,6 +531,12 @@
     <ClCompile Include="2100_适合打劫银行的日子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="504_七进制数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2055_蜡烛之间的盘子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

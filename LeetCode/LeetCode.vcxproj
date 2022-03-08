@@ -197,6 +197,7 @@
     <ClCompile Include="2034_股票价格波动.cpp" />
     <ClCompile Include="2045_到达目的地的第二短时间.cpp" />
     <ClCompile Include="2047_句子中的有效单词数.cpp" />
+    <ClCompile Include="2055_蜡烛之间的盘子.cpp" />
     <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
@@ -259,6 +260,7 @@
     <ClCompile Include="495_提莫攻击.cpp" />
     <ClCompile Include="496_下一个更大元素_I.cpp" />
     <ClCompile Include="500_键盘行.cpp" />
+    <ClCompile Include="504_七进制数.cpp" />
     <ClCompile Include="506_相对名次.cpp" />
     <ClCompile Include="507_完美数.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
