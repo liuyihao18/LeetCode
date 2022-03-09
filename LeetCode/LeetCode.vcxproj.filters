@@ -537,9 +537,13 @@
     <ClCompile Include="2055_蜡烛之间的盘子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="798_得分最高的最小轮调.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
+    <None Include="798_得分最高的最小轮调.cp" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="头文件">

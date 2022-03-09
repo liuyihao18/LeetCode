@@ -299,6 +299,7 @@
     <ClCompile Include="748_最短补全词.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
     <ClCompile Include="794_有效的井字游戏.cpp" />
+    <ClCompile Include="798_得分最高的最小轮调.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
     <ClCompile Include="825_适龄的朋友.cpp" />
     <ClCompile Include="838_推多米诺.cpp" />
@@ -320,6 +321,7 @@
     <ClInclude Include="custom.h" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="798_得分最高的最小轮调.cp" />
     <None Include="cpp.hint" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
