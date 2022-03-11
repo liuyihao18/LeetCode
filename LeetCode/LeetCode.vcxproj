@@ -197,6 +197,7 @@
     <ClCompile Include="2034_股票价格波动.cpp" />
     <ClCompile Include="2045_到达目的地的第二短时间.cpp" />
     <ClCompile Include="2047_句子中的有效单词数.cpp" />
+    <ClCompile Include="2049_统计最高分的节点数目.cpp" />
     <ClCompile Include="2055_蜡烛之间的盘子.cpp" />
     <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
