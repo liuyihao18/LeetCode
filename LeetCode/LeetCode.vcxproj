@@ -238,6 +238,7 @@
     <ClCompile Include="38_外观数列.cpp" />
     <ClCompile Include="390_消除游戏.cpp" />
     <ClCompile Include="391_完美矩形.cpp" />
+    <ClCompile Include="393_UTF-8编码验证.cpp" />
     <ClCompile Include="397_整数替换.cpp" />
     <ClCompile Include="400_第N位数字.cpp" />
     <ClCompile Include="405_数字转换为十六进制数.cpp" />
