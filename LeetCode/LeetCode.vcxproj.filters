@@ -552,6 +552,9 @@
     <ClCompile Include="393_UTF-8编码验证.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="599_两个列表的最小索引总和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
