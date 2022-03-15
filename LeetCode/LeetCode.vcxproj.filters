@@ -555,6 +555,9 @@
     <ClCompile Include="599_两个列表的最小索引总和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2044_统计按位或能得到最大值的子集数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
