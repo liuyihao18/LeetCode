@@ -561,6 +561,9 @@
     <ClCompile Include="432_全O(1)的数据结构.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="720_词典中最长的单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
