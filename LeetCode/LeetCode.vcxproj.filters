@@ -567,6 +567,9 @@
     <ClCompile Include="2043_简易银行系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="606_根据二叉树创建字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
