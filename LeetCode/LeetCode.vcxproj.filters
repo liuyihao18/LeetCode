@@ -573,6 +573,9 @@
     <ClCompile Include="2039_网络空闲的时刻.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="653_两数之和 IV - 输入 BST.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
