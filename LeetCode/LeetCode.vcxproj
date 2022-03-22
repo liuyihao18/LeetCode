@@ -195,6 +195,7 @@
     <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />
     <ClCompile Include="2029_石子游戏_IX.cpp" />
     <ClCompile Include="2034_股票价格波动.cpp" />
+    <ClCompile Include="2038_如果相邻两个颜色均相同则删除当前颜色.cpp" />
     <ClCompile Include="2039_网络空闲的时刻.cpp" />
     <ClCompile Include="2043_简易银行系统.cpp" />
     <ClCompile Include="2044_统计按位或能得到最大值的子集数目.cpp" />
