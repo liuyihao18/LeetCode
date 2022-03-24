@@ -579,7 +579,11 @@
     <ClCompile Include="2038_如果相邻两个颜色均相同则删除当前颜色.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="661_图片平滑器.cpp">
+=======
+    <ClCompile Include="440_字典序的第K小数字.cpp">
+>>>>>>> 22fdbd0f07a56f01ee6db1eccaada6bb10b731c2
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

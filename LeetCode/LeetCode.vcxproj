@@ -255,6 +255,7 @@
     <ClCompile Include="432_全O(1)的数据结构.cpp" />
     <ClCompile Include="434_字符串中的单词数.cpp" />
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
+    <ClCompile Include="440_字典序的第K小数字.cpp" />
     <ClCompile Include="441_排列硬币.cpp" />
     <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="458_可怜的小猪.cpp" />
