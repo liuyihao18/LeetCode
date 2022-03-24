@@ -588,7 +588,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
-    <None Include="798_得分最高的最小轮调.cp" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="头文件">

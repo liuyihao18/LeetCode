@@ -336,7 +336,6 @@
     <ClInclude Include="custom.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="798_得分最高的最小轮调.cp" />
     <None Include="cpp.hint" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
