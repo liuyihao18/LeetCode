@@ -579,6 +579,9 @@
     <ClCompile Include="2038_如果相邻两个颜色均相同则删除当前颜色.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="661_图片平滑器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
