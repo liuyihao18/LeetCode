@@ -585,6 +585,9 @@
     <ClCompile Include="440_字典序的第K小数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="172_阶乘后的零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
