@@ -194,6 +194,7 @@
     <ClCompile Include="2013_检测正方形.cpp" />
     <ClCompile Include="2016_增量元素之间的最大差值.cpp" />
     <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />
+    <ClCompile Include="2028_找出缺失的观测数据.cpp" />
     <ClCompile Include="2029_石子游戏_IX.cpp" />
     <ClCompile Include="2034_股票价格波动.cpp" />
     <ClCompile Include="2038_如果相邻两个颜色均相同则删除当前颜色.cpp" />
@@ -304,6 +305,7 @@
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
+    <ClCompile Include="693_交替位二进制数.cpp" />
     <ClCompile Include="6_Z字形变换.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />

@@ -588,6 +588,12 @@
     <ClCompile Include="172_阶乘后的零.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="693_交替位二进制数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2028_找出缺失的观测数据.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
