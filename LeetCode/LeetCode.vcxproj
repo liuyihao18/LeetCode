@@ -194,6 +194,7 @@
     <ClCompile Include="2013_检测正方形.cpp" />
     <ClCompile Include="2016_增量元素之间的最大差值.cpp" />
     <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />
+    <ClCompile Include="2024_考试的最大困扰度.cpp" />
     <ClCompile Include="2028_找出缺失的观测数据.cpp" />
     <ClCompile Include="2029_石子游戏_IX.cpp" />
     <ClCompile Include="2034_股票价格波动.cpp" />
