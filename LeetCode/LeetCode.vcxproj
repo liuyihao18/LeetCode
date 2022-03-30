@@ -166,6 +166,7 @@
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />
+    <ClCompile Include="1606_找到处理最多请求的服务器.cpp" />
     <ClCompile Include="1609_奇偶树.cpp" />
     <ClCompile Include="1610_可见点的最大数目.cpp" />
     <ClCompile Include="1614_括号的最大嵌套深度.cpp" />
