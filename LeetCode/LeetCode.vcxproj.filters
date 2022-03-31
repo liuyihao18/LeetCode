@@ -597,6 +597,9 @@
     <ClCompile Include="2024_考试的最大困扰度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="728_自除数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
