@@ -600,6 +600,9 @@
     <ClCompile Include="728_自除数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1606_找到处理最多请求的服务器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
