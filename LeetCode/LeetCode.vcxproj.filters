@@ -606,6 +606,12 @@
     <ClCompile Include="954_二倍数对数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="420_强密码检验器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="744_寻找比目标字母大的最小字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
