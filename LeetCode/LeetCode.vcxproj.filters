@@ -612,6 +612,9 @@
     <ClCompile Include="744_寻找比目标字母大的最小字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="307_区域和检索 - 数组可修改.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
