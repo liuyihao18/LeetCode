@@ -615,6 +615,9 @@
     <ClCompile Include="307_区域和检索 - 数组可修改.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="762_二进制表示中质数个计算置位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
