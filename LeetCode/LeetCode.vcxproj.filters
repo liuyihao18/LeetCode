@@ -618,6 +618,9 @@
     <ClCompile Include="762_二进制表示中质数个计算置位.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="310_最小高度树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
