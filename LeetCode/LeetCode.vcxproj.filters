@@ -621,6 +621,9 @@
     <ClCompile Include="310_最小高度树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="796_旋转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
