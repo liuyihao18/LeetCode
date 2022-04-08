@@ -5,7 +5,7 @@ ustd
 // Definition for a Node.
 class Node {
 public:
-    int val;
+    int val{ 0 };
     vector<Node*> children;
 
     Node() {}
