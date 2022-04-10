@@ -630,6 +630,9 @@
     <ClCompile Include="780_到达终点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="804_唯一摩尔斯密码词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
