@@ -639,6 +639,9 @@
     <ClCompile Include="806_写字符串需要的行数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1672_最富有客户的资产总量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

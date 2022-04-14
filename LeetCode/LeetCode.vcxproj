@@ -173,6 +173,7 @@
     <ClCompile Include="1629_按键持续时间最长的键.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
+    <ClCompile Include="1672_最富有客户的资产总量.cpp" />
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
     <ClCompile Include="1706_球会落何处.cpp" />
