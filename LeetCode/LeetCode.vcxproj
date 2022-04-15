@@ -248,6 +248,7 @@
     <ClCompile Include="382_链表随机节点.cpp" />
     <ClCompile Include="383_赎金信.cpp" />
     <ClCompile Include="384_打乱数组.cpp" />
+    <ClCompile Include="385_迷你语法分析器.cpp" />
     <ClCompile Include="38_外观数列.cpp" />
     <ClCompile Include="390_消除游戏.cpp" />
     <ClCompile Include="391_完美矩形.cpp" />

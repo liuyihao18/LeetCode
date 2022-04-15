@@ -645,6 +645,9 @@
     <ClCompile Include="380_O%281%29 时间插入、删除和获取随机元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="385_迷你语法分析器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
