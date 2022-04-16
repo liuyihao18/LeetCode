@@ -648,6 +648,9 @@
     <ClCompile Include="385_迷你语法分析器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="479_最大回文数乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
