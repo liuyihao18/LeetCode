@@ -657,6 +657,9 @@
     <ClCompile Include="386_字典序排数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="821_字符的最短距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

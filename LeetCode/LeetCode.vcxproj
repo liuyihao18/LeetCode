@@ -339,6 +339,7 @@
     <ClCompile Include="806_写字符串需要的行数.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
     <ClCompile Include="819_最常见的单词.cpp" />
+    <ClCompile Include="821_字符的最短距离.cpp" />
     <ClCompile Include="825_适龄的朋友.cpp" />
     <ClCompile Include="838_推多米诺.cpp" />
     <ClCompile Include="846_一手顺子.cpp" />
