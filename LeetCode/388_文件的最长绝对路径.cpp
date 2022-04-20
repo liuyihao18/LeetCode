@@ -5,9 +5,9 @@ ustd
 class Solution {
 public:
     int lengthLongestPath(string input) {
-        stack<string> paths;
-        paths.push("");
-        int result = 1;
+        stack<int> st;
+        st.push(-1);
+        int result = 0;
 
         string name;
         int last_count = -1;
@@ -29,15 +29,15 @@ public:
                     i++;
                 }
                 for (int i = 0; i <= last_count - count; i++) {
-                    paths.pop();
+                    st.pop();
                 }
-                string path = paths.top() + "/" + name;
+                int path_len = st.top() + 1 + static_cast<int>(name.size());
                 if (name.find(".") != string::npos) {
-                    result = max(result, static_cast<int>(path.size()));
+                    result = max(result, path_len);
                 }
-                paths.push(path);
+                st.push(path_len);
             }
         }
-        return --result;
+        return result;
     }
 };
