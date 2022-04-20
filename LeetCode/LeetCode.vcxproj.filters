@@ -660,6 +660,9 @@
     <ClCompile Include="821_字符的最短距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="388_文件的最长绝对路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
