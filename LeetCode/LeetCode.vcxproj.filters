@@ -669,6 +669,9 @@
     <ClCompile Include="396_旋转函数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="587_安装栅栏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
