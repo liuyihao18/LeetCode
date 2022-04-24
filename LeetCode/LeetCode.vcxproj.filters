@@ -672,6 +672,9 @@
     <ClCompile Include="587_安装栅栏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="868_二进制间距.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
