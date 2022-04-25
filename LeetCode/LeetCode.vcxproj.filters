@@ -675,6 +675,9 @@
     <ClCompile Include="868_二进制间距.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="398_随机数索引.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

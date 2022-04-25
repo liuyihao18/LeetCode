@@ -257,6 +257,7 @@
     <ClCompile Include="393_UTF-8编码验证.cpp" />
     <ClCompile Include="396_旋转函数.cpp" />
     <ClCompile Include="397_整数替换.cpp" />
+    <ClCompile Include="398_随机数索引.cpp" />
     <ClCompile Include="400_第N位数字.cpp" />
     <ClCompile Include="405_数字转换为十六进制数.cpp" />
     <ClCompile Include="407_接雨水_II.cpp" />
