@@ -678,6 +678,9 @@
     <ClCompile Include="398_随机数索引.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="883_三维形体投影面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
