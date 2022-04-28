@@ -19,7 +19,7 @@ public:
                 swap(nums[i], nums[j]);
             }
         }
-        partition(nums.begin(), nums.end(), [](int x) { return (x & 1) == 0; });
+        // partition(nums.begin(), nums.end(), [](int x) { return (x & 1) == 0; });
         return nums;
     }
 };
