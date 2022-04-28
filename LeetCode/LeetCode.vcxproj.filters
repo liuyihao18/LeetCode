@@ -684,6 +684,9 @@
     <ClCompile Include="417_太平洋大西洋水流问题.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="905_按奇偶排序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
