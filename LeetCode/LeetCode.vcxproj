@@ -267,6 +267,7 @@
     <ClCompile Include="419_甲板上的战舰.cpp" />
     <ClCompile Include="420_强密码检验器.cpp" />
     <ClCompile Include="423_从英文中重建数字.cpp" />
+    <ClCompile Include="427_建立四叉树.cpp" />
     <ClCompile Include="429_N叉树的层序遍历.cpp" />
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
     <ClCompile Include="432_全O(1)的数据结构.cpp" />

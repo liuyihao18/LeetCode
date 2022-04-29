@@ -687,6 +687,9 @@
     <ClCompile Include="905_按奇偶排序数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="427_建立四叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
