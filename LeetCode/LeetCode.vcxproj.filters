@@ -699,6 +699,9 @@
     <ClCompile Include="591_标签验证器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="937_重新排列日志文件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
