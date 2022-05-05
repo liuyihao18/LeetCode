@@ -14,7 +14,7 @@ public:
                 prod /= nums[i];
                 i++;
             }
-            result += j - i + 1;
+            result += static_cast<int>(j - i + 1);
         }
         return result;
     }

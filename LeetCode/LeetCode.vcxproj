@@ -330,6 +330,7 @@
     <ClCompile Include="6_Z字形变换.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
+    <ClCompile Include="713_乘积小于K的子数组.cpp" />
     <ClCompile Include="717_1比特与2比特字符.cpp" />
     <ClCompile Include="71_简化路径.cpp" />
     <ClCompile Include="720_词典中最长的单词.cpp" />
@@ -377,7 +378,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="682_棒球比赛.cpp" />
-    <None Include="713_乘积小于K的子数组.cpp" />
     <None Include="cpp.hint" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

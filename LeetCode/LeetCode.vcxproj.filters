@@ -705,13 +705,13 @@
     <ClCompile Include="1823_找出游戏的获胜者.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="713_乘积小于K的子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
     <None Include="682_棒球比赛.cpp">
-      <Filter>源文件</Filter>
-    </None>
-    <None Include="713_乘积小于K的子数组.cpp">
       <Filter>源文件</Filter>
     </None>
   </ItemGroup>
