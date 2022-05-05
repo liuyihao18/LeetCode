@@ -377,6 +377,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="682_棒球比赛.cpp" />
+    <None Include="713_乘积小于K的子数组.cpp" />
     <None Include="cpp.hint" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

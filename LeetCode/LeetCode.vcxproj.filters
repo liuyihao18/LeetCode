@@ -711,6 +711,9 @@
     <None Include="682_棒球比赛.cpp">
       <Filter>源文件</Filter>
     </None>
+    <None Include="713_乘积小于K的子数组.cpp">
+      <Filter>源文件</Filter>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="头文件">
