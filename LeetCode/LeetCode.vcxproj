@@ -273,6 +273,7 @@
     <ClCompile Include="429_N叉树的层序遍历.cpp" />
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
     <ClCompile Include="432_全O(1)的数据结构.cpp" />
+    <ClCompile Include="433_最小基因变化.cpp" />
     <ClCompile Include="434_字符串中的单词数.cpp" />
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
     <ClCompile Include="440_字典序的第K小数字.cpp" />
@@ -366,6 +367,7 @@
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />
     <ClCompile Include="917_仅仅反转字母.cpp" />
+    <ClCompile Include="933_最近的请求次数.cpp" />
     <ClCompile Include="937_重新排列日志文件.cpp" />
     <ClCompile Include="954_二倍数对数组.cpp" />
     <ClCompile Include="969_煎饼排序.cpp" />

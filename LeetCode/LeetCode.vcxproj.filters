@@ -708,6 +708,12 @@
     <ClCompile Include="713_乘积小于K的子数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="933_最近的请求次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="433_最小基因变化.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
