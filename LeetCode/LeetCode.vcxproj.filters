@@ -714,6 +714,9 @@
     <ClCompile Include="433_最小基因变化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="442_数组中重复的数据.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
