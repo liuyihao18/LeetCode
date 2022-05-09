@@ -717,6 +717,9 @@
     <ClCompile Include="442_数组中重复的数据.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="942_增减字符串匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
