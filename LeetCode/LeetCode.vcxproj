@@ -181,6 +181,7 @@
     <ClCompile Include="1716_计算力扣银行的钱.cpp" />
     <ClCompile Include="1719_重构一棵树的方案数.cpp" />
     <ClCompile Include="1725_可以形成最大正方形的矩形数目.cpp" />
+    <ClCompile Include="1728_猫和老鼠_II.cpp" />
     <ClCompile Include="172_阶乘后的零.cpp" />
     <ClCompile Include="1748_唯一元素的和.cpp" />
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
@@ -279,6 +280,7 @@
     <ClCompile Include="440_字典序的第K小数字.cpp" />
     <ClCompile Include="441_排列硬币.cpp" />
     <ClCompile Include="442_数组中重复的数据.cpp" />
+    <ClCompile Include="449_序列化和反序列化二叉搜索树.cpp" />
     <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="458_可怜的小猪.cpp" />
     <ClCompile Include="472_连接词.cpp" />

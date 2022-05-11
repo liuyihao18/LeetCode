@@ -720,6 +720,12 @@
     <ClCompile Include="942_增减字符串匹配.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1728_猫和老鼠_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="449_序列化和反序列化二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
