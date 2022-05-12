@@ -373,6 +373,7 @@
     <ClCompile Include="933_最近的请求次数.cpp" />
     <ClCompile Include="937_重新排列日志文件.cpp" />
     <ClCompile Include="942_增减字符串匹配.cpp" />
+    <ClCompile Include="944_删列造序.cpp" />
     <ClCompile Include="954_二倍数对数组.cpp" />
     <ClCompile Include="969_煎饼排序.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
