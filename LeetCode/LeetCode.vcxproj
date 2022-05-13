@@ -379,6 +379,7 @@
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />
+    <ClCompile Include="面试题_01_05_一次编辑.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h" />
