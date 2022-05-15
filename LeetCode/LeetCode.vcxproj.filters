@@ -735,6 +735,9 @@
     <ClCompile Include="691_贴纸拼词.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="812_最大三角形面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
