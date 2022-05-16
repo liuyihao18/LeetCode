@@ -738,6 +738,9 @@
     <ClCompile Include="812_最大三角形面积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="面试题_04_06_后继者.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
