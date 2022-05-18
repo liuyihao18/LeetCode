@@ -744,6 +744,9 @@
     <ClCompile Include="953_验证外星语词典.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="668_乘法表中第k小的数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
