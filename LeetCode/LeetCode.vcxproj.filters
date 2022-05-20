@@ -747,6 +747,12 @@
     <ClCompile Include="668_乘法表中第k小的数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="462_最少移动次数使数组元素相等_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="436_寻找右区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
