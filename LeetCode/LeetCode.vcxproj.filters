@@ -753,6 +753,9 @@
     <ClCompile Include="436_寻找右区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="961_在长度2N的数组中找出重复N次的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
