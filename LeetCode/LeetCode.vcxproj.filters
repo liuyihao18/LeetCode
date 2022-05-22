@@ -756,6 +756,9 @@
     <ClCompile Include="961_在长度2N的数组中找出重复N次的元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="464_我能赢吗.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
