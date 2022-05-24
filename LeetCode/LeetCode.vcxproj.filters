@@ -762,6 +762,9 @@
     <ClCompile Include="675_为高尔夫比赛砍树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="965_单值二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

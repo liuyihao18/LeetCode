@@ -384,6 +384,7 @@
     <ClCompile Include="953_验证外星语词典.cpp" />
     <ClCompile Include="954_二倍数对数组.cpp" />
     <ClCompile Include="961_在长度2N的数组中找出重复N次的元素.cpp" />
+    <ClCompile Include="965_单值二叉树.cpp" />
     <ClCompile Include="969_煎饼排序.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="main.cpp" />
