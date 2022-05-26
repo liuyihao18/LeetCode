@@ -338,6 +338,7 @@
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
     <ClCompile Include="691_贴纸拼词.cpp" />
     <ClCompile Include="693_交替位二进制数.cpp" />
+    <ClCompile Include="699_掉落的方块cpp.cpp" />
     <ClCompile Include="6_Z字形变换.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
