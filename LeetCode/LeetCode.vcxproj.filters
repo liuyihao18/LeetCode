@@ -774,6 +774,9 @@
     <ClCompile Include="面试题_17_11_单词距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1021_删除最外层的括号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
