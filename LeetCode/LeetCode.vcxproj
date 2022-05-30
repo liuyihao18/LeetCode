@@ -145,6 +145,7 @@
     <ClCompile Include="1005_K次取反后最大化的数组和.cpp" />
     <ClCompile Include="1020_飞地的数量.cpp" />
     <ClCompile Include="1021_删除最外层的括号.cpp" />
+    <ClCompile Include="1022_从根到叶的二进制数之和.cpp" />
     <ClCompile Include="1034_边界着色.cpp" />
     <ClCompile Include="1036_逃离大迷宫.cpp" />
     <ClCompile Include="1044_最长重复子串.cpp" />
