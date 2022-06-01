@@ -291,6 +291,7 @@
     <ClCompile Include="467_环绕字符串中唯一的子字符串.cpp" />
     <ClCompile Include="468_验证IP地址.cpp" />
     <ClCompile Include="472_连接词.cpp" />
+    <ClCompile Include="473_火柴拼正方形.cpp" />
     <ClCompile Include="475_供暖器.cpp" />
     <ClCompile Include="476_数字的补数.cpp" />
     <ClCompile Include="479_最大回文数乘积.cpp" />
