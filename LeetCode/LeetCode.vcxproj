@@ -284,6 +284,7 @@
     <ClCompile Include="441_排列硬币.cpp" />
     <ClCompile Include="442_数组中重复的数据.cpp" />
     <ClCompile Include="449_序列化和反序列化二叉搜索树.cpp" />
+    <ClCompile Include="450_删除二叉搜索树中的节点.cpp" />
     <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="458_可怜的小猪.cpp" />
     <ClCompile Include="462_最少移动次数使数组元素相等_II.cpp" />
