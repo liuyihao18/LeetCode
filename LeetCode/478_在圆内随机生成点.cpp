@@ -17,7 +17,7 @@ public:
 
     vector<double> randPoint() {
         double phi = dis(gen) * 2 * PI;
-        double rho = sqrt(dis(gen)) * radius;
+        double rho = sqrt(dis(gen)) * radius; // 注意根号，点的密度和半径不成正比
         return { x_center + rho * cos(phi), y_center + rho * sin(phi) };
     }
 };
