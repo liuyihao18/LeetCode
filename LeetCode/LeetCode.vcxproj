@@ -354,6 +354,7 @@
     <ClCompile Include="720_词典中最长的单词.cpp" />
     <ClCompile Include="725_分隔链表.cpp" />
     <ClCompile Include="728_自除数.cpp" />
+    <ClCompile Include="732_我的日程安排表_III.cpp" />
     <ClCompile Include="744_寻找比目标字母大的最小字母.cpp" />
     <ClCompile Include="747_至少是其他数字两倍的最大数.cpp" />
     <ClCompile Include="748_最短补全词.cpp" />

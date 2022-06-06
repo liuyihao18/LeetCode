@@ -801,6 +801,9 @@
     <ClCompile Include="478_在圆内随机生成点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="732_我的日程安排表_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
