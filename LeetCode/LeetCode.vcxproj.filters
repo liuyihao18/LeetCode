@@ -807,6 +807,9 @@
     <ClCompile Include="875_爱吃香蕉的珂珂.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1037_有效的回旋镖.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
