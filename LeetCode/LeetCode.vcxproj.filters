@@ -810,6 +810,9 @@
     <ClCompile Include="1037_有效的回旋镖.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="497_非重叠矩形中的随机点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -303,6 +303,7 @@
     <ClCompile Include="492_构造矩形.cpp" />
     <ClCompile Include="495_提莫攻击.cpp" />
     <ClCompile Include="496_下一个更大元素_I.cpp" />
+    <ClCompile Include="497_非重叠矩形中的随机点.cpp" />
     <ClCompile Include="500_键盘行.cpp" />
     <ClCompile Include="504_七进制数.cpp" />
     <ClCompile Include="506_相对名次.cpp" />
