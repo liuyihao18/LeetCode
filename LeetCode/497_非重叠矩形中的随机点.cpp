@@ -4,7 +4,7 @@
 ustd
 
 /*
-* 似乎这种写法取点的概率并不平均，但我也不知道为什么
+* 这种写法取点概率并不平均，应该只使用一个面积均匀分布，然后把面积映射到矩形内相应的点
 class Solution {
     mt19937 gen{ random_device{}()};
     uniform_int_distribution<int> areaDis;
