@@ -813,6 +813,9 @@
     <ClCompile Include="497_非重叠矩形中的随机点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="730_统计不同回文子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
