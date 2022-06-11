@@ -391,6 +391,7 @@
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />
     <ClCompile Include="917_仅仅反转字母.cpp" />
+    <ClCompile Include="926_将字符串翻转到单调递增.cpp" />
     <ClCompile Include="929_独特的电子邮件地址.cpp" />
     <ClCompile Include="933_最近的请求次数.cpp" />
     <ClCompile Include="937_重新排列日志文件.cpp" />

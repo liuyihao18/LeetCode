@@ -816,6 +816,9 @@
     <ClCompile Include="730_统计不同回文子序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="926_将字符串翻转到单调递增.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
