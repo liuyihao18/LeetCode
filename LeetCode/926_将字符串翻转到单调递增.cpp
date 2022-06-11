@@ -6,6 +6,7 @@ ustd
 class Solution {
 public:
     int minFlipsMonoIncr(string& s) {
+        // dp[i][j]表示长度为i的字符串最后一个字符翻转成j且满足题设的最小次数
         int dp0 = 0, dp1 = 0;
         for (char c : s) {
             int dp0New = dp0, dp1New = min(dp0, dp1);
