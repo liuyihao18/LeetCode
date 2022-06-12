@@ -819,6 +819,9 @@
     <ClCompile Include="926_将字符串翻转到单调递增.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="890_查找和替换模式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
