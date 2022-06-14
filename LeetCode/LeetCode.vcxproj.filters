@@ -825,6 +825,9 @@
     <ClCompile Include="1051_高度检查器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="498_对角线遍历.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
