@@ -834,6 +834,9 @@
     <ClCompile Include="532_数组中的k-diff数对.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1089_复写零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

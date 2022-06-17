@@ -152,6 +152,7 @@
     <ClCompile Include="1044_最长重复子串.cpp" />
     <ClCompile Include="1051_高度检查器.cpp" />
     <ClCompile Include="1078_Bigram_分词.cpp" />
+    <ClCompile Include="1089_复写零.cpp" />
     <ClCompile Include="1154_一年中的第几天.cpp" />
     <ClCompile Include="1185_一周中的第几天.cpp" />
     <ClCompile Include="1189_“气球”的最大数量.cpp" />
