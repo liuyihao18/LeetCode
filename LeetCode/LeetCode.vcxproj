@@ -356,6 +356,7 @@
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
     <ClCompile Include="713_乘积小于K的子数组.cpp" />
+    <ClCompile Include="715_Range_模块.cpp" />
     <ClCompile Include="717_1比特与2比特字符.cpp" />
     <ClCompile Include="719_找出第K小的数对距离.cpp" />
     <ClCompile Include="71_简化路径.cpp" />

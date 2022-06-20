@@ -843,6 +843,9 @@
     <ClCompile Include="508_出现次数最多的子树元素和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="715_Range_模块.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
