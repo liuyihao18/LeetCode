@@ -849,6 +849,9 @@
     <ClCompile Include="1108_IP_地址无效化.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="513_找树左下角的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
