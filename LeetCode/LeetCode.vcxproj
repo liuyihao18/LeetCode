@@ -239,6 +239,7 @@
     <ClCompile Include="301_删除无效的括号.cpp" />
     <ClCompile Include="306_累加数.cpp" />
     <ClCompile Include="307_区域和检索 - 数组可修改.cpp" />
+    <ClCompile Include="30_串联所有单词的子串.cpp" />
     <ClCompile Include="310_最小高度树.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />

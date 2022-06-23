@@ -852,6 +852,9 @@
     <ClCompile Include="513_找树左下角的值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="30_串联所有单词的子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
