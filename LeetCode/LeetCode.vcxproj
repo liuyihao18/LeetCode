@@ -315,6 +315,7 @@
     <ClCompile Include="507_完美数.cpp" />
     <ClCompile Include="508_出现次数最多的子树元素和.cpp" />
     <ClCompile Include="513_找树左下角的值.cpp" />
+    <ClCompile Include="515_在每个树行中找最大值.cpp" />
     <ClCompile Include="517_超级洗衣机.cpp" />
     <ClCompile Include="519_随机翻转矩阵.cpp" />
     <ClCompile Include="520_检测大写字母.cpp" />
