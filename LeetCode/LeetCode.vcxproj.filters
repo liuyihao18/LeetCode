@@ -858,6 +858,9 @@
     <ClCompile Include="515_在每个树行中找最大值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指_Offer_II_091_粉刷房子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
