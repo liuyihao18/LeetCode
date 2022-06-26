@@ -359,6 +359,7 @@
     <ClCompile Include="6_Z字形变换.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
+    <ClCompile Include="710_黑名单中的随机数.cpp" />
     <ClCompile Include="713_乘积小于K的子数组.cpp" />
     <ClCompile Include="715_Range_模块.cpp" />
     <ClCompile Include="717_1比特与2比特字符.cpp" />

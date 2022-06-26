@@ -861,6 +861,9 @@
     <ClCompile Include="剑指_Offer_II_091_粉刷房子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="710_黑名单中的随机数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
