@@ -864,6 +864,9 @@
     <ClCompile Include="710_黑名单中的随机数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="522_最长特殊序列_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
