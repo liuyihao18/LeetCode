@@ -323,6 +323,7 @@
     <ClCompile Include="521_最长特殊序列_Ⅰ.cpp" />
     <ClCompile Include="522_最长特殊序列_II.cpp" />
     <ClCompile Include="532_数组中的k-diff数对.cpp" />
+    <ClCompile Include="535_TinyURL_的加密与解密.cpp" />
     <ClCompile Include="537_复数乘法.cpp" />
     <ClCompile Include="539_最小时间差.cpp" />
     <ClCompile Include="540_有序数组中的单一元素.cpp" />
