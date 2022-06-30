@@ -873,6 +873,9 @@
     <ClCompile Include="535_TinyURL_的加密与解密.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1175_质数排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

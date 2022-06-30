@@ -155,6 +155,7 @@
     <ClCompile Include="1089_复写零.cpp" />
     <ClCompile Include="1108_IP_地址无效化.cpp" />
     <ClCompile Include="1154_一年中的第几天.cpp" />
+    <ClCompile Include="1175_质数排列.cpp" />
     <ClCompile Include="1185_一周中的第几天.cpp" />
     <ClCompile Include="1189_“气球”的最大数量.cpp" />
     <ClCompile Include="1218_最长定差子序列.cpp" />
