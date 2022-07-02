@@ -879,6 +879,9 @@
     <ClCompile Include="241_为运算表达式设计优先级.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="871_最低加油次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
