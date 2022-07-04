@@ -885,6 +885,9 @@
     <ClCompile Include="556_下一个更大元素_III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1200_最小绝对差.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
