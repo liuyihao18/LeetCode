@@ -888,6 +888,9 @@
     <ClCompile Include="1200_最小绝对差.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="729_我的日程安排表_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
