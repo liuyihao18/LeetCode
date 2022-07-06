@@ -891,6 +891,9 @@
     <ClCompile Include="729_我的日程安排表_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="736_Lisp_语法解析.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
