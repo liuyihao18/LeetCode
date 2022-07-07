@@ -894,6 +894,9 @@
     <ClCompile Include="736_Lisp_语法解析.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="648_单词替换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
