@@ -897,6 +897,9 @@
     <ClCompile Include="648_单词替换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1217_玩筹码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
