@@ -900,6 +900,9 @@
     <ClCompile Include="1217_玩筹码.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="873_最长的斐波那契子序列的长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
