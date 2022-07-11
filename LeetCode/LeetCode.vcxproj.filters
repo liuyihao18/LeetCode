@@ -906,6 +906,9 @@
     <ClCompile Include="741_摘樱桃.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="676_实现一个魔法字典.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
