@@ -8,6 +8,7 @@ public:
         int n = static_cast<int>(grid.size());
         vector<vector<int>> f(n, vector<int>(n, INT_MIN));
         f[0][0] = grid[0][0];
+        size_t const1 = 1;
         for (int k = 1; k < n * 2 - 1; ++k) {
             for (int x1 = min(k, n - 1); x1 >= max(k - n + 1, 0); --x1) {
                 for (int x2 = min(k, n - 1); x2 >= x1; --x2) {
@@ -18,13 +19,13 @@ public:
                     }
                     int res = f[x1][x2]; // 都往右
                     if (x1) {
-                        res = max(res, f[x1 - 1][x2]); // 往下，往右
+                        res = max(res, f[x1 - const1][x2]); // 往下，往右
                     }
                     if (x2) {
-                        res = max(res, f[x1][x2 - 1]); // 往右，往下
+                        res = max(res, f[x1][x2 - const1]); // 往右，往下
                     }
                     if (x1 && x2) {
-                        res = max(res, f[x1 - 1][x2 - 1]); // 都往下
+                        res = max(res, f[x1 - const1][x2 - const1]); // 都往下
                     }
                     res += grid[x1][y1];
                     if (x2 != x1) { // 避免重复摘同一个樱桃
