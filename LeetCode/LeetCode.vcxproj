@@ -382,6 +382,7 @@
     <ClCompile Include="729_我的日程安排表_I.cpp" />
     <ClCompile Include="730_统计不同回文子序列.cpp" />
     <ClCompile Include="732_我的日程安排表_III.cpp" />
+    <ClCompile Include="735_行星碰撞.cpp" />
     <ClCompile Include="736_Lisp_语法解析.cpp" />
     <ClCompile Include="741_摘樱桃.cpp" />
     <ClCompile Include="744_寻找比目标字母大的最小字母.cpp" />
