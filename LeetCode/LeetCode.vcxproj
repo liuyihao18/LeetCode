@@ -386,6 +386,7 @@
     <ClCompile Include="736_Lisp_语法解析.cpp" />
     <ClCompile Include="741_摘樱桃.cpp" />
     <ClCompile Include="744_寻找比目标字母大的最小字母.cpp" />
+    <ClCompile Include="745_前缀和后缀搜索.cpp" />
     <ClCompile Include="747_至少是其他数字两倍的最大数.cpp" />
     <ClCompile Include="748_最短补全词.cpp" />
     <ClCompile Include="762_二进制表示中质数个计算置位.cpp" />
