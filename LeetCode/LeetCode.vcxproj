@@ -334,6 +334,7 @@
     <ClCompile Include="540_有序数组中的单一元素.cpp" />
     <ClCompile Include="553_最优除法.cpp" />
     <ClCompile Include="556_下一个更大元素_III.cpp" />
+    <ClCompile Include="558_四叉树交集.cpp" />
     <ClCompile Include="559_N叉树的最大深度.cpp" />
     <ClCompile Include="563_二叉树的坡度.cpp" />
     <ClCompile Include="564_寻找最近的回文数.cpp" />

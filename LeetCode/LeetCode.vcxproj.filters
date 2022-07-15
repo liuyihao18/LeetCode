@@ -918,6 +918,9 @@
     <ClCompile Include="745_前缀和后缀搜索.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="558_四叉树交集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
