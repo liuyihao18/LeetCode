@@ -921,6 +921,9 @@
     <ClCompile Include="558_四叉树交集.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指_Offer_II_041_滑动窗口的平均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
