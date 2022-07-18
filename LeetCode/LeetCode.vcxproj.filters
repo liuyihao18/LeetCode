@@ -927,6 +927,9 @@
     <ClCompile Include="565_数组嵌套.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="749_隔离病毒.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
