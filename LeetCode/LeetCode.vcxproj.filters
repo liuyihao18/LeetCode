@@ -933,6 +933,9 @@
     <ClCompile Include="731_我的日程安排表_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1260_二维网格迁移.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
