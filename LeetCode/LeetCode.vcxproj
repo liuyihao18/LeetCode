@@ -394,6 +394,7 @@
     <ClCompile Include="747_至少是其他数字两倍的最大数.cpp" />
     <ClCompile Include="748_最短补全词.cpp" />
     <ClCompile Include="749_隔离病毒.cpp" />
+    <ClCompile Include="757_设置交集大小至少为2.cpp" />
     <ClCompile Include="762_二进制表示中质数个计算置位.cpp" />
     <ClCompile Include="780_到达终点.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />

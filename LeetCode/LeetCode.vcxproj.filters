@@ -939,6 +939,9 @@
     <ClCompile Include="814_二叉树剪枝.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="757_设置交集大小至少为2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
