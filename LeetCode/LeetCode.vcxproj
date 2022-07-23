@@ -447,6 +447,7 @@
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />
     <ClCompile Include="剑指_Offer_II_091_粉刷房子.cpp" />
     <ClCompile Include="剑指_Offer_II_114_外星文字典.cpp" />
+    <ClCompile Include="剑指_Offer_II_115_重建序列.cpp" />
     <ClCompile Include="面试题_01_05_一次编辑.cpp" />
     <ClCompile Include="面试题_04_06_后继者.cpp" />
     <ClCompile Include="面试题_17_11_单词距离.cpp" />
