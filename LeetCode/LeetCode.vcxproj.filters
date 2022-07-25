@@ -948,6 +948,9 @@
     <ClCompile Include="1184_公交站间的距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="919_完全二叉树插入器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
