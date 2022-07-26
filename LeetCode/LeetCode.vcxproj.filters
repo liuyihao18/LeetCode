@@ -951,6 +951,9 @@
     <ClCompile Include="919_完全二叉树插入器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1206_设计跳表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
