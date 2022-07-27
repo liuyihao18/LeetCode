@@ -86,7 +86,7 @@ public:
         }
         delete curr;
         /* 更新当前的 level */
-        while (level > 1 && head->forward[level - 1] == nullptr) {
+        while (level > 1 && head->forward[static_cast<size_t>(level) - 1] == nullptr) {
             level--;
         }
         return true;
