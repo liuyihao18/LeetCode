@@ -957,6 +957,9 @@
     <ClCompile Include="592_分数加减运算.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1331_数组序号转换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
