@@ -960,6 +960,9 @@
     <ClCompile Include="1331_数组序号转换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="593_有效的正方形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
