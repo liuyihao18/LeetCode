@@ -963,6 +963,9 @@
     <ClCompile Include="593_有效的正方形.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="952_按公因数计算最大组件大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

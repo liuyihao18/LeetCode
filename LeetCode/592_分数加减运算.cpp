@@ -2,17 +2,6 @@
 #include "custom.h"
 ustd
 
-int gcd(int m, int n) {
-    m = abs(m);
-    n = abs(n);
-    while (n > 0) {
-        int r = m % n;
-        m = n;
-        n = r;
-    }
-    return m;
-}
-
 int lcm(int m, int n) {
     return m * n / gcd(m, n);
 }
@@ -30,6 +19,16 @@ private:
         int _gcd = gcd(_numerator, _denominator);
         _numerator = _numerator / _gcd;
         _denominator = _denominator / _gcd;
+    }
+    int gcd(int m, int n) {
+        m = abs(m);
+        n = abs(n);
+        while (n > 0) {
+            int r = m % n;
+            m = n;
+            n = r;
+        }
+        return m;
     }
 public:
     Fraction(int numerator, int denominator) 

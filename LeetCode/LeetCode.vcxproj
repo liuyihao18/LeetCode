@@ -441,6 +441,7 @@
     <ClCompile Include="937_重新排列日志文件.cpp" />
     <ClCompile Include="942_增减字符串匹配.cpp" />
     <ClCompile Include="944_删列造序.cpp" />
+    <ClCompile Include="952_按公因数计算最大组件大小.cpp" />
     <ClCompile Include="953_验证外星语词典.cpp" />
     <ClCompile Include="954_二倍数对数组.cpp" />
     <ClCompile Include="961_在长度2N的数组中找出重复N次的元素.cpp" />
