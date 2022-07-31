@@ -966,6 +966,9 @@
     <ClCompile Include="952_按公因数计算最大组件大小.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1161_最大层内元素和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
