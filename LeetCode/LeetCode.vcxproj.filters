@@ -972,6 +972,9 @@
     <ClCompile Include="1374_生成每种字符都是奇数个的字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="622_设计循环队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

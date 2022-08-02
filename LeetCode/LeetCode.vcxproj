@@ -358,6 +358,7 @@
     <ClCompile Include="598_范围求和_II.cpp" />
     <ClCompile Include="599_两个列表的最小索引总和.cpp" />
     <ClCompile Include="606_根据二叉树创建字符串.cpp" />
+    <ClCompile Include="622_设计循环队列.cpp" />
     <ClCompile Include="629_K个逆序对数组.cpp" />
     <ClCompile Include="630_课程表_III.cpp" />
     <ClCompile Include="638_大礼包.cpp" />
