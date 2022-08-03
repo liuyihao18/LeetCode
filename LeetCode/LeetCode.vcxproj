@@ -431,6 +431,7 @@
     <ClCompile Include="883_三维形体投影面积.cpp" />
     <ClCompile Include="884_两句话中的不常见单词.cpp" />
     <ClCompile Include="890_查找和替换模式.cpp" />
+    <ClCompile Include="899_有序队列.cpp" />
     <ClCompile Include="89_格雷编码.cpp" />
     <ClCompile Include="905_按奇偶排序数组.cpp" />
     <ClCompile Include="908_最小差值_I.cpp" />
