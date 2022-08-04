@@ -978,6 +978,9 @@
     <ClCompile Include="899_有序队列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1403_非递增顺序的最小子序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
