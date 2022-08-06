@@ -984,6 +984,9 @@
     <ClCompile Include="623_在二叉树中增加一行.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1408_数组中的字符串匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
