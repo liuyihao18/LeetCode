@@ -987,6 +987,9 @@
     <ClCompile Include="1408_数组中的字符串匹配.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="636_函数的独占时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

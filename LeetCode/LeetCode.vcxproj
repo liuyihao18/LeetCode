@@ -364,6 +364,7 @@
     <ClCompile Include="623_在二叉树中增加一行.cpp" />
     <ClCompile Include="629_K个逆序对数组.cpp" />
     <ClCompile Include="630_课程表_III.cpp" />
+    <ClCompile Include="636_函数的独占时间.cpp" />
     <ClCompile Include="638_大礼包.cpp" />
     <ClCompile Include="648_单词替换.cpp" />
     <ClCompile Include="650_只有两个键的键盘.cpp" />
