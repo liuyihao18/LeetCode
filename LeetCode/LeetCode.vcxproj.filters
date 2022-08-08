@@ -990,6 +990,9 @@
     <ClCompile Include="636_函数的独占时间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="761_特殊的二进制序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
