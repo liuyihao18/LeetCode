@@ -993,6 +993,9 @@
     <ClCompile Include="761_特殊的二进制序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1413_逐步求和得到正数的最小值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
