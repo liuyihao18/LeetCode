@@ -999,6 +999,9 @@
     <ClCompile Include="640_求解方程.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1417_重新格式化字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
