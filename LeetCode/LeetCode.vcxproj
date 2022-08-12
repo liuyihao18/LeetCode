@@ -168,6 +168,7 @@
     <ClCompile Include="1220_统计元音字母序列的数目.cpp" />
     <ClCompile Include="1252_奇数值单元格的数目.cpp" />
     <ClCompile Include="1260_二维网格迁移.cpp" />
+    <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1305_两棵二叉搜索树中的所有元素.cpp" />
     <ClCompile Include="1331_数组序号转换.cpp" />
     <ClCompile Include="1332_删除回文子序列.cpp" />

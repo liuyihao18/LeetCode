@@ -1002,6 +1002,9 @@
     <ClCompile Include="1417_重新格式化字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1282_用户分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
