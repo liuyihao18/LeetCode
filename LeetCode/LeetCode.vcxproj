@@ -182,6 +182,7 @@
     <ClCompile Include="1413_逐步求和得到正数的最小值.cpp" />
     <ClCompile Include="1414_和为K的最少斐波那契数字数目.cpp" />
     <ClCompile Include="1417_重新格式化字符串.cpp" />
+    <ClCompile Include="1422_分割字符串的最大得分.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
     <ClCompile Include="1447_最简分数.cpp" />
