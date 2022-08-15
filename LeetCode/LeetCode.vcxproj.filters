@@ -1011,6 +1011,9 @@
     <ClCompile Include="1422_分割字符串的最大得分.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="641_设计循环双端队列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

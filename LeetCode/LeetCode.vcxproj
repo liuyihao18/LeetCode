@@ -371,6 +371,7 @@
     <ClCompile Include="636_函数的独占时间.cpp" />
     <ClCompile Include="638_大礼包.cpp" />
     <ClCompile Include="640_求解方程.cpp" />
+    <ClCompile Include="641_设计循环双端队列.cpp" />
     <ClCompile Include="648_单词替换.cpp" />
     <ClCompile Include="650_只有两个键的键盘.cpp" />
     <ClCompile Include="653_两数之和 IV - 输入 BST.cpp" />
