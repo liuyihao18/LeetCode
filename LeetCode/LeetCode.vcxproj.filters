@@ -1017,6 +1017,9 @@
     <ClCompile Include="1656_设计有序流.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1302_层数最深叶子节点的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
