@@ -188,6 +188,7 @@
     <ClCompile Include="1436_旅行终点站.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
     <ClCompile Include="1447_最简分数.cpp" />
+    <ClCompile Include="1450_在既定时间做作业的学生人数.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />
