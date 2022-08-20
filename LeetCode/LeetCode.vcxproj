@@ -379,6 +379,7 @@
     <ClCompile Include="648_单词替换.cpp" />
     <ClCompile Include="650_只有两个键的键盘.cpp" />
     <ClCompile Include="653_两数之和 IV - 输入 BST.cpp" />
+    <ClCompile Include="654_最大二叉树.cpp" />
     <ClCompile Include="661_图片平滑器.cpp" />
     <ClCompile Include="668_乘法表中第k小的数.cpp" />
     <ClCompile Include="66_加一.cpp" />
