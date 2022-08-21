@@ -1029,6 +1029,9 @@
     <ClCompile Include="654_最大二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1455_检查单词是否为句中其他单词的前缀.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
