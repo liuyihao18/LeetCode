@@ -424,6 +424,7 @@
     <ClCompile Include="762_二进制表示中质数个计算置位.cpp" />
     <ClCompile Include="768_最多能完成排序的块_II.cpp" />
     <ClCompile Include="780_到达终点.cpp" />
+    <ClCompile Include="782_变为棋盘.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
     <ClCompile Include="794_有效的井字游戏.cpp" />
     <ClCompile Include="796_旋转字符串.cpp" />
