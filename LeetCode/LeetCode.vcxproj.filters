@@ -1038,6 +1038,9 @@
     <ClCompile Include="782_变为棋盘.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1460_通过翻转子数组使两个数组相等.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
