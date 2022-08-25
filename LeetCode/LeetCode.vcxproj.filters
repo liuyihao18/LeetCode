@@ -1041,6 +1041,9 @@
     <ClCompile Include="1460_通过翻转子数组使两个数组相等.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="658_找到K个最接近的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

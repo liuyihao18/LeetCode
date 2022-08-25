@@ -383,6 +383,7 @@
     <ClCompile Include="653_两数之和 IV - 输入 BST.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
     <ClCompile Include="655_输出二叉树.cpp" />
+    <ClCompile Include="658_找到K个最接近的元素.cpp" />
     <ClCompile Include="661_图片平滑器.cpp" />
     <ClCompile Include="668_乘法表中第k小的数.cpp" />
     <ClCompile Include="66_加一.cpp" />
