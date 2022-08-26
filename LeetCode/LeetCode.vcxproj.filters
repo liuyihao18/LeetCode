@@ -1044,6 +1044,9 @@
     <ClCompile Include="658_找到K个最接近的元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1464_数组中两元素的最大乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
