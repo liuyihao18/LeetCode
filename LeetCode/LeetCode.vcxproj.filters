@@ -1047,6 +1047,9 @@
     <ClCompile Include="1464_数组中两元素的最大乘积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="662_二叉树最大宽度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
