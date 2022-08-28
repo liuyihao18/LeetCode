@@ -5,12 +5,12 @@ ustd
 class Solution {
 public:
     int zeta(long long x) {
-        int res = 0;
+        long long res = 0;
         while (x > 0) {
             res += x / 5;
             x /= 5;
         }
-        return res;
+        return static_cast<int>(res);
     }
 
     long long help(int k) {
@@ -29,6 +29,6 @@ public:
     }
 
     int preimageSizeFZF(int k) {
-        return help(k + 1) - help(k);
+        return static_cast<int>(help(k + 1) - help(k));
     }
 };
