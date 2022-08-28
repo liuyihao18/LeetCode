@@ -1050,6 +1050,9 @@
     <ClCompile Include="662_二叉树最大宽度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="793_阶乘函数后K个零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
