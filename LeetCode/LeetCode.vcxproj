@@ -192,6 +192,7 @@
     <ClCompile Include="1455_检查单词是否为句中其他单词的前缀.cpp" />
     <ClCompile Include="1460_通过翻转子数组使两个数组相等.cpp" />
     <ClCompile Include="1464_数组中两元素的最大乘积.cpp" />
+    <ClCompile Include="1470_重新排列数组.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />
