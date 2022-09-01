@@ -193,6 +193,7 @@
     <ClCompile Include="1460_通过翻转子数组使两个数组相等.cpp" />
     <ClCompile Include="1464_数组中两元素的最大乘积.cpp" />
     <ClCompile Include="1470_重新排列数组.cpp" />
+    <ClCompile Include="1475_商品折扣后的最终价格.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />

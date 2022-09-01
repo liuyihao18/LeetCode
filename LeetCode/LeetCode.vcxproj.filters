@@ -1062,6 +1062,9 @@
     <ClCompile Include="946_验证栈序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1475_商品折扣后的最终价格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
