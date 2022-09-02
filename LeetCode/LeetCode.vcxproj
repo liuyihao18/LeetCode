@@ -396,6 +396,7 @@
     <ClCompile Include="676_实现一个魔法字典.cpp" />
     <ClCompile Include="677_键值映射.cpp" />
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
+    <ClCompile Include="687_最长同值路径.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
     <ClCompile Include="691_贴纸拼词.cpp" />
