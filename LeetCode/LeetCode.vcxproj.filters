@@ -1074,6 +1074,9 @@
     <ClCompile Include="1582_二进制矩阵中的特殊位置.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="652_寻找重复的子树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
