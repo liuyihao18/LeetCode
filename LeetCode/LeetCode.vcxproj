@@ -197,6 +197,7 @@
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1582_二进制矩阵中的特殊位置.cpp" />
+    <ClCompile Include="1592_重新排列单词间的空格.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />
     <ClCompile Include="1606_找到处理最多请求的服务器.cpp" />
     <ClCompile Include="1609_奇偶树.cpp" />

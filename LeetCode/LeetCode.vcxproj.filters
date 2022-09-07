@@ -1080,6 +1080,9 @@
     <ClCompile Include="828_统计子串中的唯一字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1592_重新排列单词间的空格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
