@@ -1089,6 +1089,9 @@
     <ClCompile Include="1598_文件夹操作日志搜集器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="669_修剪二叉搜索树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
