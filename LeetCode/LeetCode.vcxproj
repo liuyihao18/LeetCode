@@ -458,6 +458,7 @@
     <ClCompile Include="838_推多米诺.cpp" />
     <ClCompile Include="846_一手顺子.cpp" />
     <ClCompile Include="851_喧闹和富有.cpp" />
+    <ClCompile Include="857_雇佣K名工人的最低成本.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="868_二进制间距.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
