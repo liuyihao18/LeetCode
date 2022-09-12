@@ -201,6 +201,7 @@
     <ClCompile Include="1598_文件夹操作日志搜集器.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />
     <ClCompile Include="1606_找到处理最多请求的服务器.cpp" />
+    <ClCompile Include="1608_特殊数组的特征值.cpp" />
     <ClCompile Include="1609_奇偶树.cpp" />
     <ClCompile Include="1610_可见点的最大数目.cpp" />
     <ClCompile Include="1614_括号的最大嵌套深度.cpp" />
