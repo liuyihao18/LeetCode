@@ -508,7 +508,6 @@
     <ClInclude Include="custom.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="1656_设计有序流.cp" />
     <None Include="682_棒球比赛.cpp" />
     <None Include="cpp.hint" />
   </ItemGroup>
