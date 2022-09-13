@@ -399,6 +399,7 @@
     <ClCompile Include="668_乘法表中第k小的数.cpp" />
     <ClCompile Include="669_修剪二叉搜索树.cpp" />
     <ClCompile Include="66_加一.cpp" />
+    <ClCompile Include="670_最大交换.cpp" />
     <ClCompile Include="673_最长递增子序列的个数.cpp" />
     <ClCompile Include="675_为高尔夫比赛砍树.cpp" />
     <ClCompile Include="676_实现一个魔法字典.cpp" />

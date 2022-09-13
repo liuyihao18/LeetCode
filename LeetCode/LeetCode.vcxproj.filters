@@ -1098,6 +1098,9 @@
     <ClCompile Include="1608_特殊数组的特征值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="670_最大交换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
