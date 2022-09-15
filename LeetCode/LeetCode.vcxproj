@@ -205,6 +205,7 @@
     <ClCompile Include="1609_奇偶树.cpp" />
     <ClCompile Include="1610_可见点的最大数目.cpp" />
     <ClCompile Include="1614_括号的最大嵌套深度.cpp" />
+    <ClCompile Include="1619_删除某些元素后的数组均值.cpp" />
     <ClCompile Include="1629_按键持续时间最长的键.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="1656_设计有序流.cpp" />
@@ -400,6 +401,7 @@
     <ClCompile Include="669_修剪二叉搜索树.cpp" />
     <ClCompile Include="66_加一.cpp" />
     <ClCompile Include="670_最大交换.cpp" />
+    <ClCompile Include="672_灯泡开关_Ⅱ.cpp" />
     <ClCompile Include="673_最长递增子序列的个数.cpp" />
     <ClCompile Include="675_为高尔夫比赛砍树.cpp" />
     <ClCompile Include="676_实现一个魔法字典.cpp" />

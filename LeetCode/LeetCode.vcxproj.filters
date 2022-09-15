@@ -1101,6 +1101,12 @@
     <ClCompile Include="670_最大交换.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1619_删除某些元素后的数组均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="672_灯泡开关_Ⅱ.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
