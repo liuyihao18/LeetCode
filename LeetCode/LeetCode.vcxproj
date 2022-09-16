@@ -461,6 +461,7 @@
     <ClCompile Include="829_连续整数求和.cpp" />
     <ClCompile Include="838_推多米诺.cpp" />
     <ClCompile Include="846_一手顺子.cpp" />
+    <ClCompile Include="850_矩形面积_II.cpp" />
     <ClCompile Include="851_喧闹和富有.cpp" />
     <ClCompile Include="857_雇佣K名工人的最低成本.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
