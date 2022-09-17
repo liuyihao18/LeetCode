@@ -22,7 +22,7 @@ public:
         hbound.erase(unique(hbound.begin(), hbound.end()), hbound.end());
         int m = static_cast<int>(hbound.size());
         // 线段树有 m-1 个叶子节点，对应着 m-1 个会被完整覆盖的线段，需要开辟 ~4m 大小的空间
-        tree.resize(m * 4 + 1);
+        tree.resize(m * 4LL + 1);
         init(1, 1, m - 1);
 
         vector<tuple<int, int, int>> sweep;
@@ -37,10 +37,10 @@ public:
         long long ans = 0;
         for (int i = 0; i < sweep.size(); ++i) {
             int j = i;
-            while (j + 1 < sweep.size() && get<0>(sweep[i]) == get<0>(sweep[j + 1])) {
+            while (static_cast<size_t>(j + 1) < sweep.size() && get<0>(sweep[i]) == get<0>(sweep[j + 1LL])) {
                 ++j;
             }
-            if (j + 1 == sweep.size()) {
+            if (j + 1LL == sweep.size()) {
                 break;
             }
             // 一次性地处理掉一批横坐标相同的左右边界
@@ -51,22 +51,22 @@ public:
                 int right = static_cast<int>(lower_bound(hbound.begin(), hbound.end(), rectangles[idx][3]) - hbound.begin());
                 update(1, 1, m - 1, left, right, diff);
             }
-            ans += static_cast<long long>(tree[1].length) * (get<0>(sweep[j + 1]) - get<0>(sweep[j]));
+            ans += static_cast<long long>(tree[1].length) * (get<0>(sweep[j + 1]) * 1LL - get<0>(sweep[j]));
             i = j;
         }
-        return ans % static_cast<int>(1e9 + 7);
+        return static_cast<int>(ans % static_cast<long long>(1e9 + 7));
     }
 
     void init(int idx, int l, int r) {
         tree[idx].cover = tree[idx].length = 0;
         if (l == r) {
-            tree[idx].max_length = hbound[l] - hbound[l - 1];
+            tree[idx].max_length = hbound[l] - hbound[l - 1LL];
             return;
         }
         int mid = (l + r) / 2;
         init(idx * 2, l, mid);
         init(idx * 2 + 1, mid + 1, r);
-        tree[idx].max_length = tree[idx * 2].max_length + tree[idx * 2 + 1].max_length;
+        tree[idx].max_length = tree[idx * 2LL].max_length + tree[idx * 2LL + 1].max_length;
     }
 
     void update(int idx, int l, int r, int ul, int ur, int diff) {
@@ -92,7 +92,7 @@ public:
             tree[idx].length = 0;
         }
         else {
-            tree[idx].length = tree[idx * 2].length + tree[idx * 2 + 1].length;
+            tree[idx].length = tree[idx * 2LL].length + tree[idx * 2LL + 1].length;
         }
     }
 
