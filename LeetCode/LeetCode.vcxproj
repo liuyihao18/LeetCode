@@ -458,6 +458,7 @@
     <ClCompile Include="821_字符的最短距离.cpp" />
     <ClCompile Include="824_山羊拉丁文.cpp" />
     <ClCompile Include="825_适龄的朋友.cpp" />
+    <ClCompile Include="827_最大人工岛.cpp" />
     <ClCompile Include="828_统计子串中的唯一字符.cpp" />
     <ClCompile Include="829_连续整数求和.cpp" />
     <ClCompile Include="838_推多米诺.cpp" />

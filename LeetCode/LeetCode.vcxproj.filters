@@ -1113,6 +1113,9 @@
     <ClCompile Include="1624_两个相同字符之间的最长子字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="827_最大人工岛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
