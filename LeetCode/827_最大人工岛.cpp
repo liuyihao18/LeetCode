@@ -11,7 +11,7 @@ public:
     }
 
     int dfs(const vector<vector<int>>& grid, int x, int y, vector<vector<int>>& tag, int t) {
-        int n = grid.size(), res = 1;
+        int n = static_cast<int>(grid.size()), res = 1;
         tag[x][y] = t;
         for (int i = 0; i < 4; i++) {
             int x1 = x + d[i], y1 = y + d[i + 1];
@@ -23,7 +23,7 @@ public:
     }
 
     int largestIsland(vector<vector<int>>& grid) {
-        int n = grid.size(), res = 0;
+        int n = static_cast<int>(grid.size()), res = 0;
         vector<vector<int>> tag(n, vector<int>(n));
         unordered_map<int, int> area;
         for (int i = 0; i < n; i++) {
