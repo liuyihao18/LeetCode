@@ -9,6 +9,11 @@ public:
         for (auto num : nums) {
             m[num]++;
         }
+        sort(nums.begin(), nums.end(), [&](int num1, int num2) {
+            return m[num1] < m[num2] || m[num1] == m[num2] && num1 > num2;
+            });
+        return nums;
+        /*
         vector<pair<int, int>> v(m.begin(), m.end());
         sort(v.begin(), v.end(),
             [](const pair<int, int>& p1, const pair<int, int>& p2) {
@@ -21,5 +26,6 @@ public:
             }
         }
         return result;
+        */
     }
 };
