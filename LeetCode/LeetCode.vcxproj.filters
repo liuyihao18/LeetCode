@@ -1116,6 +1116,9 @@
     <ClCompile Include="827_最大人工岛.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1636_按照频率将数组升序排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
