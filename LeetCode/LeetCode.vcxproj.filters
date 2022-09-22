@@ -1125,6 +1125,9 @@
     <ClCompile Include="854_相似度为K的字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1640_能否连接形成数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

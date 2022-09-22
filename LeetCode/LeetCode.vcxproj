@@ -210,6 +210,7 @@
     <ClCompile Include="1629_按键持续时间最长的键.cpp" />
     <ClCompile Include="162_寻找峰值.cpp" />
     <ClCompile Include="1636_按照频率将数组升序排序.cpp" />
+    <ClCompile Include="1640_能否连接形成数组.cpp" />
     <ClCompile Include="1656_设计有序流.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
     <ClCompile Include="1672_最富有客户的资产总量.cpp" />
