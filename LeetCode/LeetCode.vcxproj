@@ -419,6 +419,7 @@
     <ClCompile Include="699_掉落的方块cpp.cpp" />
     <ClCompile Include="6_Z字形变换.cpp" />
     <ClCompile Include="700_二叉搜索树中的搜索.cpp" />
+    <ClCompile Include="707_设计链表.cpp" />
     <ClCompile Include="709_换成小写字母.cpp" />
     <ClCompile Include="710_黑名单中的随机数.cpp" />
     <ClCompile Include="713_乘积小于K的子数组.cpp" />
