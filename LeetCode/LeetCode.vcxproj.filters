@@ -1134,6 +1134,9 @@
     <ClCompile Include="1652_拆炸弹.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="788_旋转数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
