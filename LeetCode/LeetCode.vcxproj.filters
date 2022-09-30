@@ -1149,6 +1149,9 @@
     <ClCompile Include="面试题_01_09_字符串轮转.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="面试题_01_08_零矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

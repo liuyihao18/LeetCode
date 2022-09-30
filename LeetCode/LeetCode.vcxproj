@@ -514,6 +514,7 @@
     <ClCompile Include="剑指_Offer_II_115_重建序列.cpp" />
     <ClCompile Include="面试题_01_02_判定是否互为字符重排.cpp" />
     <ClCompile Include="面试题_01_05_一次编辑.cpp" />
+    <ClCompile Include="面试题_01_08_零矩阵.cpp" />
     <ClCompile Include="面试题_01_09_字符串轮转.cpp" />
     <ClCompile Include="面试题_04_06_后继者.cpp" />
     <ClCompile Include="面试题_17_09_第k个数.cpp" />
