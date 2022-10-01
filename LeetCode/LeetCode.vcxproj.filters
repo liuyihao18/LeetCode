@@ -1152,6 +1152,9 @@
     <ClCompile Include="面试题_01_08_零矩阵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1694_重新格式化电话号码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
