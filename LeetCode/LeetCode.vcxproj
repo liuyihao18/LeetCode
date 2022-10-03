@@ -227,6 +227,7 @@
     <ClCompile Include="1748_唯一元素的和.cpp" />
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />
+    <ClCompile Include="1784_检查二进制字符串字段.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="1823_找出游戏的获胜者.cpp" />

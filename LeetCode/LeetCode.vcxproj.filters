@@ -1158,6 +1158,9 @@
     <ClCompile Include="777_在LR字符串中交换相邻字符.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1784_检查二进制字符串字段.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
