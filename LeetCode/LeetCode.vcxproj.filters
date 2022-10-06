@@ -1164,6 +1164,12 @@
     <ClCompile Include="921_使括号有效的最少添加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="811_子域名访问计数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="927_三等分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

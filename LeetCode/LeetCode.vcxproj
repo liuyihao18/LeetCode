@@ -461,6 +461,7 @@
     <ClCompile Include="804_唯一摩尔斯密码词.cpp" />
     <ClCompile Include="806_写字符串需要的行数.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
+    <ClCompile Include="811_子域名访问计数.cpp" />
     <ClCompile Include="812_最大三角形面积.cpp" />
     <ClCompile Include="814_二叉树剪枝.cpp" />
     <ClCompile Include="819_最常见的单词.cpp" />
@@ -495,6 +496,7 @@
     <ClCompile Include="919_完全二叉树插入器.cpp" />
     <ClCompile Include="921_使括号有效的最少添加.cpp" />
     <ClCompile Include="926_将字符串翻转到单调递增.cpp" />
+    <ClCompile Include="927_三等分.cpp" />
     <ClCompile Include="929_独特的电子邮件地址.cpp" />
     <ClCompile Include="933_最近的请求次数.cpp" />
     <ClCompile Include="937_重新排列日志文件.cpp" />
