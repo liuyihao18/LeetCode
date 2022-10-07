@@ -1170,6 +1170,9 @@
     <ClCompile Include="927_三等分.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1800_最大升序子数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
