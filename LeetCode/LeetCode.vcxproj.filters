@@ -1173,6 +1173,9 @@
     <ClCompile Include="1800_最大升序子数组和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="870_优势洗牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

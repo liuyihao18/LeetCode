@@ -481,6 +481,7 @@
     <ClCompile Include="859_亲密字符串.cpp" />
     <ClCompile Include="868_二进制间距.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
+    <ClCompile Include="870_优势洗牌.cpp" />
     <ClCompile Include="871_最低加油次数.cpp" />
     <ClCompile Include="873_最长的斐波那契子序列的长度.cpp" />
     <ClCompile Include="875_爱吃香蕉的珂珂.cpp" />
