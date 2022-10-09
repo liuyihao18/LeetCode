@@ -1176,6 +1176,9 @@
     <ClCompile Include="870_优势洗牌.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="856_括号的分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
