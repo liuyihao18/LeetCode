@@ -1179,6 +1179,9 @@
     <ClCompile Include="856_括号的分数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="801_使序列递增的最小交换次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

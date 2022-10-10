@@ -459,6 +459,7 @@
     <ClCompile Include="794_有效的井字游戏.cpp" />
     <ClCompile Include="796_旋转字符串.cpp" />
     <ClCompile Include="798_得分最高的最小轮调.cpp" />
+    <ClCompile Include="801_使序列递增的最小交换次数.cpp" />
     <ClCompile Include="804_唯一摩尔斯密码词.cpp" />
     <ClCompile Include="806_写字符串需要的行数.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
