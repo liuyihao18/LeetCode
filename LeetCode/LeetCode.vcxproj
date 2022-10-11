@@ -228,6 +228,7 @@
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />
     <ClCompile Include="1784_检查二进制字符串字段.cpp" />
+    <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
     <ClCompile Include="1800_最大升序子数组和.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
