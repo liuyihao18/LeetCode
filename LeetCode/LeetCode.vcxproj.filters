@@ -1188,6 +1188,9 @@
     <ClCompile Include="817_链表组件.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="769_最多能完成排序的块.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
