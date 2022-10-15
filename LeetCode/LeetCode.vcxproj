@@ -186,6 +186,7 @@
     <ClCompile Include="1417_重新格式化字符串.cpp" />
     <ClCompile Include="1422_分割字符串的最大得分.cpp" />
     <ClCompile Include="1436_旅行终点站.cpp" />
+    <ClCompile Include="1441_用栈操作构建数组.cpp" />
     <ClCompile Include="1446_连续字符.cpp" />
     <ClCompile Include="1447_最简分数.cpp" />
     <ClCompile Include="1450_在既定时间做作业的学生人数.cpp" />

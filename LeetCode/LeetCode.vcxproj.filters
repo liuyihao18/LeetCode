@@ -1194,6 +1194,9 @@
     <ClCompile Include="940_不同的子序列_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1441_用栈操作构建数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
