@@ -1197,6 +1197,9 @@
     <ClCompile Include="1441_用栈操作构建数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="886_可能的二分法.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
