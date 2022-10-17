@@ -497,6 +497,7 @@
     <ClCompile Include="890_查找和替换模式.cpp" />
     <ClCompile Include="899_有序队列.cpp" />
     <ClCompile Include="89_格雷编码.cpp" />
+    <ClCompile Include="904_水果成篮.cpp" />
     <ClCompile Include="905_按奇偶排序数组.cpp" />
     <ClCompile Include="908_最小差值_I.cpp" />
     <ClCompile Include="911_在线选举.cpp" />

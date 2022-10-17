@@ -1200,6 +1200,9 @@
     <ClCompile Include="886_可能的二分法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="904_水果成篮.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
