@@ -22,7 +22,7 @@ public:
                 }
             }
             if (i > 1) {
-                dp[i][0] += m + dp[i - 1][0] * m;
+                dp[i][0] += (int)m + dp[i - 1][0] * (int)m;
             }
         }
         return dp[k][0] + dp[k][1];
