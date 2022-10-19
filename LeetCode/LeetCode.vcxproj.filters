@@ -1206,6 +1206,9 @@
     <ClCompile Include="902_最大为N的数字组合.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1700_无法吃午餐的学生数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
