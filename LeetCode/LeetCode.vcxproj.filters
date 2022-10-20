@@ -1209,6 +1209,9 @@
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="779_第K个语法符号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

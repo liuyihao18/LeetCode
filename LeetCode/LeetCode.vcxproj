@@ -455,6 +455,7 @@
     <ClCompile Include="768_最多能完成排序的块_II.cpp" />
     <ClCompile Include="769_最多能完成排序的块.cpp" />
     <ClCompile Include="777_在LR字符串中交换相邻字符.cpp" />
+    <ClCompile Include="779_第K个语法符号.cpp" />
     <ClCompile Include="780_到达终点.cpp" />
     <ClCompile Include="782_变为棋盘.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
