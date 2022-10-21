@@ -1212,6 +1212,9 @@
     <ClCompile Include="779_第K个语法符号.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="901_股票价格跨度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

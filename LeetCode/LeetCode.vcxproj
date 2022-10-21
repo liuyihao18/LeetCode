@@ -499,6 +499,7 @@
     <ClCompile Include="890_查找和替换模式.cpp" />
     <ClCompile Include="899_有序队列.cpp" />
     <ClCompile Include="89_格雷编码.cpp" />
+    <ClCompile Include="901_股票价格跨度.cpp" />
     <ClCompile Include="902_最大为N的数字组合.cpp" />
     <ClCompile Include="904_水果成篮.cpp" />
     <ClCompile Include="905_按奇偶排序数组.cpp" />
