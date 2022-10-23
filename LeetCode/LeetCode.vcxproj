@@ -167,6 +167,7 @@
     <ClCompile Include="1219_黄金矿工.cpp" />
     <ClCompile Include="1220_统计元音字母序列的数目.cpp" />
     <ClCompile Include="1224_最大相等频率.cpp" />
+    <ClCompile Include="1235_规划兼职工作.cpp" />
     <ClCompile Include="1252_奇数值单元格的数目.cpp" />
     <ClCompile Include="1260_二维网格迁移.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />

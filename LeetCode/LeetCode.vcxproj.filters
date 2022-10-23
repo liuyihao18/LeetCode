@@ -1215,6 +1215,9 @@
     <ClCompile Include="901_股票价格跨度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1235_规划兼职工作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
