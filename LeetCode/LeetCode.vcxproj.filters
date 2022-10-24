@@ -1221,6 +1221,9 @@
     <ClCompile Include="1768_交替合并字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="915_分割数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -508,6 +508,7 @@
     <ClCompile Include="908_最小差值_I.cpp" />
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />
+    <ClCompile Include="915_分割数组.cpp" />
     <ClCompile Include="917_仅仅反转字母.cpp" />
     <ClCompile Include="919_完全二叉树插入器.cpp" />
     <ClCompile Include="921_使括号有效的最少添加.cpp" />
