@@ -1227,6 +1227,9 @@
     <ClCompile Include="934_最短的桥.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="862_和至少为K的最短子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

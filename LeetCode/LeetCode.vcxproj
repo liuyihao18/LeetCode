@@ -489,6 +489,7 @@
     <ClCompile Include="856_括号的分数.cpp" />
     <ClCompile Include="857_雇佣K名工人的最低成本.cpp" />
     <ClCompile Include="859_亲密字符串.cpp" />
+    <ClCompile Include="862_和至少为K的最短子数组.cpp" />
     <ClCompile Include="868_二进制间距.cpp" />
     <ClCompile Include="869_重新排序得到2的幂.cpp" />
     <ClCompile Include="870_优势洗牌.cpp" />
