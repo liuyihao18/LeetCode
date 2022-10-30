@@ -231,6 +231,7 @@
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />
     <ClCompile Include="1768_交替合并字符串.cpp" />
+    <ClCompile Include="1773_统计匹配检索规则的物品数量.cpp" />
     <ClCompile Include="1784_检查二进制字符串字段.cpp" />
     <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
@@ -461,6 +462,7 @@
     <ClCompile Include="779_第K个语法符号.cpp" />
     <ClCompile Include="780_到达终点.cpp" />
     <ClCompile Include="782_变为棋盘.cpp" />
+    <ClCompile Include="784_字母大小写全排列.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
     <ClCompile Include="788_旋转数字.cpp" />
     <ClCompile Include="793_阶乘函数后K个零.cpp" />

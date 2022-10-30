@@ -1236,6 +1236,12 @@
     <ClCompile Include="907_子数组的最小值之和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1773_统计匹配检索规则的物品数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="784_字母大小写全排列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
