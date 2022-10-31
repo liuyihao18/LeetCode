@@ -1242,6 +1242,9 @@
     <ClCompile Include="784_字母大小写全排列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="481_神奇字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
