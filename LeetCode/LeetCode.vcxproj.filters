@@ -1245,6 +1245,9 @@
     <ClCompile Include="481_神奇字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1662_检查两个字符串数组是否相等.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
