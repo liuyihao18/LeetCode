@@ -1251,6 +1251,9 @@
     <ClCompile Include="1620_网络信号最好的坐标.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1668_最大重复子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
