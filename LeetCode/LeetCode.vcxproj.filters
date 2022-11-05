@@ -1257,6 +1257,9 @@
     <ClCompile Include="754_到达终点数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1106_解析布尔表达式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
