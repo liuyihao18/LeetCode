@@ -221,6 +221,7 @@
     <ClCompile Include="1668_最大重复子字符串.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
     <ClCompile Include="1672_最富有客户的资产总量.cpp" />
+    <ClCompile Include="1678_设计_Goal_解析器.cpp" />
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1694_重新格式化电话号码.cpp" />
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp" />
