@@ -1263,6 +1263,9 @@
     <ClCompile Include="1678_设计_Goal_解析器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="816_模糊坐标.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

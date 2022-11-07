@@ -483,6 +483,7 @@
     <ClCompile Include="811_子域名访问计数.cpp" />
     <ClCompile Include="812_最大三角形面积.cpp" />
     <ClCompile Include="814_二叉树剪枝.cpp" />
+    <ClCompile Include="816_模糊坐标.cpp" />
     <ClCompile Include="817_链表组件.cpp" />
     <ClCompile Include="819_最常见的单词.cpp" />
     <ClCompile Include="821_字符的最短距离.cpp" />
