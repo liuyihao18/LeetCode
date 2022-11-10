@@ -1272,6 +1272,9 @@
     <ClCompile Include="764_最大加号标志.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="864_获取所有钥匙的最短路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
