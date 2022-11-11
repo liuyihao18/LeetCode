@@ -1275,6 +1275,9 @@
     <ClCompile Include="864_获取所有钥匙的最短路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1704_判断字符串的两半是否相似.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -226,6 +226,7 @@
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1694_重新格式化电话号码.cpp" />
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp" />
+    <ClCompile Include="1704_判断字符串的两半是否相似.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
     <ClCompile Include="1706_球会落何处.cpp" />
     <ClCompile Include="1716_计算力扣银行的钱.cpp" />
