@@ -3,7 +3,7 @@
 ustd
 
 #define INT(x) static_cast<int>(x)
-#define SIZE(x) static_cast<size_t>(x)
+#define INDEX(x) static_cast<size_t>(x)
 
 class Solution {
     void check(const vector<vector<int>>& heights, vector<vector<bool>>& pacific, size_t i, size_t j) {
