@@ -476,6 +476,7 @@
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
     <ClCompile Include="788_旋转数字.cpp" />
     <ClCompile Include="790_多米诺和托米诺平铺.cpp" />
+    <ClCompile Include="791_自定义字符串排序.cpp" />
     <ClCompile Include="793_阶乘函数后K个零.cpp" />
     <ClCompile Include="794_有效的井字游戏.cpp" />
     <ClCompile Include="796_旋转字符串.cpp" />

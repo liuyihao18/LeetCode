@@ -1281,6 +1281,9 @@
     <ClCompile Include="790_多米诺和托米诺平铺.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="791_自定义字符串排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
