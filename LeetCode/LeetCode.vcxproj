@@ -483,6 +483,7 @@
     <ClCompile Include="798_得分最高的最小轮调.cpp" />
     <ClCompile Include="801_使序列递增的最小交换次数.cpp" />
     <ClCompile Include="804_唯一摩尔斯密码词.cpp" />
+    <ClCompile Include="805_数组的均值分割.cpp" />
     <ClCompile Include="806_写字符串需要的行数.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
     <ClCompile Include="811_子域名访问计数.cpp" />

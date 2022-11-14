@@ -1284,6 +1284,9 @@
     <ClCompile Include="791_自定义字符串排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="805_数组的均值分割.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
