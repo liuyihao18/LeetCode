@@ -1287,6 +1287,9 @@
     <ClCompile Include="805_数组的均值分割.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1710_卡车上的最大单元数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
