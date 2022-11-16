@@ -1290,6 +1290,9 @@
     <ClCompile Include="1710_卡车上的最大单元数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="775_全局倒置与局部倒置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

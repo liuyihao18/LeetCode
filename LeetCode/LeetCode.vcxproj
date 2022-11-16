@@ -469,6 +469,7 @@
     <ClCompile Include="764_最大加号标志.cpp" />
     <ClCompile Include="768_最多能完成排序的块_II.cpp" />
     <ClCompile Include="769_最多能完成排序的块.cpp" />
+    <ClCompile Include="775_全局倒置与局部倒置.cpp" />
     <ClCompile Include="777_在LR字符串中交换相邻字符.cpp" />
     <ClCompile Include="779_第K个语法符号.cpp" />
     <ClCompile Include="780_到达终点.cpp" />
