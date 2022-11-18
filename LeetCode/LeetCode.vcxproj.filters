@@ -1296,6 +1296,9 @@
     <ClCompile Include="792_匹配子序列的单词数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="891_子序列宽度之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
