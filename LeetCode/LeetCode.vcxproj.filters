@@ -1302,6 +1302,9 @@
     <ClCompile Include="1732_找到最高海拔.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="799_香槟塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
