@@ -1305,6 +1305,9 @@
     <ClCompile Include="799_香槟塔.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="808_分汤.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
