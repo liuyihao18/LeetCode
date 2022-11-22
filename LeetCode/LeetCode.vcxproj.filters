@@ -1308,6 +1308,9 @@
     <ClCompile Include="808_分汤.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="878_第N个神奇数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
