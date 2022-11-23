@@ -236,6 +236,7 @@
     <ClCompile Include="1728_猫和老鼠_II.cpp" />
     <ClCompile Include="172_阶乘后的零.cpp" />
     <ClCompile Include="1732_找到最高海拔.cpp" />
+    <ClCompile Include="1742_盒子中小球的最大数量.cpp" />
     <ClCompile Include="1748_唯一元素的和.cpp" />
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />

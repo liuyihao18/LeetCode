@@ -1311,6 +1311,9 @@
     <ClCompile Include="878_第N个神奇数字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1742_盒子中小球的最大数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
