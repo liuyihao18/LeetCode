@@ -1317,6 +1317,9 @@
     <ClCompile Include="795_区间子数组个数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="809_情感丰富的文字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

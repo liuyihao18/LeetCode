@@ -494,6 +494,7 @@
     <ClCompile Include="806_写字符串需要的行数.cpp" />
     <ClCompile Include="807_保持城市天际线.cpp" />
     <ClCompile Include="808_分汤.cpp" />
+    <ClCompile Include="809_情感丰富的文字.cpp" />
     <ClCompile Include="811_子域名访问计数.cpp" />
     <ClCompile Include="812_最大三角形面积.cpp" />
     <ClCompile Include="814_二叉树剪枝.cpp" />

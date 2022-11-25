@@ -18,7 +18,7 @@ public:
                 left = mid + 1;
             }
             else {
-                return x;
+                return static_cast<int>(x);
             }
         }
         return -1;
