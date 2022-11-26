@@ -1320,6 +1320,9 @@
     <ClCompile Include="809_情感丰富的文字.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="882_细分图中的可到达节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
