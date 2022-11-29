@@ -239,6 +239,7 @@
     <ClCompile Include="1742_盒子中小球的最大数量.cpp" />
     <ClCompile Include="1748_唯一元素的和.cpp" />
     <ClCompile Include="1752_检查数组是否经排序和轮转得到.cpp" />
+    <ClCompile Include="1758_生成交替二进制字符串的最少操作数.cpp" />
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />
     <ClCompile Include="1768_交替合并字符串.cpp" />
