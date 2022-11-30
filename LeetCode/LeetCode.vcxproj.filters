@@ -1332,6 +1332,9 @@
     <ClCompile Include="1758_生成交替二进制字符串的最少操作数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="895_最大频率栈.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
