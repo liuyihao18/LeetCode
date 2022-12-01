@@ -1335,6 +1335,9 @@
     <ClCompile Include="895_最大频率栈.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1779_找到最近的有相同X或Y坐标的点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
