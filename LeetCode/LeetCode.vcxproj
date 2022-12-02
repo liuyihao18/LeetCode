@@ -243,6 +243,7 @@
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />
     <ClCompile Include="1768_交替合并字符串.cpp" />
+    <ClCompile Include="1769_移动所有球到每个盒子所需的最小操作数.cpp" />
     <ClCompile Include="1773_统计匹配检索规则的物品数量.cpp" />
     <ClCompile Include="1779_找到最近的有相同X或Y坐标的点.cpp" />
     <ClCompile Include="1784_检查二进制字符串字段.cpp" />
