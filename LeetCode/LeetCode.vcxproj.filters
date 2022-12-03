@@ -1341,6 +1341,9 @@
     <ClCompile Include="1769_移动所有球到每个盒子所需的最小操作数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1796_字符串中第二大的数字_cpp.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
