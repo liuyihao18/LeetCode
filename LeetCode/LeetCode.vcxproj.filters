@@ -1347,6 +1347,9 @@
     <ClCompile Include="1774_最接近目标价格的甜点成本.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1687_从仓库到码头运输箱子.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
@@ -1366,5 +1369,13 @@
     <ClInclude Include="custom.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LeetCode.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
   </ItemGroup>
 </Project>

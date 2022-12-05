@@ -223,6 +223,7 @@
     <ClCompile Include="1672_最富有客户的资产总量.cpp" />
     <ClCompile Include="1678_设计_Goal_解析器.cpp" />
     <ClCompile Include="1684_统计一致字符串的数目.cpp" />
+    <ClCompile Include="1687_从仓库到码头运输箱子.cpp" />
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1694_重新格式化电话号码.cpp" />
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp" />
@@ -588,10 +589,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="custom.h" />
+    <ClInclude Include="resource.h" />
   </ItemGroup>
   <ItemGroup>
     <None Include="682_棒球比赛.cpp" />
     <None Include="cpp.hint" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="LeetCode.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
