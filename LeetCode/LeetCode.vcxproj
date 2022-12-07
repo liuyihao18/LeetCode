@@ -247,6 +247,7 @@
     <ClCompile Include="1769_移动所有球到每个盒子所需的最小操作数.cpp" />
     <ClCompile Include="1773_统计匹配检索规则的物品数量.cpp" />
     <ClCompile Include="1774_最接近目标价格的甜点成本.cpp" />
+    <ClCompile Include="1775_通过最少操作次数使数组的和相等.cpp" />
     <ClCompile Include="1779_找到最近的有相同X或Y坐标的点.cpp" />
     <ClCompile Include="1784_检查二进制字符串字段.cpp" />
     <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
