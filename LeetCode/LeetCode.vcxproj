@@ -255,6 +255,7 @@
     <ClCompile Include="1796_字符串中第二大的数字_cpp.cpp" />
     <ClCompile Include="1800_最大升序子数组和.cpp" />
     <ClCompile Include="1805_字符串中不同整数的数目.cpp" />
+    <ClCompile Include="1812_判断国际象棋棋盘中一个格子的颜色.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="1822_数组元素积的符号.cpp" />
     <ClCompile Include="1823_找出游戏的获胜者.cpp" />

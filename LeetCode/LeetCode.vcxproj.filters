@@ -1356,6 +1356,9 @@
     <ClCompile Include="1775_通过最少操作次数使数组的和相等.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1812_判断国际象棋棋盘中一个格子的颜色.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
