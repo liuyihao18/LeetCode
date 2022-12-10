@@ -1359,6 +1359,12 @@
     <ClCompile Include="1812_判断国际象棋棋盘中一个格子的颜色.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1780_判断一个数字是否可以表示成三的幂的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1691_堆叠长方体的最大高度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

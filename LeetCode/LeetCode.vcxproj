@@ -225,6 +225,7 @@
     <ClCompile Include="1684_统计一致字符串的数目.cpp" />
     <ClCompile Include="1687_从仓库到码头运输箱子.cpp" />
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
+    <ClCompile Include="1691_堆叠长方体的最大高度.cpp" />
     <ClCompile Include="1694_重新格式化电话号码.cpp" />
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp" />
     <ClCompile Include="1704_判断字符串的两半是否相似.cpp" />
@@ -249,6 +250,7 @@
     <ClCompile Include="1774_最接近目标价格的甜点成本.cpp" />
     <ClCompile Include="1775_通过最少操作次数使数组的和相等.cpp" />
     <ClCompile Include="1779_找到最近的有相同X或Y坐标的点.cpp" />
+    <ClCompile Include="1780_判断一个数字是否可以表示成三的幂的和.cpp" />
     <ClCompile Include="1784_检查二进制字符串字段.cpp" />
     <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
