@@ -5,7 +5,7 @@ ustd
 class Solution {
 public:
     int maxHeight(vector<vector<int>>& cuboids) {
-        int n = cuboids.size();
+        int n = static_cast<int>(cuboids.size());
         for (auto& v : cuboids) {
             sort(v.begin(), v.end());
         }
