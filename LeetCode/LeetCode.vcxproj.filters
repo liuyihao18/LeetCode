@@ -1365,6 +1365,9 @@
     <ClCompile Include="1691_堆叠长方体的最大高度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1827_最少操作使数组递增.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
