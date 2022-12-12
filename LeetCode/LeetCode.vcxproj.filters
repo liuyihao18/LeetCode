@@ -1368,6 +1368,9 @@
     <ClCompile Include="1827_最少操作使数组递增.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1781_所有子字符串美丽值之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

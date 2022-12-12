@@ -251,6 +251,7 @@
     <ClCompile Include="1775_通过最少操作次数使数组的和相等.cpp" />
     <ClCompile Include="1779_找到最近的有相同X或Y坐标的点.cpp" />
     <ClCompile Include="1780_判断一个数字是否可以表示成三的幂的和.cpp" />
+    <ClCompile Include="1781_所有子字符串美丽值之和.cpp" />
     <ClCompile Include="1784_检查二进制字符串字段.cpp" />
     <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
