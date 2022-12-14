@@ -1374,6 +1374,9 @@
     <ClCompile Include="1832_判断句子是否为全字母句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1697_检查边长度限制的路径是否存在.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

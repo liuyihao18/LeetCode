@@ -227,6 +227,7 @@
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
     <ClCompile Include="1691_堆叠长方体的最大高度.cpp" />
     <ClCompile Include="1694_重新格式化电话号码.cpp" />
+    <ClCompile Include="1697_检查边长度限制的路径是否存在.cpp" />
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp" />
     <ClCompile Include="1704_判断字符串的两半是否相似.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
