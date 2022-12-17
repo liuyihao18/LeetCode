@@ -1383,6 +1383,9 @@
     <ClCompile Include="1785_构成特定和需要添加的最少元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1764_通过连接另一个数组的子数组得到一个数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
