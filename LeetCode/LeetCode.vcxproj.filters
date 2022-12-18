@@ -1386,6 +1386,9 @@
     <ClCompile Include="1764_通过连接另一个数组的子数组得到一个数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1703_得到连续K个1的最少相邻交换次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

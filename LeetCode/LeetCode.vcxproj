@@ -229,6 +229,7 @@
     <ClCompile Include="1694_重新格式化电话号码.cpp" />
     <ClCompile Include="1697_检查边长度限制的路径是否存在.cpp" />
     <ClCompile Include="1700_无法吃午餐的学生数量.cpp" />
+    <ClCompile Include="1703_得到连续K个1的最少相邻交换次数.cpp" />
     <ClCompile Include="1704_判断字符串的两半是否相似.cpp" />
     <ClCompile Include="1705_吃苹果的最大数目.cpp" />
     <ClCompile Include="1706_球会落何处.cpp" />
