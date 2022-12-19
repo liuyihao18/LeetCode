@@ -1389,6 +1389,9 @@
     <ClCompile Include="1703_得到连续K个1的最少相邻交换次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1971_寻找图中是否存在路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

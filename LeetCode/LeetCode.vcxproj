@@ -270,6 +270,7 @@
     <ClCompile Include="1832_判断句子是否为全字母句.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
+    <ClCompile Include="1971_寻找图中是否存在路径.cpp" />
     <ClCompile Include="1984_学生分数的最小差值.cpp" />
     <ClCompile Include="1994_好子集的数目.cpp" />
     <ClCompile Include="1995_统计特殊四元组.cpp" />
