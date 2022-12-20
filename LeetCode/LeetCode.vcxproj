@@ -244,6 +244,7 @@
     <ClCompile Include="1748_唯一元素的和.cpp" />
     <ClCompile Include="1752_检查数组是否经排序和轮转得到.cpp" />
     <ClCompile Include="1758_生成交替二进制字符串的最少操作数.cpp" />
+    <ClCompile Include="1760_袋子里最少数目的球.cpp" />
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1764_通过连接另一个数组的子数组得到一个数组.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />

@@ -1392,6 +1392,9 @@
     <ClCompile Include="1971_寻找图中是否存在路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1760_袋子里最少数目的球.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
