@@ -1395,6 +1395,9 @@
     <ClCompile Include="1760_袋子里最少数目的球.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1753_移除石子的最大得分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
