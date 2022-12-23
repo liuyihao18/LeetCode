@@ -280,6 +280,7 @@
     <ClCompile Include="1996_游戏中弱角色的数量.cpp" />
     <ClCompile Include="2000_反转单词前缀.cpp" />
     <ClCompile Include="2006_差的绝对值为K的数对数目.cpp" />
+    <ClCompile Include="2011_执行操作后的变量值.cpp" />
     <ClCompile Include="2013_检测正方形.cpp" />
     <ClCompile Include="2016_增量元素之间的最大差值.cpp" />
     <ClCompile Include="2022_将一维数组转变成二维数组.cpp" />

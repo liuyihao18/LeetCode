@@ -1401,6 +1401,9 @@
     <ClCompile Include="1799_N次操作后的最大分数和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2011_执行操作后的变量值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
