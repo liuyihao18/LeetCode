@@ -1404,6 +1404,9 @@
     <ClCompile Include="2011_执行操作后的变量值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1754_构造字典序最大的合并字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
