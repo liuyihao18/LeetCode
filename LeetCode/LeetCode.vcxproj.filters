@@ -1413,6 +1413,9 @@
     <ClCompile Include="1739_放置盒子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2027_转换字符串的最少操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
