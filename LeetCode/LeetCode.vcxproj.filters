@@ -1416,6 +1416,9 @@
     <ClCompile Include="2027_转换字符串的最少操作次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1750_删除字符串两端相同字符后的最短长度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
