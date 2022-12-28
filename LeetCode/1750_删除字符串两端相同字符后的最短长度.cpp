@@ -18,6 +18,6 @@ public:
                 j--;
             }
         }
-        return j - i + 1;
+        return static_cast<int>(j - i + 1);
     }
 };
