@@ -1425,6 +1425,9 @@
     <ClCompile Include="855_考场就座.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2037_使每位学生都有座位的最少移动次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
