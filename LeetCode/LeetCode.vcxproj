@@ -311,6 +311,7 @@
     <ClCompile Include="223_矩形面积.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
+    <ClCompile Include="2351_第一个出现两次的字母.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />

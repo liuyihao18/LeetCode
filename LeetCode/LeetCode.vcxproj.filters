@@ -1428,6 +1428,9 @@
     <ClCompile Include="2037_使每位学生都有座位的最少移动次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2351_第一个出现两次的字母.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
