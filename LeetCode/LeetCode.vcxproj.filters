@@ -1431,6 +1431,9 @@
     <ClCompile Include="2351_第一个出现两次的字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1801_积压订单中的订单总数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
