@@ -298,6 +298,7 @@
     <ClCompile Include="2037_使每位学生都有座位的最少移动次数.cpp" />
     <ClCompile Include="2038_如果相邻两个颜色均相同则删除当前颜色.cpp" />
     <ClCompile Include="2039_网络空闲的时刻.cpp" />
+    <ClCompile Include="2042_检查句子中的数字是否递增.cpp" />
     <ClCompile Include="2043_简易银行系统.cpp" />
     <ClCompile Include="2044_统计按位或能得到最大值的子集数目.cpp" />
     <ClCompile Include="2045_到达目的地的第二短时间.cpp" />

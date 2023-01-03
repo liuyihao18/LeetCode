@@ -1434,6 +1434,9 @@
     <ClCompile Include="1801_积压订单中的订单总数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2042_检查句子中的数字是否递增.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
