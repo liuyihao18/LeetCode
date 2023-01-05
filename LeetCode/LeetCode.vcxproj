@@ -270,6 +270,7 @@
     <ClCompile Include="1800_最大升序子数组和.cpp" />
     <ClCompile Include="1801_积压订单中的订单总数.cpp" />
     <ClCompile Include="1802_有界数组中指定下标处的最大值.cpp" />
+    <ClCompile Include="1803_统计异或值在范围内的数对有多少.cpp" />
     <ClCompile Include="1805_字符串中不同整数的数目.cpp" />
     <ClCompile Include="1812_判断国际象棋棋盘中一个格子的颜色.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
