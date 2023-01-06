@@ -1443,6 +1443,9 @@
     <ClCompile Include="1803_统计异或值在范围内的数对有多少.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2180_统计各位数字之和为偶数的整数个数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
