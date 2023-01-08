@@ -313,6 +313,7 @@
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="2180_统计各位数字之和为偶数的整数个数.cpp" />
+    <ClCompile Include="2185_统计包含给定前缀的字符串.cpp" />
     <ClCompile Include="219_存在重复元素_II.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
