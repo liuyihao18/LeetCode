@@ -274,6 +274,7 @@
     <ClCompile Include="1803_统计异或值在范围内的数对有多少.cpp" />
     <ClCompile Include="1805_字符串中不同整数的数目.cpp" />
     <ClCompile Include="1806_还原排列的最少操作步数.cpp" />
+    <ClCompile Include="1807_替换字符串中的括号内容.cpp" />
     <ClCompile Include="1812_判断国际象棋棋盘中一个格子的颜色.cpp" />
     <ClCompile Include="1816_截断句子.cpp" />
     <ClCompile Include="1822_数组元素积的符号.cpp" />

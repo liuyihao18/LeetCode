@@ -1461,6 +1461,9 @@
     <ClCompile Include="2283_判断一个数的数字计数是否等于数位的值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1807_替换字符串中的括号内容.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
