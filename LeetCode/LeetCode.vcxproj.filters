@@ -1464,6 +1464,9 @@
     <ClCompile Include="1807_替换字符串中的括号内容.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2287_重排字符形成目标字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
