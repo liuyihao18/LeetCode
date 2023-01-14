@@ -1467,6 +1467,9 @@
     <ClCompile Include="2287_重排字符形成目标字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1819_序列中不同最大公约数的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
