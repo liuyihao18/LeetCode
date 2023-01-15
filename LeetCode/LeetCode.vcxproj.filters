@@ -1470,6 +1470,9 @@
     <ClCompile Include="1819_序列中不同最大公约数的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2293_极大极小游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
