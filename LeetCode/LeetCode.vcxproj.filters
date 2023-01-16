@@ -1473,6 +1473,9 @@
     <ClCompile Include="2293_极大极小游戏.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1813_句子相似性_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
