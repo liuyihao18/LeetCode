@@ -1479,6 +1479,9 @@
     <ClCompile Include="1814_统计一个数组中好对子的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1825_求出MK平均值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
