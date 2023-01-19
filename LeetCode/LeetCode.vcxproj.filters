@@ -1482,6 +1482,9 @@
     <ClCompile Include="1825_求出MK平均值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2299_强密码检验器_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
