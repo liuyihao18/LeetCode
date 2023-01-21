@@ -1488,6 +1488,9 @@
     <ClCompile Include="1817_查找用户活跃分钟数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1824_最少侧跳次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
