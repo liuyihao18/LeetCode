@@ -1491,6 +1491,9 @@
     <ClCompile Include="1824_最少侧跳次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1815_得到新鲜甜甜圈的最多组数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
