@@ -219,6 +219,7 @@
     <ClCompile Include="1656_设计有序流.cpp" />
     <ClCompile Include="1658_将x减到0的最小操作数.cpp" />
     <ClCompile Include="1662_检查两个字符串数组是否相等.cpp" />
+    <ClCompile Include="1663_具有给定数值的最小字符串.cpp" />
     <ClCompile Include="1668_最大重复子字符串.cpp" />
     <ClCompile Include="166_分数到小数.cpp" />
     <ClCompile Include="1672_最富有客户的资产总量.cpp" />
