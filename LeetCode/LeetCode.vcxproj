@@ -331,6 +331,7 @@
     <ClCompile Include="2293_极大极小游戏.cpp" />
     <ClCompile Include="2299_强密码检验器_II.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
+    <ClCompile Include="2309_兼具大小写的最好英文字母.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="2351_第一个出现两次的字母.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
