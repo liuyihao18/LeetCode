@@ -1500,6 +1500,9 @@
     <ClCompile Include="2309_兼具大小写的最好英文字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2315_统计星号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
