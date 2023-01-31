@@ -1506,6 +1506,9 @@
     <ClCompile Include="1669_合并两个链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2319_判断矩阵是否是一个X矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
