@@ -336,6 +336,7 @@
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="2315_统计星号.cpp" />
     <ClCompile Include="2319_判断矩阵是否是一个X矩阵.cpp" />
+    <ClCompile Include="2325_解密消息.cpp" />
     <ClCompile Include="2351_第一个出现两次的字母.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
