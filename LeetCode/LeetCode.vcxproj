@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -270,6 +270,7 @@
     <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
     <ClCompile Include="1796_字符串中第二大的数字_cpp.cpp" />
+    <ClCompile Include="1798_你能构造出连续值的最大数目.cpp" />
     <ClCompile Include="1799_N次操作后的最大分数和.cpp" />
     <ClCompile Include="1800_最大升序子数组和.cpp" />
     <ClCompile Include="1801_积压订单中的订单总数.cpp" />
