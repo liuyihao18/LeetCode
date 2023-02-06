@@ -1515,6 +1515,12 @@
     <ClCompile Include="1129_颜色交替的最短路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1798_你能构造出连续值的最大数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2331_计算布尔二叉树的值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
