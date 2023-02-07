@@ -1521,6 +1521,9 @@
     <ClCompile Include="2331_计算布尔二叉树的值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1604_警告一小时内使用相同员工卡大于等于三次的人.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
