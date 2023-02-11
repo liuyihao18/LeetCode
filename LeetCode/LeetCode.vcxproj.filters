@@ -1530,6 +1530,9 @@
     <ClCompile Include="1797_设计一个验证系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2335_装满杯子需要的最短总时长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
