@@ -345,6 +345,7 @@
     <ClCompile Include="2325_解密消息.cpp" />
     <ClCompile Include="2331_计算布尔二叉树的值.cpp" />
     <ClCompile Include="2335_装满杯子需要的最短总时长.cpp" />
+    <ClCompile Include="2341_数组能形成多少数对.cpp" />
     <ClCompile Include="2351_第一个出现两次的字母.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
