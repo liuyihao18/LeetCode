@@ -272,6 +272,7 @@
     <ClCompile Include="1785_构成特定和需要添加的最少元素.cpp" />
     <ClCompile Include="1790_仅执行一次字符串交换能否使两个字符串相等.cpp" />
     <ClCompile Include="1791_找出星型图的中心节点.cpp" />
+    <ClCompile Include="1792_最大平均通过率.cpp" />
     <ClCompile Include="1796_字符串中第二大的数字_cpp.cpp" />
     <ClCompile Include="1797_设计一个验证系统.cpp" />
     <ClCompile Include="1798_你能构造出连续值的最大数目.cpp" />

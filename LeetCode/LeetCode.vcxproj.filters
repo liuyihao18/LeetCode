@@ -1536,6 +1536,12 @@
     <ClCompile Include="1138_字母板上的路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2341_数组能形成多少数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1792_最大平均通过率.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
