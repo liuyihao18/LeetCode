@@ -1542,6 +1542,9 @@
     <ClCompile Include="1792_最大平均通过率.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2347_最好的扑克手牌.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
