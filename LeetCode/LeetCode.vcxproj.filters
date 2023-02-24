@@ -1545,6 +1545,9 @@
     <ClCompile Include="2347_最好的扑克手牌.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2357_使数组中所有元素都等于零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -349,6 +349,7 @@
     <ClCompile Include="2341_数组能形成多少数对.cpp" />
     <ClCompile Include="2347_最好的扑克手牌.cpp" />
     <ClCompile Include="2351_第一个出现两次的字母.cpp" />
+    <ClCompile Include="2357_使数组中所有元素都等于零.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />
