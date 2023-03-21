@@ -353,6 +353,7 @@
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />
+    <ClCompile Include="2469_温度转换.cpp" />
     <ClCompile Include="258_各位相加.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
     <ClCompile Include="268_丢失的数字.cpp" />
