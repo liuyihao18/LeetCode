@@ -1554,6 +1554,9 @@
     <ClCompile Include="1072_按列翻转得到最大值等行数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1079_活字印刷.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
