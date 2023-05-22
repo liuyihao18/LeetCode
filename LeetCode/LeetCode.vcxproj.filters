@@ -1557,6 +1557,9 @@
     <ClCompile Include="1079_活字印刷.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1080_根到叶路径上的不足节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
