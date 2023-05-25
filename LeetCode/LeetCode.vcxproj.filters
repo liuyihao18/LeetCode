@@ -1563,6 +1563,9 @@
     <ClCompile Include="1090_受标签影响的最大值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2451_差值数组不同的字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
