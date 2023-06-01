@@ -1569,6 +1569,9 @@
     <ClCompile Include="1130_叶值的最小代价生成树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2517_礼盒的最大甜蜜度.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
