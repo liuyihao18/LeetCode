@@ -1572,6 +1572,9 @@
     <ClCompile Include="2517_礼盒的最大甜蜜度.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2559_统计范围内的元音字符串数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
