@@ -188,6 +188,7 @@
     <ClCompile Include="1345_跳跃游戏_IV.cpp" />
     <ClCompile Include="1374_生成每种字符都是奇数个的字符串.cpp" />
     <ClCompile Include="1380_矩阵中的幸运数.cpp" />
+    <ClCompile Include="1401_圆和矩形是否有重叠.cpp" />
     <ClCompile Include="1403_非递增顺序的最小子序列.cpp" />
     <ClCompile Include="1405_最长快乐字符串.cpp" />
     <ClCompile Include="1408_数组中的字符串匹配.cpp" />
