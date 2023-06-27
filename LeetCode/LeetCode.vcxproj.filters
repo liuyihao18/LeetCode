@@ -1575,6 +1575,12 @@
     <ClCompile Include="2559_统计范围内的元音字符串数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1401_圆和矩形是否有重叠.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1186_删除一次得到子数组最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
