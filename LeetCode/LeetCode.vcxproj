@@ -179,6 +179,7 @@
     <ClCompile Include="1233_删除子文件夹.cpp" />
     <ClCompile Include="1235_规划兼职工作.cpp" />
     <ClCompile Include="1252_奇数值单元格的数目.cpp" />
+    <ClCompile Include="1253_重构2行二进制矩阵.cpp" />
     <ClCompile Include="1260_二维网格迁移.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1302_层数最深叶子节点的和.cpp" />
