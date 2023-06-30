@@ -363,6 +363,7 @@
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />
     <ClCompile Include="2451_差值数组不同的字符串.cpp" />
     <ClCompile Include="2469_温度转换.cpp" />
+    <ClCompile Include="2490_回环句.cpp" />
     <ClCompile Include="2517_礼盒的最大甜蜜度.cpp" />
     <ClCompile Include="2559_统计范围内的元音字符串数.cpp" />
     <ClCompile Include="258_各位相加.cpp" />
