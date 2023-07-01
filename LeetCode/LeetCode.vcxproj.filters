@@ -1587,6 +1587,9 @@
     <ClCompile Include="2490_回环句.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1_两数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
