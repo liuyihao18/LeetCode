@@ -1593,6 +1593,9 @@
     <ClCompile Include="2_两数相加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="445_两数相加_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
