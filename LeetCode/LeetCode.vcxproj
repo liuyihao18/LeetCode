@@ -369,6 +369,7 @@
     <ClCompile Include="2559_统计范围内的元音字符串数.cpp" />
     <ClCompile Include="258_各位相加.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
+    <ClCompile Include="2679_矩阵中的和.cpp" />
     <ClCompile Include="268_丢失的数字.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />

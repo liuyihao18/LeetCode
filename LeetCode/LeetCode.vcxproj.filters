@@ -1596,6 +1596,9 @@
     <ClCompile Include="445_两数相加_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2679_矩阵中的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
