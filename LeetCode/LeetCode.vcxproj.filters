@@ -1599,6 +1599,9 @@
     <ClCompile Include="2679_矩阵中的和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2600_K件物品的最大和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
