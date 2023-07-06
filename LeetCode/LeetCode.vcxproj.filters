@@ -1602,6 +1602,9 @@
     <ClCompile Include="2600_K件物品的最大和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2178_拆分成最多数目的正偶数之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
