@@ -237,6 +237,7 @@
     <ClCompile Include="166_分数到小数.cpp" />
     <ClCompile Include="1672_最富有客户的资产总量.cpp" />
     <ClCompile Include="1678_设计_Goal_解析器.cpp" />
+    <ClCompile Include="167_两数之和_II_输入有序数组.cpp" />
     <ClCompile Include="1684_统计一致字符串的数目.cpp" />
     <ClCompile Include="1687_从仓库到码头运输箱子.cpp" />
     <ClCompile Include="1688_比赛中的配对次数.cpp" />
