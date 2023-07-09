@@ -213,6 +213,7 @@
     <ClCompile Include="1582_二进制矩阵中的特殊位置.cpp" />
     <ClCompile Include="1592_重新排列单词间的空格.cpp" />
     <ClCompile Include="1598_文件夹操作日志搜集器.cpp" />
+    <ClCompile Include="15_三数之和.cpp" />
     <ClCompile Include="1601_最多可达成的换楼请求数目.cpp" />
     <ClCompile Include="1604_警告一小时内使用相同员工卡大于等于三次的人.cpp" />
     <ClCompile Include="1606_找到处理最多请求的服务器.cpp" />
