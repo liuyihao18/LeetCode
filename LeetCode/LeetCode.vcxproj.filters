@@ -1620,6 +1620,9 @@
     <ClCompile Include="860_柠檬水找零.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="771_宝石与石头.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
