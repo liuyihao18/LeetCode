@@ -1623,6 +1623,12 @@
     <ClCompile Include="771_宝石与石头.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2208_将数组和减半的最少操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2681_英雄的力量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
