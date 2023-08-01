@@ -18,6 +18,6 @@ public:
             q.push(top);
             cnt++;
         }
-        return cnt;
+        return static_cast<int>(cnt);
     }
 };
