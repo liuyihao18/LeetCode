@@ -601,6 +601,7 @@
     <ClCompile Include="817_链表组件.cpp" />
     <ClCompile Include="819_最常见的单词.cpp" />
     <ClCompile Include="821_字符的最短距离.cpp" />
+    <ClCompile Include="822_翻转卡片游戏.cpp" />
     <ClCompile Include="824_山羊拉丁文.cpp" />
     <ClCompile Include="825_适龄的朋友.cpp" />
     <ClCompile Include="827_最大人工岛.cpp" />
