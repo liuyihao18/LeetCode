@@ -663,6 +663,7 @@
     <ClCompile Include="961_在长度2N的数组中找出重复N次的元素.cpp" />
     <ClCompile Include="965_单值二叉树.cpp" />
     <ClCompile Include="969_煎饼排序.cpp" />
+    <ClCompile Include="980_不同路径_III.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="998_最大二叉树_II.cpp" />
     <ClCompile Include="main.cpp" />
