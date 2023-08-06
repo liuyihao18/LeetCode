@@ -1635,6 +1635,9 @@
     <ClCompile Include="980_不同路径_III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="24_两两交换链表中的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
