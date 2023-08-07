@@ -1638,6 +1638,9 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="344_反转字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
