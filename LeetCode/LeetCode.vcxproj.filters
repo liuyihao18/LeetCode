@@ -1641,6 +1641,9 @@
     <ClCompile Include="344_反转字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1749_任意子数组和的绝对值的最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
