@@ -1638,10 +1638,7 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="344_反转字符串.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="1749_任意子数组和的绝对值的最大值.cpp">
+    <ClCompile Include="1281_整数的各位积和之差.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

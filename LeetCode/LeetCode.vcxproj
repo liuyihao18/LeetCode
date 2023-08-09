@@ -181,6 +181,7 @@
     <ClCompile Include="1252_奇数值单元格的数目.cpp" />
     <ClCompile Include="1253_重构2行二进制矩阵.cpp" />
     <ClCompile Include="1260_二维网格迁移.cpp" />
+    <ClCompile Include="1281_整数的各位积和之差.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1302_层数最深叶子节点的和.cpp" />
     <ClCompile Include="1305_两棵二叉搜索树中的所有元素.cpp" />
@@ -260,7 +261,6 @@
     <ClCompile Include="1739_放置盒子.cpp" />
     <ClCompile Include="1742_盒子中小球的最大数量.cpp" />
     <ClCompile Include="1748_唯一元素的和.cpp" />
-    <ClCompile Include="1749_任意子数组和的绝对值的最大值.cpp" />
     <ClCompile Include="1750_删除字符串两端相同字符后的最短长度.cpp" />
     <ClCompile Include="1752_检查数组是否经排序和轮转得到.cpp" />
     <ClCompile Include="1753_移除石子的最大得分.cpp" />
@@ -399,7 +399,6 @@
     <ClCompile Include="326_3的幂.cpp" />
     <ClCompile Include="334_递增的三元子序列.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
-    <ClCompile Include="344_反转字符串.cpp" />
     <ClCompile Include="352_将数据流变为多个不相交区间.cpp" />
     <ClCompile Include="357_统计各位数字都不同的数字个数.cpp" />
     <ClCompile Include="367_有效的完全平方数.cpp" />
