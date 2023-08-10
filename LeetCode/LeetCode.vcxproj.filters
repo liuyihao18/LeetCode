@@ -1641,6 +1641,9 @@
     <ClCompile Include="1281_整数的各位积和之差.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1289_下降路径最小和_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
