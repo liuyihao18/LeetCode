@@ -1644,6 +1644,9 @@
     <ClCompile Include="1289_下降路径最小和_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1572_矩阵对角线元素的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

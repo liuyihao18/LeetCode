@@ -211,6 +211,7 @@
     <ClCompile Include="1470_重新排列数组.cpp" />
     <ClCompile Include="1475_商品折扣后的最终价格.cpp" />
     <ClCompile Include="1518_换酒问题.cpp" />
+    <ClCompile Include="1572_矩阵对角线元素的和.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1582_二进制矩阵中的特殊位置.cpp" />
     <ClCompile Include="1592_重新排列单词间的空格.cpp" />
