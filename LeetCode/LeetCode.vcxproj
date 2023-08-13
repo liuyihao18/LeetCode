@@ -636,6 +636,7 @@
     <ClCompile Include="883_三维形体投影面积.cpp" />
     <ClCompile Include="884_两句话中的不常见单词.cpp" />
     <ClCompile Include="886_可能的二分法.cpp" />
+    <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="890_查找和替换模式.cpp" />
     <ClCompile Include="891_子序列宽度之和.cpp" />
     <ClCompile Include="895_最大频率栈.cpp" />
