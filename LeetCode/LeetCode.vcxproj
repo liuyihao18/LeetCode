@@ -505,6 +505,7 @@
     <ClCompile Include="598_范围求和_II.cpp" />
     <ClCompile Include="599_两个列表的最小索引总和.cpp" />
     <ClCompile Include="606_根据二叉树创建字符串.cpp" />
+    <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="622_设计循环队列.cpp" />
     <ClCompile Include="623_在二叉树中增加一行.cpp" />
     <ClCompile Include="629_K个逆序对数组.cpp" />
