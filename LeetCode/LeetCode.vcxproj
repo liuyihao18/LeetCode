@@ -614,6 +614,7 @@
     <ClCompile Include="827_最大人工岛.cpp" />
     <ClCompile Include="828_统计子串中的唯一字符.cpp" />
     <ClCompile Include="829_连续整数求和.cpp" />
+    <ClCompile Include="833_字符串中的查找与替换.cpp" />
     <ClCompile Include="838_推多米诺.cpp" />
     <ClCompile Include="846_一手顺子.cpp" />
     <ClCompile Include="850_矩形面积_II.cpp" />
