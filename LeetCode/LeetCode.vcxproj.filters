@@ -1665,6 +1665,9 @@
     <ClCompile Include="2682_找出转圈游戏输家.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1388_3n块披萨.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
