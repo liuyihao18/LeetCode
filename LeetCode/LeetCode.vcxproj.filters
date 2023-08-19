@@ -1668,6 +1668,9 @@
     <ClCompile Include="1388_3n块披萨.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2235_两整数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

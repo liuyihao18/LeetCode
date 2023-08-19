@@ -352,6 +352,7 @@
     <ClCompile Include="2185_统计包含给定前缀的字符串.cpp" />
     <ClCompile Include="219_存在重复元素_II.cpp" />
     <ClCompile Include="2208_将数组和减半的最少操作次数.cpp" />
+    <ClCompile Include="2235_两整数相加.cpp" />
     <ClCompile Include="223_矩形面积.cpp" />
     <ClCompile Include="2283_判断一个数的数字计数是否等于数位的值.cpp" />
     <ClCompile Include="2287_重排字符形成目标字符串.cpp" />
