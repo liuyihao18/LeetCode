@@ -1671,6 +1671,9 @@
     <ClCompile Include="2235_两整数相加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2236_判断根结点是否等于子结点之和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
