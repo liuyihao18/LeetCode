@@ -1677,6 +1677,9 @@
     <ClCompile Include="2337_移动片段得到字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="849_到最近的人的最大距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
