@@ -1680,6 +1680,9 @@
     <ClCompile Include="849_到最近的人的最大距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1782_统计点对的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
