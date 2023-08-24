@@ -181,6 +181,7 @@
     <ClCompile Include="1252_奇数值单元格的数目.cpp" />
     <ClCompile Include="1253_重构2行二进制矩阵.cpp" />
     <ClCompile Include="1260_二维网格迁移.cpp" />
+    <ClCompile Include="1267_统计参与通信的服务器.cpp" />
     <ClCompile Include="1281_整数的各位积和之差.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1289_下降路径最小和_II.cpp" />

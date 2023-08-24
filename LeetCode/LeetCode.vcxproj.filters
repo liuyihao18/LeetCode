@@ -1683,6 +1683,9 @@
     <ClCompile Include="1782_统计点对的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1267_统计参与通信的服务器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
