@@ -360,6 +360,7 @@
     <ClCompile Include="223_矩形面积.cpp" />
     <ClCompile Include="2283_判断一个数的数字计数是否等于数位的值.cpp" />
     <ClCompile Include="2287_重排字符形成目标字符串.cpp" />
+    <ClCompile Include="228_汇总区间.cpp" />
     <ClCompile Include="2293_极大极小游戏.cpp" />
     <ClCompile Include="2299_强密码检验器_II.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
