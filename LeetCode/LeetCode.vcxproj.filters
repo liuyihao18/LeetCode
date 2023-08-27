@@ -1692,6 +1692,9 @@
     <ClCompile Include="228_汇总区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="56_合并区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

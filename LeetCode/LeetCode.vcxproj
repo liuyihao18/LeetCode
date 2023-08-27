@@ -501,6 +501,7 @@
     <ClCompile Include="563_二叉树的坡度.cpp" />
     <ClCompile Include="564_寻找最近的回文数.cpp" />
     <ClCompile Include="565_数组嵌套.cpp" />
+    <ClCompile Include="56_合并区间.cpp" />
     <ClCompile Include="575_分糖果.cpp" />
     <ClCompile Include="583_两个字符串的删除操作.cpp" />
     <ClCompile Include="587_安装栅栏.cpp" />
