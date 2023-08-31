@@ -274,6 +274,7 @@
     <ClCompile Include="1758_生成交替二进制字符串的最少操作数.cpp" />
     <ClCompile Include="1759_统计同构子字符串的数目.cpp" />
     <ClCompile Include="1760_袋子里最少数目的球.cpp" />
+    <ClCompile Include="1761_一个图中连通三元组的最小度数.cpp" />
     <ClCompile Include="1763_最长的美好子字符串.cpp" />
     <ClCompile Include="1764_通过连接另一个数组的子数组得到一个数组.cpp" />
     <ClCompile Include="1765_地图中的最高点.cpp" />
@@ -420,7 +421,7 @@
     <ClCompile Include="372_超级次方.cpp" />
     <ClCompile Include="373_查找和最小的K对数字.cpp" />
     <ClCompile Include="375_猜数字大小_II.cpp" />
-    <ClCompile Include="380_O%281%29 时间插入、删除和获取随机元素.cpp" />
+    <ClCompile Include="380_O%281%29时间插入、删除和获取随机元素.cpp" />
     <ClCompile Include="382_链表随机节点.cpp" />
     <ClCompile Include="383_赎金信.cpp" />
     <ClCompile Include="384_打乱数组.cpp" />
