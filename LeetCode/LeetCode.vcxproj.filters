@@ -1698,6 +1698,9 @@
     <ClCompile Include="1761_一个图中连通三元组的最小度数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2240_买钢笔和铅笔的方案数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
