@@ -1701,6 +1701,15 @@
     <ClCompile Include="2240_买钢笔和铅笔的方案数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1921_消灭怪物的最大数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2511_最多可以摧毁的敌人城堡数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2605_从两个数字数组里生成最小数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
