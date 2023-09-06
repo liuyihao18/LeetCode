@@ -159,6 +159,7 @@
     <ClCompile Include="1090_受标签影响的最大值.cpp" />
     <ClCompile Include="1106_解析布尔表达式.cpp" />
     <ClCompile Include="1108_IP_地址无效化.cpp" />
+    <ClCompile Include="1123_最深叶节点的最近公共祖先.cpp" />
     <ClCompile Include="1129_颜色交替的最短路径.cpp" />
     <ClCompile Include="1130_叶值的最小代价生成树.cpp" />
     <ClCompile Include="1138_字母板上的路径.cpp" />
