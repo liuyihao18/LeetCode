@@ -1713,6 +1713,9 @@
     <ClCompile Include="1123_最深叶节点的最近公共祖先.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2594_修车的最少时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
