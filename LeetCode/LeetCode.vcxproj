@@ -349,6 +349,7 @@
     <ClCompile Include="2047_句子中的有效单词数.cpp" />
     <ClCompile Include="2049_统计最高分的节点数目.cpp" />
     <ClCompile Include="2055_蜡烛之间的盘子.cpp" />
+    <ClCompile Include="207_课程表.cpp" />
     <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
