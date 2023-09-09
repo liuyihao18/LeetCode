@@ -12,21 +12,21 @@ public:
             inDegree[v]++;
             edges[u].push_back(v);
         }
-        priority_queue<int> pq;
+        queue<int> q;
         for (int i = 0; i < inDegree.size(); i++) {
             if (inDegree[i] == 0) {
-                pq.emplace(i);
+                q.emplace(i);
             }
         }
         int cnt = 0;
-        while (!pq.empty()) {
-            int u = pq.top();
-            pq.pop();
+        while (!q.empty()) {
+            int u = q.front();
+            q.pop();
             cnt++;
             for (auto v : edges[u]) {
                 inDegree[v]--;
                 if (inDegree[v] == 0) {
-                    pq.emplace(v);
+                    q.emplace(v);
                 }
             }
         }
