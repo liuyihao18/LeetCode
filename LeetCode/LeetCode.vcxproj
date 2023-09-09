@@ -398,6 +398,7 @@
     <ClCompile Include="2600_K件物品的最大和.cpp" />
     <ClCompile Include="2605_从两个数字数组里生成最小数字.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
+    <ClCompile Include="2651_计算列车到站时间.cpp" />
     <ClCompile Include="2679_矩阵中的和.cpp" />
     <ClCompile Include="2681_英雄的力量.cpp" />
     <ClCompile Include="2682_找出转圈游戏输家.cpp" />
@@ -694,6 +695,7 @@
     <ClCompile Include="980_不同路径_III.cpp" />
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="998_最大二叉树_II.cpp" />
+    <ClCompile Include="9_回文数.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_029_排序的循环链表.cpp" />
     <ClCompile Include="剑指_Offer_II_041_滑动窗口的平均值.cpp" />
