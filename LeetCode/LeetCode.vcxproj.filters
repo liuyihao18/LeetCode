@@ -1719,6 +1719,15 @@
     <ClCompile Include="207_课程表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2651_计算列车到站时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="9_回文数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="210_课程表_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
