@@ -1728,6 +1728,9 @@
     <ClCompile Include="210_课程表_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2596_检查骑士巡视方案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -396,6 +396,7 @@
     <ClCompile Include="2559_统计范围内的元音字符串数.cpp" />
     <ClCompile Include="258_各位相加.cpp" />
     <ClCompile Include="2594_修车的最少时间.cpp" />
+    <ClCompile Include="2596_检查骑士巡视方案.cpp" />
     <ClCompile Include="2600_K件物品的最大和.cpp" />
     <ClCompile Include="2605_从两个数字数组里生成最小数字.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
