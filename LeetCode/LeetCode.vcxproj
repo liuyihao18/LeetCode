@@ -176,6 +176,7 @@
     <ClCompile Include="1218_最长定差子序列.cpp" />
     <ClCompile Include="1219_黄金矿工.cpp" />
     <ClCompile Include="1220_统计元音字母序列的数目.cpp" />
+    <ClCompile Include="1222_可以攻击国王的皇后.cpp" />
     <ClCompile Include="1224_最大相等频率.cpp" />
     <ClCompile Include="1233_删除子文件夹.cpp" />
     <ClCompile Include="1235_规划兼职工作.cpp" />
