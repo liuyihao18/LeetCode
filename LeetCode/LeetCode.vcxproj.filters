@@ -1731,6 +1731,9 @@
     <ClCompile Include="2596_检查骑士巡视方案.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LCP_50_宝石补给.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

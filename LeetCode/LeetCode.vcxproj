@@ -698,6 +698,7 @@
     <ClCompile Include="997_找到小镇的法官.cpp" />
     <ClCompile Include="998_最大二叉树_II.cpp" />
     <ClCompile Include="9_回文数.cpp" />
+    <ClCompile Include="LCP_50_宝石补给.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_029_排序的循环链表.cpp" />
     <ClCompile Include="剑指_Offer_II_041_滑动窗口的平均值.cpp" />
