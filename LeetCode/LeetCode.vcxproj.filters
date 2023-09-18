@@ -1734,6 +1734,15 @@
     <ClCompile Include="LCP_50_宝石补给.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1222_可以攻击国王的皇后.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198_打家劫舍.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="337_打家劫舍_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
