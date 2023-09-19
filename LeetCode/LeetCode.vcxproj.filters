@@ -1743,6 +1743,9 @@
     <ClCompile Include="337_打家劫舍_III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2560_打家劫舍_IV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
