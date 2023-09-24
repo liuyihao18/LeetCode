@@ -1752,6 +1752,9 @@
     <ClCompile Include="2591_将钱分给最多的儿童.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1993_树上的操作.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
