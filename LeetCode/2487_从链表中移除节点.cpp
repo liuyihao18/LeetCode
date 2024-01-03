@@ -21,15 +21,10 @@ public:
         ListNode* prev = virtualHead;
         ListNode* curr = head;
         while (curr) {
-            if (st.empty()) {
-                st.push_back(curr->val);
+            while (!st.empty() && st.back() < curr->val) {
+                st.pop_back();
             }
-            else {
-                while (!st.empty() && st.back() < curr->val) {
-                    st.pop_back();
-                }
-                st.push_back(curr->val);
-            }
+            st.push_back(curr->val);
             curr = curr->next;
         }
         curr = head;
