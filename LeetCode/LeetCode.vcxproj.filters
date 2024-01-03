@@ -1755,6 +1755,9 @@
     <ClCompile Include="1993_树上的操作.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2487_从链表中移除节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

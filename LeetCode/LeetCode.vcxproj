@@ -391,6 +391,7 @@
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />
     <ClCompile Include="2451_差值数组不同的字符串.cpp" />
     <ClCompile Include="2469_温度转换.cpp" />
+    <ClCompile Include="2487_从链表中移除节点.cpp" />
     <ClCompile Include="2490_回环句.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="2511_最多可以摧毁的敌人城堡数目.cpp" />
