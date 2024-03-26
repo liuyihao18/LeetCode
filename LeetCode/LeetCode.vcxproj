@@ -406,6 +406,7 @@
     <ClCompile Include="2600_K件物品的最大和.cpp" />
     <ClCompile Include="2605_从两个数字数组里生成最小数字.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
+    <ClCompile Include="2642_设计可以求最短路径的图类.cpp" />
     <ClCompile Include="2651_计算列车到站时间.cpp" />
     <ClCompile Include="2679_矩阵中的和.cpp" />
     <ClCompile Include="2681_英雄的力量.cpp" />
