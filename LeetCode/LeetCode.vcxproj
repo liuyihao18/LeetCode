@@ -413,8 +413,10 @@
     <ClCompile Include="2682_找出转圈游戏输家.cpp" />
     <ClCompile Include="268_丢失的数字.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
+    <ClCompile Include="2810_故障键盘.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
+    <ClCompile Include="2908_元素和最小的山形三元组_I.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
     <ClCompile Include="299_猜数字游戏.cpp" />
     <ClCompile Include="29_两数相除.cpp" />

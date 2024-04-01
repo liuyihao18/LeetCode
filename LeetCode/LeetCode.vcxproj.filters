@@ -1761,6 +1761,12 @@
     <ClCompile Include="2642_设计可以求最短路径的图类.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2908_元素和最小的山形三元组_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2810_故障键盘.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
