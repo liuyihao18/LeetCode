@@ -673,6 +673,7 @@
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="890_查找和替换模式.cpp" />
     <ClCompile Include="891_子序列宽度之和.cpp" />
+    <ClCompile Include="894_所有可能的真二叉树.cpp" />
     <ClCompile Include="895_最大频率栈.cpp" />
     <ClCompile Include="899_有序队列.cpp" />
     <ClCompile Include="89_格雷编码.cpp" />
