@@ -1770,6 +1770,9 @@
     <ClCompile Include="894_所有可能的真二叉树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1379_找出克隆二叉树中的相同节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
