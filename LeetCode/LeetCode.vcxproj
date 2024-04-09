@@ -398,6 +398,7 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="2511_最多可以摧毁的敌人城堡数目.cpp" />
     <ClCompile Include="2517_礼盒的最大甜蜜度.cpp" />
+    <ClCompile Include="2529_正整数和负整数的最大计数.cpp" />
     <ClCompile Include="2544_交替数字和.cpp" />
     <ClCompile Include="2559_统计范围内的元音字符串数.cpp" />
     <ClCompile Include="2560_打家劫舍_IV.cpp" />
