@@ -1779,6 +1779,9 @@
     <ClCompile Include="3106_满足距离约束且字典序最小的字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2961_双模幂运算.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
