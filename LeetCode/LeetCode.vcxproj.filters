@@ -1782,6 +1782,9 @@
     <ClCompile Include="2961_双模幂运算.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3143_正方形中的最多点数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
