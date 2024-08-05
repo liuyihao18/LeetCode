@@ -1788,6 +1788,9 @@
     <ClCompile Include="572_另一棵树的子树.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="600_不含连续1的非负整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
