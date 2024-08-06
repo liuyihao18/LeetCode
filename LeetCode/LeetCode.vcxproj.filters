@@ -1791,6 +1791,9 @@
     <ClCompile Include="600_不含连续1的非负整数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="LCP_40_心算挑战.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
