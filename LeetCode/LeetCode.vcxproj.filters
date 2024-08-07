@@ -1794,6 +1794,9 @@
     <ClCompile Include="LCP_40_心算挑战.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3128_直角三角形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
