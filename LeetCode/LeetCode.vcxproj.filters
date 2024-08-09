@@ -1800,6 +1800,9 @@
     <ClCompile Include="3131_找出与数组相加的整数_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3132_找出与数组相加的整数_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

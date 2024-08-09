@@ -432,6 +432,7 @@
     <ClCompile Include="310_最小高度树.cpp" />
     <ClCompile Include="3128_直角三角形.cpp" />
     <ClCompile Include="3131_找出与数组相加的整数_I.cpp" />
+    <ClCompile Include="3132_找出与数组相加的整数_II.cpp" />
     <ClCompile Include="3143_正方形中的最多点数.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
