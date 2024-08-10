@@ -1803,6 +1803,9 @@
     <ClCompile Include="3132_找出与数组相加的整数_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2940_找到Alice和Bob可以相遇的建筑.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
