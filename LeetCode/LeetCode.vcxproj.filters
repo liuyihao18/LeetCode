@@ -1812,6 +1812,9 @@
     <ClCompile Include="3152_特殊数组_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3148_矩阵中的最大得分.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
