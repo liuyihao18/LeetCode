@@ -421,6 +421,8 @@
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="2908_元素和最小的山形三元组_I.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
+    <ClCompile Include="2940_找到Alice和Bob可以相遇的建筑.cpp" />
+    <ClCompile Include="2961_双模幂运算.cpp" />
     <ClCompile Include="299_猜数字游戏.cpp" />
     <ClCompile Include="29_两数相除.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
@@ -428,7 +430,15 @@
     <ClCompile Include="306_累加数.cpp" />
     <ClCompile Include="307_区域和检索 - 数组可修改.cpp" />
     <ClCompile Include="30_串联所有单词的子串.cpp" />
+    <ClCompile Include="3106_满足距离约束且字典序最小的字符串.cpp" />
     <ClCompile Include="310_最小高度树.cpp" />
+    <ClCompile Include="3128_直角三角形.cpp" />
+    <ClCompile Include="3131_找出与数组相加的整数_I.cpp" />
+    <ClCompile Include="3132_找出与数组相加的整数_II.cpp" />
+    <ClCompile Include="3143_正方形中的最多点数.cpp" />
+    <ClCompile Include="3148_矩阵中的最大得分.cpp" />
+    <ClCompile Include="3151_特殊数组_I.cpp" />
+    <ClCompile Include="3152_特殊数组_II.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
     <ClCompile Include="324_摆动排序_II.cpp" />
@@ -526,6 +536,7 @@
     <ClCompile Include="564_寻找最近的回文数.cpp" />
     <ClCompile Include="565_数组嵌套.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
+    <ClCompile Include="572_另一棵树的子树.cpp" />
     <ClCompile Include="575_分糖果.cpp" />
     <ClCompile Include="583_两个字符串的删除操作.cpp" />
     <ClCompile Include="587_安装栅栏.cpp" />
@@ -538,6 +549,7 @@
     <ClCompile Include="594_最长和谐子序列.cpp" />
     <ClCompile Include="598_范围求和_II.cpp" />
     <ClCompile Include="599_两个列表的最小索引总和.cpp" />
+    <ClCompile Include="600_不含连续1的非负整数.cpp" />
     <ClCompile Include="606_根据二叉树创建字符串.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="622_设计循环队列.cpp" />
@@ -713,6 +725,7 @@
     <ClCompile Include="998_最大二叉树_II.cpp" />
     <ClCompile Include="9_回文数.cpp" />
     <ClCompile Include="LCP_06_拿硬币.cpp" />
+    <ClCompile Include="LCP_40_心算挑战.cpp" />
     <ClCompile Include="LCP_50_宝石补给.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="剑指_Offer_II_029_排序的循环链表.cpp" />
