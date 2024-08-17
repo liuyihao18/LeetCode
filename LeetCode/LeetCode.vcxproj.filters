@@ -1818,6 +1818,9 @@
     <ClCompile Include="3148_矩阵中的最大得分.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3137_K周期字符串需要的最少操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
