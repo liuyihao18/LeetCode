@@ -1821,6 +1821,9 @@
     <ClCompile Include="3137_K周期字符串需要的最少操作次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="551_学生出勤记录_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -529,6 +529,7 @@
     <ClCompile Include="537_复数乘法.cpp" />
     <ClCompile Include="539_最小时间差.cpp" />
     <ClCompile Include="540_有序数组中的单一元素.cpp" />
+    <ClCompile Include="551_学生出勤记录_I.cpp" />
     <ClCompile Include="553_最优除法.cpp" />
     <ClCompile Include="556_下一个更大元素_III.cpp" />
     <ClCompile Include="558_四叉树交集.cpp" />
