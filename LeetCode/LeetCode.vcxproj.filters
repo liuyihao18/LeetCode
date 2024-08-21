@@ -1824,6 +1824,9 @@
     <ClCompile Include="551_学生出勤记录_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3007_价值和小于等于K的最大数字.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
