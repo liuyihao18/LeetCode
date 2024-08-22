@@ -436,6 +436,7 @@
     <ClCompile Include="3128_直角三角形.cpp" />
     <ClCompile Include="3131_找出与数组相加的整数_I.cpp" />
     <ClCompile Include="3132_找出与数组相加的整数_II.cpp" />
+    <ClCompile Include="3133_数组最后一个元素的最小值.cpp" />
     <ClCompile Include="3137_K周期字符串需要的最少操作次数.cpp" />
     <ClCompile Include="3143_正方形中的最多点数.cpp" />
     <ClCompile Include="3148_矩阵中的最大得分.cpp" />
