@@ -589,6 +589,7 @@
     <ClCompile Include="687_最长同值路径.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
+    <ClCompile Include="690_员工的重要性.cpp" />
     <ClCompile Include="691_贴纸拼词.cpp" />
     <ClCompile Include="693_交替位二进制数.cpp" />
     <ClCompile Include="698_划分为k个相等的子集.cpp" />
