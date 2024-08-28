@@ -440,6 +440,7 @@
     <ClCompile Include="3137_K周期字符串需要的最少操作次数.cpp" />
     <ClCompile Include="3143_正方形中的最多点数.cpp" />
     <ClCompile Include="3144_分割字符频率相等的最少子字符串.cpp" />
+    <ClCompile Include="3146_两个字符串的排列差.cpp" />
     <ClCompile Include="3148_矩阵中的最大得分.cpp" />
     <ClCompile Include="3151_特殊数组_I.cpp" />
     <ClCompile Include="3152_特殊数组_II.cpp" />
@@ -589,6 +590,7 @@
     <ClCompile Include="687_最长同值路径.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
     <ClCompile Include="689_三个无重叠子数组的最大和.cpp" />
+    <ClCompile Include="690_员工的重要性.cpp" />
     <ClCompile Include="691_贴纸拼词.cpp" />
     <ClCompile Include="693_交替位二进制数.cpp" />
     <ClCompile Include="698_划分为k个相等的子集.cpp" />
