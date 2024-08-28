@@ -1830,6 +1830,9 @@
     <ClCompile Include="3133_数组最后一个元素的最小值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3144_分割字符频率相等的最少子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
