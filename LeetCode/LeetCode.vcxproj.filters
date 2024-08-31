@@ -1830,6 +1830,9 @@
     <ClCompile Include="3133_数组最后一个元素的最小值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3144_分割字符频率相等的最少子字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="3146_两个字符串的排列差.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -1837,6 +1840,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="3127_构造相同颜色的正方形.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3142_判断矩阵是否满足条件.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3153_所有数对中数位不同之和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
