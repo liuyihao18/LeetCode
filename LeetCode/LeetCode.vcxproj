@@ -433,6 +433,7 @@
     <ClCompile Include="30_串联所有单词的子串.cpp" />
     <ClCompile Include="3106_满足距离约束且字典序最小的字符串.cpp" />
     <ClCompile Include="310_最小高度树.cpp" />
+    <ClCompile Include="3127_构造相同颜色的正方形.cpp" />
     <ClCompile Include="3128_直角三角形.cpp" />
     <ClCompile Include="3131_找出与数组相加的整数_I.cpp" />
     <ClCompile Include="3132_找出与数组相加的整数_II.cpp" />
