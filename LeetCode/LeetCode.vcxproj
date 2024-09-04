@@ -415,6 +415,7 @@
     <ClCompile Include="2681_英雄的力量.cpp" />
     <ClCompile Include="2682_找出转圈游戏输家.cpp" />
     <ClCompile Include="268_丢失的数字.cpp" />
+    <ClCompile Include="2708_一个小组的最大实力值.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="2810_故障键盘.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
