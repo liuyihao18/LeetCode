@@ -420,6 +420,7 @@
     <ClCompile Include="2810_故障键盘.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
+    <ClCompile Include="2860_让所有学生保持开心的分组方法数.cpp" />
     <ClCompile Include="2908_元素和最小的山形三元组_I.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
     <ClCompile Include="2940_找到Alice和Bob可以相遇的建筑.cpp" />
@@ -448,6 +449,7 @@
     <ClCompile Include="3151_特殊数组_I.cpp" />
     <ClCompile Include="3152_特殊数组_II.cpp" />
     <ClCompile Include="3153_所有数对中数位不同之和.cpp" />
+    <ClCompile Include="3174_清除数字.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
     <ClCompile Include="324_摆动排序_II.cpp" />
