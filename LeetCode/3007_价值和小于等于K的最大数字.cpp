@@ -5,8 +5,8 @@ ustd
 class Solution {
     long long getAccumulateValue(long long num, int x) {
         long long res = 0;
-        // y <= 62
-        for (int y = x; y <= 64 - __builtin_clzll(num); y += x) {
+        // y <= 64 - __builtin_clzll(num)
+        for (int y = x; y <= 62; y += x) {
             long long period = 1LL << y;
             res += period / 2 * (num / period);
             if (num % period >= period / 2) {

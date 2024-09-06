@@ -35,6 +35,7 @@ public:
     }
 };
 
+/*
 class Solution {
 public:
     vector<int> zd;
@@ -94,6 +95,7 @@ public:
         return ans;
     }
 };
+*/
 /*
 作者：力扣官方题解
 链接：https ://leetcode.cn/problems/find-building-where-alice-and-bob-can-meet/solutions/2872957/zhao-dao-alice-he-bob-ke-yi-xiang-yu-de-x5i0t/
