@@ -1869,6 +1869,9 @@
     <ClCompile Include="2576_求出最多标记下标.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2555_两个线段获得的最多奖品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
