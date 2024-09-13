@@ -1872,6 +1872,9 @@
     <ClCompile Include="2555_两个线段获得的最多奖品.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2398_预算内的最多机器人数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
