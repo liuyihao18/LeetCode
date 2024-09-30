@@ -1875,6 +1875,12 @@
     <ClCompile Include="2398_预算内的最多机器人数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2073_买票需要的时间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1845_座位预约管理系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
