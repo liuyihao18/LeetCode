@@ -6,7 +6,7 @@ ustd
 class Solution {
 public:
     long long countQuadruplets(vector<int>& nums) {
-        int n = nums.size();
+        int n = static_cast<int>(nums.size());
         vector<int> dp2(n, 0); // 上升二元组
         vector<int> dp3(n, 0); // 上升三元组
         vector<int> dp4(n, 0); // 上升四元组

@@ -1881,6 +1881,9 @@
     <ClCompile Include="1845_座位预约管理系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3097_或值至少为K的最短子数组_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

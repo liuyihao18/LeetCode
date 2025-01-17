@@ -6,7 +6,7 @@ class Solution {
 public:
     int maxNumOfMarkedIndices(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        int n = nums.size();
+        int n = static_cast<int>(nums.size());
         int l = 0, r = n / 2;
         auto check = [&](int m) {
             for (int i = 0; i < m; i++) {
@@ -17,7 +17,7 @@ public:
             return true;
         };
         while (l < r) {
-            int m = l + r + 1 >> 1;
+            int m = (l + r + 1) >> 1;
             if (check(m)) {
                 l = m;
             }

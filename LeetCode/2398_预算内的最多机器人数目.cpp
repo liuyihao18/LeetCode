@@ -5,7 +5,7 @@ ustd
 class Solution {
 public:
     int maximumRobots(vector<int>& chargeTimes, vector<int>& runningCosts, long long budget) {
-        int res = 0, n = chargeTimes.size();
+        int res = 0, n = static_cast<int>(chargeTimes.size());
         long long runningCostSum = 0;
         deque<int> q;
         int i = 0, j = 0;
