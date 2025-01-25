@@ -395,6 +395,7 @@
     <ClCompile Include="2398_预算内的最多机器人数目.cpp" />
     <ClCompile Include="23_合并K个升序链表.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
+    <ClCompile Include="2412_完成所有交易的初始最少钱数.cpp" />
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />
     <ClCompile Include="2451_差值数组不同的字符串.cpp" />
     <ClCompile Include="2469_温度转换.cpp" />

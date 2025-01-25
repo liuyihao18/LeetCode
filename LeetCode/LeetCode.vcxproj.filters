@@ -1887,6 +1887,9 @@
     <ClCompile Include="1561_你可以获得的最大硬币数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2412_完成所有交易的初始最少钱数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
