@@ -492,6 +492,7 @@
     <ClCompile Include="400_第N位数字.cpp" />
     <ClCompile Include="405_数字转换为十六进制数.cpp" />
     <ClCompile Include="407_接雨水_II.cpp" />
+    <ClCompile Include="40_组合总和_II.cpp" />
     <ClCompile Include="412_Fizz_Buzz.cpp" />
     <ClCompile Include="414_第三大的数.cpp" />
     <ClCompile Include="417_太平洋大西洋水流问题.cpp" />
