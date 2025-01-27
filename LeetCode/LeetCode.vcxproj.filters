@@ -1893,6 +1893,9 @@
     <ClCompile Include="40_组合总和_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="45_跳跃游戏_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

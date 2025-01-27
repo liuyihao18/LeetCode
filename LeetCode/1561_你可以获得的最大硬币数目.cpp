@@ -5,7 +5,7 @@ ustd
 class Solution {
 public:
     int maxCoins(vector<int>& piles) {
-        int n = piles.size() / 3;
+        int n = static_cast<int>(piles.size()) / 3;
         sort(piles.begin(), piles.end());
         int coins = 0;
         for (int i = 0; i < n; i++) {

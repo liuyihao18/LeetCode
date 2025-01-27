@@ -515,6 +515,7 @@
     <ClCompile Include="450_删除二叉搜索树中的节点.cpp" />
     <ClCompile Include="453_最小操作次数使数组元素相等.cpp" />
     <ClCompile Include="458_可怜的小猪.cpp" />
+    <ClCompile Include="45_跳跃游戏_II.cpp" />
     <ClCompile Include="462_最少移动次数使数组元素相等_II.cpp" />
     <ClCompile Include="464_我能赢吗.cpp" />
     <ClCompile Include="467_环绕字符串中唯一的子字符串.cpp" />
