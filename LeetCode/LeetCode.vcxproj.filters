@@ -1899,6 +1899,9 @@
     <ClCompile Include="119_杨辉三角_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="541_反转字符串_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
