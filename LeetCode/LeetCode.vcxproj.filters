@@ -1902,6 +1902,9 @@
     <ClCompile Include="541_反转字符串_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="81_搜索旋转排序数组_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

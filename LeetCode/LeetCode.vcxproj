@@ -680,6 +680,7 @@
     <ClCompile Include="816_模糊坐标.cpp" />
     <ClCompile Include="817_链表组件.cpp" />
     <ClCompile Include="819_最常见的单词.cpp" />
+    <ClCompile Include="81_搜索旋转排序数组_II.cpp" />
     <ClCompile Include="821_字符的最短距离.cpp" />
     <ClCompile Include="822_翻转卡片游戏.cpp" />
     <ClCompile Include="824_山羊拉丁文.cpp" />
