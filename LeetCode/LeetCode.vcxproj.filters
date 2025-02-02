@@ -1905,6 +1905,9 @@
     <ClCompile Include="81_搜索旋转排序数组_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="598_区间加法_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
