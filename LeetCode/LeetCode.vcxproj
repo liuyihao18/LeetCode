@@ -607,6 +607,7 @@
     <ClCompile Include="675_为高尔夫比赛砍树.cpp" />
     <ClCompile Include="676_实现一个魔法字典.cpp" />
     <ClCompile Include="677_键值映射.cpp" />
+    <ClCompile Include="680_验证回文串_II.cpp" />
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
     <ClCompile Include="687_最长同值路径.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />

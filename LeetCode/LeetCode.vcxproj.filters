@@ -1908,6 +1908,9 @@
     <ClCompile Include="598_区间加法_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="680_验证回文串_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

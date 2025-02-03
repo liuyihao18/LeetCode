@@ -22,7 +22,7 @@ public:
     vector<int> getRow(int rowIndex) {
         vector<int> row(rowIndex + 1, 0);
         for (int i = 0; i <= rowIndex; i++) {
-            row[i] = C(rowIndex, i);
+            row[i] = static_cast<int>(C(rowIndex, i));
         }
         return row;
     }
