@@ -1911,6 +1911,9 @@
     <ClCompile Include="680_验证回文串_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="922_按奇偶排序数组_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

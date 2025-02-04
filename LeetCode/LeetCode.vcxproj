@@ -734,6 +734,7 @@
     <ClCompile Include="917_仅仅反转字母.cpp" />
     <ClCompile Include="919_完全二叉树插入器.cpp" />
     <ClCompile Include="921_使括号有效的最少添加.cpp" />
+    <ClCompile Include="922_按奇偶排序数组_II.cpp" />
     <ClCompile Include="926_将字符串翻转到单调递增.cpp" />
     <ClCompile Include="927_三等分.cpp" />
     <ClCompile Include="929_独特的电子邮件地址.cpp" />
