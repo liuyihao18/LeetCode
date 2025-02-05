@@ -728,6 +728,7 @@
     <ClCompile Include="905_按奇偶排序数组.cpp" />
     <ClCompile Include="907_子数组的最小值之和.cpp" />
     <ClCompile Include="908_最小差值_I.cpp" />
+    <ClCompile Include="90_子集_II.cpp" />
     <ClCompile Include="911_在线选举.cpp" />
     <ClCompile Include="913_猫和老鼠.cpp" />
     <ClCompile Include="915_分割数组.cpp" />
