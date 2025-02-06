@@ -527,6 +527,7 @@
     <ClCompile Include="476_数字的补数.cpp" />
     <ClCompile Include="478_在圆内随机生成点.cpp" />
     <ClCompile Include="479_最大回文数乘积.cpp" />
+    <ClCompile Include="47_全排列_II.cpp" />
     <ClCompile Include="481_神奇字符串.cpp" />
     <ClCompile Include="482_密钥格式化.cpp" />
     <ClCompile Include="488_祖玛游戏.cpp" />

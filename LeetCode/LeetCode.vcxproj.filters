@@ -1917,6 +1917,9 @@
     <ClCompile Include="90_子集_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="47_全排列_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
