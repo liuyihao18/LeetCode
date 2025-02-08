@@ -587,6 +587,7 @@
     <ClCompile Include="630_课程表_III.cpp" />
     <ClCompile Include="636_函数的独占时间.cpp" />
     <ClCompile Include="638_大礼包.cpp" />
+    <ClCompile Include="63_不同路径_II.cpp" />
     <ClCompile Include="640_求解方程.cpp" />
     <ClCompile Include="641_设计循环双端队列.cpp" />
     <ClCompile Include="646_最长数对链.cpp" />

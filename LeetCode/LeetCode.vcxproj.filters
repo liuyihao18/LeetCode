@@ -1923,6 +1923,9 @@
     <ClCompile Include="59_螺旋矩阵_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="63_不同路径_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
