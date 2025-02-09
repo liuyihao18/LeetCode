@@ -678,6 +678,7 @@
     <ClCompile Include="807_保持城市天际线.cpp" />
     <ClCompile Include="808_分汤.cpp" />
     <ClCompile Include="809_情感丰富的文字.cpp" />
+    <ClCompile Include="80_删除有序数组中的重复项_II.cpp" />
     <ClCompile Include="811_子域名访问计数.cpp" />
     <ClCompile Include="812_最大三角形面积.cpp" />
     <ClCompile Include="813_最大平均值和的分组.cpp" />
