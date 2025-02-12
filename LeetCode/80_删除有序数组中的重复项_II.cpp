@@ -11,6 +11,6 @@ public:
                 nums[i++] = num;
             }
         }
-        return i;
+        return static_cast<int>(i);
     }
 };
