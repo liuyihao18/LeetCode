@@ -188,6 +188,7 @@
     <ClCompile Include="1281_整数的各位积和之差.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1289_下降路径最小和_II.cpp" />
+    <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="1302_层数最深叶子节点的和.cpp" />
     <ClCompile Include="1305_两棵二叉搜索树中的所有元素.cpp" />
     <ClCompile Include="1331_数组序号转换.cpp" />
@@ -536,6 +537,7 @@
     <ClCompile Include="496_下一个更大元素_I.cpp" />
     <ClCompile Include="497_非重叠矩形中的随机点.cpp" />
     <ClCompile Include="498_对角线遍历.cpp" />
+    <ClCompile Include="49_字母异位词分组.cpp" />
     <ClCompile Include="500_键盘行.cpp" />
     <ClCompile Include="504_七进制数.cpp" />
     <ClCompile Include="506_相对名次.cpp" />

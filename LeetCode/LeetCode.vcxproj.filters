@@ -1929,6 +1929,12 @@
     <ClCompile Include="80_删除有序数组中的重复项_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="49_字母异位词分组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128_最长连续序列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
