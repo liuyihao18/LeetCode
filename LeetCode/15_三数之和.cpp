@@ -2,38 +2,56 @@
 #include "custom.h"
 ustd
 
-/*
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        map<int, vector<size_t>> m;
-        for (size_t i = 0; i < nums.size(); i++) {
-            m[nums[i]].push_back(i);
-        }
-        set<vector<int>> s;
-        for (size_t i = 0; i + 1 < nums.size(); i++) {
-            for (size_t j = i + 1; j < nums.size(); j++) {
-                vector<int> temp = { nums[i], nums[j], 0 - nums[i] - nums[j] };
-                sort(temp.begin(), temp.end());
-                if (s.count(temp)) {
+        size_t n = nums.size();
+        sort(nums.begin(), nums.end());
+        vector<vector<int>> ans;
+        for (size_t i = 0; i + 2 < n; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
+            int num1 = nums[i];
+            /* 使用双指针，复杂度O(n^2) */
+            size_t j = i + 1, k = n - 1;
+            while (j < k) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
+                    j++;
                     continue;
                 }
-                if (m.count(0 - nums[i] - nums[j])) {
-                    const auto& indices = m[0 - nums[i] - nums[j]];
-                    for (size_t index : indices) {
-                        if (index != i && index != j) {
-                            s.insert(temp);
-                            break;
-                        }
-                    }
+                int num2 = nums[j], num3 = nums[k];
+                if (num1 + num2 + num3 == 0) {
+                    ans.push_back({ num1, num2, num3 });
+                    j++;
+                    k--;
+                }
+                else if (num1 + num2 + num3 < 0) {
+                    j++;
+                }
+                else {
+                    k--;
                 }
             }
+            /* 使用二分查找，复杂度O(n^2 logn)
+            for (size_t j = i + 1; j + 1 < n; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) {
+                    continue;
+                }
+                int num2 = nums[j];
+                int num3 = -num1 - num2;
+                auto iter = lower_bound(nums.begin() + j + 1, nums.end(), num3);
+                if (iter != nums.end() && *iter == num3) {
+                    ans.push_back({ num1, num2, num3 });
+                }
+            }
+            */
         }
-        return vector<vector<int>>(s.begin(), s.end());
+        return ans;
     }
 };
-*/
 
+/*
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {

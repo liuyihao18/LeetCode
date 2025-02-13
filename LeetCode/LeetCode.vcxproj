@@ -171,6 +171,7 @@
     <ClCompile Include="1186_删除一次得到子数组最大和.cpp" />
     <ClCompile Include="1189_“气球”的最大数量.cpp" />
     <ClCompile Include="119_杨辉三角_II.cpp" />
+    <ClCompile Include="11_盛最多水的容器.cpp" />
     <ClCompile Include="1200_最小绝对差.cpp" />
     <ClCompile Include="1206_设计跳表.cpp" />
     <ClCompile Include="1217_玩筹码.cpp" />
@@ -430,6 +431,7 @@
     <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="2810_故障键盘.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
+    <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="2860_让所有学生保持开心的分组方法数.cpp" />
     <ClCompile Include="2908_元素和最小的山形三元组_I.cpp" />
@@ -503,6 +505,7 @@
     <ClCompile Include="423_从英文中重建数字.cpp" />
     <ClCompile Include="427_建立四叉树.cpp" />
     <ClCompile Include="429_N叉树的层序遍历.cpp" />
+    <ClCompile Include="42_接雨水.cpp" />
     <ClCompile Include="430_扁平化多级双向链表.cpp" />
     <ClCompile Include="432_全O(1)的数据结构.cpp" />
     <ClCompile Include="433_最小基因变化.cpp" />
