@@ -1956,6 +1956,12 @@
     <ClCompile Include="560_和为K的子数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="239_滑动窗口最大值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76_最小覆盖子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -398,6 +398,7 @@
     <ClCompile Include="2357_使数组中所有元素都等于零.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="2398_预算内的最多机器人数目.cpp" />
+    <ClCompile Include="239_滑动窗口最大值.cpp" />
     <ClCompile Include="23_合并K个升序链表.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
     <ClCompile Include="2412_完成所有交易的初始最少钱数.cpp" />
@@ -662,6 +663,7 @@
     <ClCompile Include="764_最大加号标志.cpp" />
     <ClCompile Include="768_最多能完成排序的块_II.cpp" />
     <ClCompile Include="769_最多能完成排序的块.cpp" />
+    <ClCompile Include="76_最小覆盖子串.cpp" />
     <ClCompile Include="771_宝石与石头.cpp" />
     <ClCompile Include="775_全局倒置与局部倒置.cpp" />
     <ClCompile Include="777_在LR字符串中交换相邻字符.cpp" />
