@@ -188,6 +188,7 @@
     <ClCompile Include="1267_统计参与通信的服务器.cpp" />
     <ClCompile Include="1281_整数的各位积和之差.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
+    <ClCompile Include="1287_有序数组中出现次数超过25%的元素.cpp" />
     <ClCompile Include="1289_下降路径最小和_II.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="1302_层数最深叶子节点的和.cpp" />
@@ -566,6 +567,7 @@
     <ClCompile Include="556_下一个更大元素_III.cpp" />
     <ClCompile Include="558_四叉树交集.cpp" />
     <ClCompile Include="559_N叉树的最大深度.cpp" />
+    <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="563_二叉树的坡度.cpp" />
     <ClCompile Include="564_寻找最近的回文数.cpp" />
     <ClCompile Include="565_数组嵌套.cpp" />

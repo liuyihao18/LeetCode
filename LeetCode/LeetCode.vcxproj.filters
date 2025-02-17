@@ -1950,6 +1950,12 @@
     <ClCompile Include="3_无重复字符的最长子串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1287_有序数组中出现次数超过25%的元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="560_和为K的子数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
