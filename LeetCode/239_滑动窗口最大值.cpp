@@ -1,12 +1,11 @@
 // 239_滑动窗口最大值.cpp
 #include "custom.h"
-#include <list>
 ustd
 
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, size_t k) {
-        list<int> q;
+        deque<int> q;
         for (size_t i = 0; i < k; i++) {
             while (!q.empty() && q.back() < nums[i]) {
                 q.pop_back();
