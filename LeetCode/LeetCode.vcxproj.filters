@@ -1965,6 +1965,12 @@
     <ClCompile Include="2080_区间内查询数字的频率.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="53_最大子数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="189_轮转数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -9,7 +9,7 @@ class RangeFreqQuery {
 public:
     RangeFreqQuery(vector<int>& arr) : positions(MAX_NUM, vector<int>()) {
         for (size_t i = 0; i < arr.size(); i++) {
-            positions[arr[i]].push_back(i);
+            positions[arr[i]].push_back(static_cast<int>(i));
         }
     }
 
@@ -17,6 +17,6 @@ public:
         const vector<int>& position = positions[value];
         auto leftPos = lower_bound(position.begin(), position.end(), left);
         auto rightPos = upper_bound(position.begin(), position.end(), right);
-        return distance(leftPos, rightPos);
+        return static_cast<int>(distance(leftPos, rightPos));
     }
 };

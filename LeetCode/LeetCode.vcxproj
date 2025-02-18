@@ -328,6 +328,7 @@
     <ClCompile Include="1832_判断句子是否为全字母句.cpp" />
     <ClCompile Include="1845_座位预约管理系统.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
+    <ClCompile Include="189_轮转数组.cpp" />
     <ClCompile Include="1911_最大子序列交替和.cpp" />
     <ClCompile Include="1921_消灭怪物的最大数量.cpp" />
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
@@ -562,6 +563,7 @@
     <ClCompile Include="535_TinyURL_的加密与解密.cpp" />
     <ClCompile Include="537_复数乘法.cpp" />
     <ClCompile Include="539_最小时间差.cpp" />
+    <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="540_有序数组中的单一元素.cpp" />
     <ClCompile Include="541_反转字符串_II.cpp" />
     <ClCompile Include="551_学生出勤记录_I.cpp" />
