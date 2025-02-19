@@ -596,6 +596,7 @@
     <ClCompile Include="617_合并二叉树.cpp" />
     <ClCompile Include="622_设计循环队列.cpp" />
     <ClCompile Include="623_在二叉树中增加一行.cpp" />
+    <ClCompile Include="624_数组列表中的最大距离.cpp" />
     <ClCompile Include="629_K个逆序对数组.cpp" />
     <ClCompile Include="630_课程表_III.cpp" />
     <ClCompile Include="636_函数的独占时间.cpp" />

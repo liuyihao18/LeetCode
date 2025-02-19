@@ -1971,6 +1971,9 @@
     <ClCompile Include="189_轮转数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="624_数组列表中的最大距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
