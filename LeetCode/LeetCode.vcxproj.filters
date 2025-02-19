@@ -1974,6 +1974,9 @@
     <ClCompile Include="624_数组列表中的最大距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="238_除自身以外数组的乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
