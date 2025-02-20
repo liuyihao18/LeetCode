@@ -509,6 +509,7 @@
     <ClCompile Include="414_第三大的数.cpp" />
     <ClCompile Include="417_太平洋大西洋水流问题.cpp" />
     <ClCompile Include="419_甲板上的战舰.cpp" />
+    <ClCompile Include="41_缺失的第一个正数.cpp" />
     <ClCompile Include="420_强密码检验器.cpp" />
     <ClCompile Include="423_从英文中重建数字.cpp" />
     <ClCompile Include="427_建立四叉树.cpp" />

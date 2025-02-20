@@ -30,13 +30,3 @@ public:
         return max(maximum1 - minimum2, maximum2 - minimum1);
     }
 };
-
-int main() {
-    Solution solution;
-    vector<vector<int>> arrays = {
-        {1, 4},
-        {0, 5}
-    };
-    cout << solution.maxDistance(arrays) << endl;
-    return 0;
-}
