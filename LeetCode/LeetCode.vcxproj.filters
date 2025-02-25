@@ -1977,6 +1977,24 @@
     <ClCompile Include="238_除自身以外数组的乘积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2209_用地毯覆盖后的最少白色砖块.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2506_统计相似字符串对的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2595_奇偶位数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41_缺失的第一个正数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73_矩阵置零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2502_设计内存分配器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
