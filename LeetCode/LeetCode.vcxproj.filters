@@ -1995,6 +1995,15 @@
     <ClCompile Include="2502_设计内存分配器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1472_设计浏览器历史记录.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2296_设计一个文本编辑器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2353_设计食物评分系统.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
