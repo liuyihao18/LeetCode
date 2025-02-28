@@ -2,6 +2,39 @@
 #include "custom.h"
 ustd
 
+struct Food {
+	string name;
+	string cuisine;
+	int rating;
+	bool operator<(const Food& food) const {
+		return rating > food.rating || rating == food.rating && name < food.name;
+	}
+};
+
+class FoodRatings {
+	unordered_map<string, Food> um1;
+	unordered_map<string, set<Food>> um2;
+public:
+	FoodRatings(vector<string>& foods, vector<string>& cuisines, vector<int>& ratings) {
+		for (size_t i = 0; i < foods.size(); i++) {
+			um1[foods[i]] = { foods[i], cuisines[i], ratings[i] };
+			um2[cuisines[i]].emplace(foods[i], cuisines[i], ratings[i]);
+		}
+	}
+
+	void changeRating(string food, int newRating) {
+		um2[um1[food].cuisine].erase(um1[food]);
+		um1[food].rating = newRating;
+		um2[um1[food].cuisine].insert(um1[food]);
+	}
+
+	string highestRated(string cuisine) {
+		return um2[cuisine].begin()->name;
+	}
+};
+
+
+/*
 template<class K, class V>
 class Heap {
 protected:
@@ -102,6 +135,7 @@ public:
 		return m[cuisine].getMax();
     }
 };
+*/
 
 /*
 int main() {
