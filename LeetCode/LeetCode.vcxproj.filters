@@ -2004,6 +2004,9 @@
     <ClCompile Include="2353_设计食物评分系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="131_分割回文串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
