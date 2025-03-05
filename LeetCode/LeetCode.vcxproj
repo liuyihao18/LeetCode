@@ -186,6 +186,7 @@
     <ClCompile Include="1253_重构2行二进制矩阵.cpp" />
     <ClCompile Include="1260_二维网格迁移.cpp" />
     <ClCompile Include="1267_统计参与通信的服务器.cpp" />
+    <ClCompile Include="1278_分割回文串_III.cpp" />
     <ClCompile Include="1281_整数的各位积和之差.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1287_有序数组中出现次数超过25%的元素.cpp" />
