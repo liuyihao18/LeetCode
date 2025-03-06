@@ -431,6 +431,7 @@
     <ClCompile Include="2559_统计范围内的元音字符串数.cpp" />
     <ClCompile Include="2560_打家劫舍_IV.cpp" />
     <ClCompile Include="2576_求出最多标记下标.cpp" />
+    <ClCompile Include="2588_统计美丽子数组数目.cpp" />
     <ClCompile Include="258_各位相加.cpp" />
     <ClCompile Include="2591_将钱分给最多的儿童.cpp" />
     <ClCompile Include="2594_修车的最少时间.cpp" />
