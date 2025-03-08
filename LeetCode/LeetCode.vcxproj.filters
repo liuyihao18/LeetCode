@@ -2013,6 +2013,21 @@
     <ClCompile Include="1278_分割回文串_III.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1328_破坏回文串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1745_分割回文串_IV.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2588_统计美丽子数组数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2597_美丽子集的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2234_花园的最大总美丽值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
