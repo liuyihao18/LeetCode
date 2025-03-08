@@ -14,13 +14,12 @@ public:
         long long n = static_cast<long long>(flowers.size());
         long long maximumBeauty = overflow * full;
         long long remainFlowers = newFlowers;
-        long long sumFlowers = accumulate(flowers.begin(), flowers.end(), 0LL);
         vector<long long> threshold(n, 0), prefixSum(n, 0);
-        long long temp = flowers[0];
+        long long sumFlowers = flowers[0];
         for (long long i = 1; i < n; i++) {
-            threshold[i] = flowers[i] * i - temp;
-            prefixSum[i] = temp;
-            temp += flowers[i];
+            threshold[i] = flowers[i] * i - sumFlowers;
+            prefixSum[i] = sumFlowers;
+            sumFlowers += flowers[i];
         }
         for (long long i = 0; i < n; i++) { // i¸öÂú»¨Ô°                
             long long partialSize = min((sumFlowers + remainFlowers) / (n - i), target - 1);
