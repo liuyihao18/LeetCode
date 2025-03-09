@@ -2028,6 +2028,9 @@
     <ClCompile Include="2234_花园的最大总美丽值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2070_每一个查询的最大美丽值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
