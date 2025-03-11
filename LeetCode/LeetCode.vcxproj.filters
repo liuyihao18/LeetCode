@@ -2031,6 +2031,12 @@
     <ClCompile Include="2070_每一个查询的最大美丽值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2269_找到一个数字的K美丽值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2012_数组美丽值求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
