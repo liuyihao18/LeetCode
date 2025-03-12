@@ -492,6 +492,7 @@
     <ClCompile Include="319_灯泡开关.cpp" />
     <ClCompile Include="324_摆动排序_II.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
+    <ClCompile Include="3305_元音辅音字符串计数_I.cpp" />
     <ClCompile Include="334_递增的三元子序列.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
     <ClCompile Include="337_打家劫舍_III.cpp" />
