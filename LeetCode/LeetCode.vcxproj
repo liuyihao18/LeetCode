@@ -494,6 +494,7 @@
     <ClCompile Include="326_3的幂.cpp" />
     <ClCompile Include="3305_元音辅音字符串计数_I.cpp" />
     <ClCompile Include="3306_元音辅音字符串计数_II.cpp" />
+    <ClCompile Include="3340_检查平衡字符串.cpp" />
     <ClCompile Include="334_递增的三元子序列.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
     <ClCompile Include="337_打家劫舍_III.cpp" />
