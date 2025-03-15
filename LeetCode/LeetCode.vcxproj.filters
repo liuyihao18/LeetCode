@@ -2043,6 +2043,12 @@
     <ClCompile Include="3306_元音辅音字符串计数_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3340_检查平衡字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3110_字符串的分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
