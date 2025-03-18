@@ -2049,6 +2049,12 @@
     <ClCompile Include="3110_字符串的分数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1963_使字符串平衡的最小交换次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2614_对角线上的质数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
