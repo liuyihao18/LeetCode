@@ -338,6 +338,7 @@
     <ClCompile Include="1911_最大子序列交替和.cpp" />
     <ClCompile Include="1921_消灭怪物的最大数量.cpp" />
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
+    <ClCompile Include="1963_使字符串平衡的最小交换次数.cpp" />
     <ClCompile Include="1971_寻找图中是否存在路径.cpp" />
     <ClCompile Include="1984_学生分数的最小差值.cpp" />
     <ClCompile Include="198_打家劫舍.cpp" />
@@ -446,6 +447,7 @@
     <ClCompile Include="2605_从两个数字数组里生成最小数字.cpp" />
     <ClCompile Include="260_只出现一次的数字_III.cpp" />
     <ClCompile Include="2612_最少翻转操作数.cpp" />
+    <ClCompile Include="2614_对角线上的质数.cpp" />
     <ClCompile Include="2642_设计可以求最短路径的图类.cpp" />
     <ClCompile Include="2651_计算列车到站时间.cpp" />
     <ClCompile Include="2679_矩阵中的和.cpp" />
