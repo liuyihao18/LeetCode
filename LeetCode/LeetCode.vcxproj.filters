@@ -2049,6 +2049,9 @@
     <ClCompile Include="3110_字符串的分数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2612_最少翻转操作数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
