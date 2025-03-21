@@ -451,6 +451,7 @@
     <ClCompile Include="2642_设计可以求最短路径的图类.cpp" />
     <ClCompile Include="2651_计算列车到站时间.cpp" />
     <ClCompile Include="2679_矩阵中的和.cpp" />
+    <ClCompile Include="2680_最大或值.cpp" />
     <ClCompile Include="2681_英雄的力量.cpp" />
     <ClCompile Include="2682_找出转圈游戏输家.cpp" />
     <ClCompile Include="268_丢失的数字.cpp" />
