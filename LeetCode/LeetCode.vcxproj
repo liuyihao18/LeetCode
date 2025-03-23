@@ -377,6 +377,7 @@
     <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
     <ClCompile Include="210_课程表_II.cpp" />
+    <ClCompile Include="2116_判断一个括号字符串是否有效.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="2178_拆分成最多数目的正偶数之和.cpp" />

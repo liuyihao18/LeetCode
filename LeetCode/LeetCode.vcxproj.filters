@@ -2064,6 +2064,9 @@
     <ClCompile Include="2643_一最多的行.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2116_判断一个括号字符串是否有效.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
