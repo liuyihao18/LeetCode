@@ -460,6 +460,7 @@
     <ClCompile Include="268_丢失的数字.cpp" />
     <ClCompile Include="2708_一个小组的最大实力值.cpp" />
     <ClCompile Include="2711_对角线上不同值的数量差.cpp" />
+    <ClCompile Include="2712_使所有字符相等的最小成本.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
     <ClCompile Include="2810_故障键盘.cpp" />
     <ClCompile Include="2829_k-avoiding数组的最小总和.cpp" />
