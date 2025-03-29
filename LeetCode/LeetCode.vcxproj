@@ -414,6 +414,7 @@
     <ClCompile Include="2351_第一个出现两次的字母.cpp" />
     <ClCompile Include="2353_设计食物评分系统.cpp" />
     <ClCompile Include="2357_使数组中所有元素都等于零.cpp" />
+    <ClCompile Include="2360_图中的最长环.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
     <ClCompile Include="238_除自身以外数组的乘积.cpp" />
     <ClCompile Include="2398_预算内的最多机器人数目.cpp" />
