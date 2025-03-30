@@ -376,6 +376,7 @@
     <ClCompile Include="2080_区间内查询数字的频率.cpp" />
     <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
+    <ClCompile Include="2109_向字符串添加空格.cpp" />
     <ClCompile Include="210_课程表_II.cpp" />
     <ClCompile Include="2116_判断一个括号字符串是否有效.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />

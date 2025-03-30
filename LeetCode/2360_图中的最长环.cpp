@@ -3,10 +3,10 @@
 ustd
 
 class Solution {
-    void dfs(int node, const vector<int>& edges, vector<bool>& visited, int& maxLength) {
+    void dfs(size_t node, const vector<int>& edges, vector<bool>& visited, int& maxLength) {
         size_t n = edges.size();
-        unordered_map<int, int> length;
-        int currNode = node;
+        unordered_map<size_t, int> length;
+        size_t currNode = node;
         int currLength = 0;
         while (true) {
             if (visited[currNode]) {

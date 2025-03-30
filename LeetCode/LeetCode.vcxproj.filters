@@ -2085,6 +2085,9 @@
     <ClCompile Include="2360_图中的最长环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2109_向字符串添加空格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
