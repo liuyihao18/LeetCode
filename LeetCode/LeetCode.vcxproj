@@ -826,6 +826,7 @@
     <ClCompile Include="剑指_Offer_II_091_粉刷房子.cpp" />
     <ClCompile Include="剑指_Offer_II_114_外星文字典.cpp" />
     <ClCompile Include="剑指_Offer_II_115_重建序列.cpp" />
+    <ClCompile Include="2873_有序三元组中的最大值_I.cpp" />
     <ClCompile Include="面试题_01_02_判定是否互为字符重排.cpp" />
     <ClCompile Include="面试题_01_05_一次编辑.cpp" />
     <ClCompile Include="面试题_01_08_零矩阵.cpp" />

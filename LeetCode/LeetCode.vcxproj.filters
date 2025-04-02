@@ -2091,6 +2091,12 @@
     <ClCompile Include="2278_字母在字符串中的百分比.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2140_解决智力问题.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2873_有序三元组中的最大值_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
