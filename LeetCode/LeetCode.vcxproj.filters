@@ -2097,6 +2097,12 @@
     <ClCompile Include="2873_有序三元组中的最大值_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="72_编辑距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2874_有序三元组中的最大值_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
