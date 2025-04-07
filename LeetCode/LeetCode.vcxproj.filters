@@ -2103,6 +2103,12 @@
     <ClCompile Include="2874_有序三元组中的最大值_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="416_分割等和子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="368_最大整除子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
