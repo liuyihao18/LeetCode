@@ -515,6 +515,7 @@
     <ClCompile Include="334_递增的三元子序列.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
     <ClCompile Include="337_打家劫舍_III.cpp" />
+    <ClCompile Include="3396_使数组元素互不相同所需的最少操作次数.cpp" />
     <ClCompile Include="352_将数据流变为多个不相交区间.cpp" />
     <ClCompile Include="357_统计各位数字都不同的数字个数.cpp" />
     <ClCompile Include="367_有效的完全平方数.cpp" />
