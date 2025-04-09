@@ -2112,6 +2112,9 @@
     <ClCompile Include="3396_使数组元素互不相同所需的最少操作次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3375_使数组的值全部为K的最少操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
