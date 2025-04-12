@@ -3,13 +3,14 @@
 ustd
 
 class Solution {
-    pair<string, string> getPalindrome(int num) {
+    string getPalindrome(int num, int n) {
         string numStrLeft = to_string(num);
-        string numStrRight1 = numStrLeft, numStrRight2 = numStrLeft.substr(0, numStrLeft.size() - 1);
-        reverse(numStrRight1.begin(), numStrRight1.end());
-        reverse(numStrRight2.begin(), numStrRight2.end());
-        string palindrome1 = numStrLeft + numStrRight1, palindrome2 = numStrLeft + numStrRight2;
-        return { palindrome1, palindrome2 };
+        string numStrRight = numStrLeft;
+        if (n & 1) {
+            numStrRight.pop_back();
+        }
+        reverse(numStrRight.begin(), numStrRight.end());
+        return numStrLeft + numStrRight;
     }
     string getDigitCounts(const string& numStr) {
         string digitCounts(10, 0);
@@ -41,21 +42,11 @@ public:
         unordered_set<string> visited;
         int N1 = static_cast<int>(pow(10, (n - 1) / 2));
         int N2 = static_cast<int>(pow(10, (n + 1) / 2));
-        cout << N1 << " - " << N2 << endl;
         for (int i = N1; i < N2; i++) {
-            auto [palindrome1, palindrome2] = getPalindrome(i);
-            if (palindrome1.size() == n) {
-                if (stoll(palindrome1) % k == 0) {
-                    string digitCounts = getDigitCounts(palindrome1);
-                    if (!visited.count(digitCounts)) {
-                        visited.insert(digitCounts);
-                        result += getResult(digitCounts);
-                    }
-                }
-            }
-            if (palindrome2.size() == n) {
-                if (stoll(palindrome2) % k == 0) {
-                    string digitCounts = getDigitCounts(palindrome2);
+            string palindrome = getPalindrome(i, n);
+            if (palindrome.size() == n) {
+                if (stoll(palindrome) % k == 0) {
+                    string digitCounts = getDigitCounts(palindrome);
                     if (!visited.count(digitCounts)) {
                         visited.insert(digitCounts);
                         result += getResult(digitCounts);
