@@ -40,7 +40,7 @@ public:
         long long result = 0;
         unordered_set<string> visited;
         int N1 = static_cast<int>(pow(10, (n - 1) / 2));
-        int N2 = static_Cast<int>(pow(10, (n + 1) / 2));
+        int N2 = static_cast<int>(pow(10, (n + 1) / 2));
         cout << N1 << " - " << N2 << endl;
         for (int i = N1; i < N2; i++) {
             auto [palindrome1, palindrome2] = getPalindrome(i);
