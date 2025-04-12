@@ -511,6 +511,7 @@
     <ClCompile Include="319_灯泡开关.cpp" />
     <ClCompile Include="324_摆动排序_II.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
+    <ClCompile Include="3272_统计好整数的数目.cpp" />
     <ClCompile Include="3305_元音辅音字符串计数_I.cpp" />
     <ClCompile Include="3306_元音辅音字符串计数_II.cpp" />
     <ClCompile Include="3340_检查平衡字符串.cpp" />
