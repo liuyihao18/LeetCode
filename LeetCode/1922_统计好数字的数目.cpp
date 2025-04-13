@@ -32,6 +32,6 @@ private:
     }
 public:
     int countGoodNumbers(long long n) {
-        return _countGoodNumbers(n);
+        return static_cast<int>(_countGoodNumbers(n));
     }
 };
