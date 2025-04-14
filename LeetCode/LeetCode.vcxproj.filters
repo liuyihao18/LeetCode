@@ -2127,6 +2127,9 @@
     <ClCompile Include="1922_统计好数字的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1534_统计好三元组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
