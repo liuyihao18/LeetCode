@@ -30,7 +30,7 @@ public:
 class Solution {
 public:
     long long goodTriplets(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
+        int n = static_cast<int>(nums1.size());
         vector<int> pos2(n), reversedIndexMapping(n);
         for (int i = 0; i < n; i++) {
             pos2[nums2[i]] = i;
