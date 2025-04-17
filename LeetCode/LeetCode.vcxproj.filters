@@ -2133,6 +2133,12 @@
     <ClCompile Include="2179_统计数组中好三元组数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2537_统计好子数组的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2176_统计数组中相等且可以被整除的数对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
