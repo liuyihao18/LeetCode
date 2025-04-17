@@ -7,6 +7,7 @@ public:
     int minDistance(string word1, string word2) {
         size_t m = word1.size();
         size_t n = word2.size();
+        // dp[i][j]代表word1前i个字符和word2前j个字符的编辑距离
         vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
         for (size_t i = 0; i <= m; i++) {
             dp[i][0] = i;
