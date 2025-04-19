@@ -2142,6 +2142,9 @@
     <ClCompile Include="2610_转换二维数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2563_统计公平数对的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
