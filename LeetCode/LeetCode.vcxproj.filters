@@ -2145,6 +2145,9 @@
     <ClCompile Include="2563_统计公平数对的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2364_统计坏数对的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
