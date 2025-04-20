@@ -730,6 +730,7 @@
     <ClCompile Include="777_在LR字符串中交换相邻字符.cpp" />
     <ClCompile Include="779_第K个语法符号.cpp" />
     <ClCompile Include="780_到达终点.cpp" />
+    <ClCompile Include="781_森林中的兔子.cpp" />
     <ClCompile Include="782_变为棋盘.cpp" />
     <ClCompile Include="784_字母大小写全排列.cpp" />
     <ClCompile Include="786_第K个最小的素数分数.cpp" />
