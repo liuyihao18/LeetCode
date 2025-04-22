@@ -11,7 +11,7 @@ public:
             long long mid = (left + right) >> 1;
             int doneCars = 0;
             for (auto rank : ranks) {
-                doneCars += sqrt(mid / rank);
+                doneCars += static_cast<int>(sqrt(mid / rank));
             }
             if (doneCars < cars) {
                 left = mid + 1;

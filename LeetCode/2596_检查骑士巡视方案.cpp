@@ -8,7 +8,7 @@ public:
         if (grid[0][0] != 0) {
             return false;
         }
-        int n = grid.size();
+        int n = static_cast<int>(grid.size());
         vector<pair<int, int>> route(n * n, {0, 0});
         for (int i = 0; i < n; i++) {
             for (int j = 0; j < n; j++) {

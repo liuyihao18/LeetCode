@@ -19,8 +19,8 @@ public:
             if (pos == index.end()) {
                 right = *pos;
             }
-            int dist1 = i - left;
-            int dist2 = right - i;
+            int dist1 = static_cast<int>(i - left);
+            int dist2 = static_cast<int>(right - i);
             maxDist = max(maxDist, min(dist1, dist2));
         }
         return maxDist;

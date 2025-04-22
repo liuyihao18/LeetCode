@@ -6,7 +6,7 @@ class Solution {
 public:
     static constexpr int inf = 0x3f3f3f3f;
     int minimumSubstringsInPartition(string s) {
-        int n = s.size();
+        int n = static_cast<int>(s.size());
         vector<int> d(n + 1, inf); // d[i]表示以i结尾的前缀字符串划分平衡字符串的最少个数
         unordered_map<char, int> occ_cnt;
         d[0] = 0;

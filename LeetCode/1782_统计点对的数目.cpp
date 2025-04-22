@@ -23,7 +23,7 @@ public:
         for (int bound : queries) {
             int total = 0;
             for (int i = 0; i < n; i++) {
-                int j = upper_bound(arr.begin() + i + 1, arr.end(), bound - arr[i]) - arr.begin();
+                int j = static_cast<int>(upper_bound(arr.begin() + i + 1, arr.end(), bound - arr[i]) - arr.begin());
                 total += n - j;
             }
             for (auto& [val, freq] : cnt) {

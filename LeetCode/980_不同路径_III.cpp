@@ -5,7 +5,7 @@ ustd
 class Solution {
 public:
     int uniquePathsIII(vector<vector<int>>& grid) {
-        int r = grid.size(), c = grid[0].size();
+        int r = static_cast<int>(grid.size()), c = static_cast<int>(grid[0].size());
         int si = 0, sj = 0, n = 0;
         for (int i = 0; i < r; i++) {
             for (int j = 0; j < c; j++) {

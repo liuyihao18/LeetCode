@@ -21,7 +21,7 @@ public:
         size_t i = 0;
         while (i + p.size() < s.size()) {
             if (counts_s == counts_p) {
-                result.push_back(i);
+                result.push_back(static_cast<int>(i));
             }
             counts_s[INDEX(s[i])]--;
             counts_s[INDEX(s[i + p.size()])]++;

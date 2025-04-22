@@ -4,7 +4,7 @@ ustd
 
 class Solution {
     int calculate(const vector<int>& slices) {
-        int N = slices.size(), n = (N + 1) / 3;
+        int N = static_cast<int>(slices.size()), n = (N + 1) / 3;
         // dp[i][j]表示前(i + 1)个数中选择了j个不相邻的数
         vector<vector<int>> dp(N, vector<int>(n + 1, INT_MIN));
         dp[0][0] = 0;

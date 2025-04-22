@@ -10,10 +10,10 @@ public:
         // dp[i][j]代表word1前i个字符和word2前j个字符的编辑距离
         vector<vector<int>> dp(m + 1, vector<int>(n + 1, 0));
         for (size_t i = 0; i <= m; i++) {
-            dp[i][0] = i;
+            dp[i][0] = static_cast<int>(i);
         }
         for (size_t j = 0; j <= n; j++) {
-            dp[0][j] = j;
+            dp[0][j] = static_cast<int>(j);
         }
         for (size_t i = 1; i <= m; i++) {
             for (size_t j = 1; j <= n; j++) {
