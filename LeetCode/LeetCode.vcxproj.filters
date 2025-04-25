@@ -2160,6 +2160,12 @@
     <ClCompile Include="1399_统计最大组的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2799_统计完全子数组的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2845_统计趣味子数组的数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

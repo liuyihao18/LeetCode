@@ -484,6 +484,7 @@
     <ClCompile Include="282_给表达式添加运算符.cpp" />
     <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="2843_统计对称整数的数目.cpp" />
+    <ClCompile Include="2845_统计趣味子数组的数目.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="2860_让所有学生保持开心的分组方法数.cpp" />
     <ClCompile Include="2874_有序三元组中的最大值_II.cpp" />
