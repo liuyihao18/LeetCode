@@ -410,6 +410,7 @@
     <ClCompile Include="2296_设计一个文本编辑器.cpp" />
     <ClCompile Include="2299_强密码检验器_II.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
+    <ClCompile Include="2302_统计得分小于K的子数组数目.cpp" />
     <ClCompile Include="2309_兼具大小写的最好英文字母.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
     <ClCompile Include="2315_统计星号.cpp" />
