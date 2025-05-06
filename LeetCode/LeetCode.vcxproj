@@ -338,6 +338,7 @@
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
     <ClCompile Include="1911_最大子序列交替和.cpp" />
+    <ClCompile Include="1920_基于排列构建数组.cpp" />
     <ClCompile Include="1921_消灭怪物的最大数量.cpp" />
     <ClCompile Include="1922_统计好数字的数目.cpp" />
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
