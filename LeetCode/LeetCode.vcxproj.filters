@@ -2166,6 +2166,15 @@
     <ClCompile Include="2845_统计趣味子数组的数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1920_基于排列构建数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2302_统计得分小于K的子数组数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3341_到达最后一个房间的最少时间_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
