@@ -531,6 +531,7 @@
     <ClCompile Include="3306_元音辅音字符串计数_II.cpp" />
     <ClCompile Include="3340_检查平衡字符串.cpp" />
     <ClCompile Include="3341_到达最后一个房间的最少时间_I.cpp" />
+    <ClCompile Include="3342_到达最后一个房间的最少时间_II.cpp" />
     <ClCompile Include="334_递增的三元子序列.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
     <ClCompile Include="3375_使数组的值全部为K的最少操作次数.cpp" />
