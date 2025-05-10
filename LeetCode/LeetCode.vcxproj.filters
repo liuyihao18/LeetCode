@@ -2178,6 +2178,9 @@
     <ClCompile Include="3342_到达最后一个房间的最少时间_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2918_数组的最小相等和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
