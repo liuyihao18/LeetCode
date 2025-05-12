@@ -378,6 +378,7 @@
     <ClCompile Include="2073_买票需要的时间.cpp" />
     <ClCompile Include="207_课程表.cpp" />
     <ClCompile Include="2080_区间内查询数字的频率.cpp" />
+    <ClCompile Include="2094_找出3位偶数.cpp" />
     <ClCompile Include="2100_适合打劫银行的日子.cpp" />
     <ClCompile Include="2104_子数组范围和.cpp" />
     <ClCompile Include="2109_向字符串添加空格.cpp" />
