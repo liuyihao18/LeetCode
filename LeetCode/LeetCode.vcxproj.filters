@@ -2184,6 +2184,9 @@
     <ClCompile Include="2094_找出3位偶数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3335_字符串转换后的长度_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
