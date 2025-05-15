@@ -2190,6 +2190,9 @@
     <ClCompile Include="3337_字符串转换后的长度_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2900_最长相邻不相等子序列_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -491,6 +491,7 @@
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="2860_让所有学生保持开心的分组方法数.cpp" />
     <ClCompile Include="2874_有序三元组中的最大值_II.cpp" />
+    <ClCompile Include="2900_最长相邻不相等子序列_I.cpp" />
     <ClCompile Include="2908_元素和最小的山形三元组_I.cpp" />
     <ClCompile Include="2918_数组的最小相等和.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
