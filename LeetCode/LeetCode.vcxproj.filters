@@ -2193,6 +2193,9 @@
     <ClCompile Include="2900_最长相邻不相等子序列_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2901_最长相邻不相等子序列_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
