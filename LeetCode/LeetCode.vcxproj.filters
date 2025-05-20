@@ -2199,6 +2199,9 @@
     <ClCompile Include="3024_三角形类型.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3355_零数组变换_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
