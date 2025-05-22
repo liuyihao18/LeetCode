@@ -2202,6 +2202,12 @@
     <ClCompile Include="3355_零数组变换_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3356_零数组变换_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3362_零数组变换_III.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

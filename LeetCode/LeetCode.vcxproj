@@ -541,7 +541,9 @@
     <ClCompile Include="3342_到达最后一个房间的最少时间_II.cpp" />
     <ClCompile Include="334_递增的三元子序列.cpp" />
     <ClCompile Include="3355_零数组变换_I.cpp" />
+    <ClCompile Include="3356_零数组变换_II.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
+    <ClCompile Include="3362_零数组变换_III.cpp" />
     <ClCompile Include="3375_使数组的值全部为K的最少操作次数.cpp" />
     <ClCompile Include="337_打家劫舍_III.cpp" />
     <ClCompile Include="3396_使数组元素互不相同所需的最少操作次数.cpp" />
