@@ -2214,6 +2214,9 @@
     <ClCompile Include="3372_连接两棵树后最大目标节点数目_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3373_连接两棵树后最大目标节点数目_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

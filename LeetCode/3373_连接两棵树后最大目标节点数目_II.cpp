@@ -1,9 +1,9 @@
-// 3372_连接两棵树后最大目标节点数目_I.cpp
+// 3373_连接两棵树后最大目标节点数目_II.cpp
 #include "custom.h"
 ustd
 
 class Solution {
-    int bfs(const vector<vector<int>>& graph, int node, int k) {
+    int bfs(const vector<vector<int>>& graph, int node, vector<int>& color) {
         size_t n = graph.size();
         vector<bool> visited(n, false);
         using State = pair<int, int>;
@@ -13,13 +13,19 @@ class Solution {
         while (!q.empty()) {
             State curr = q.front();
             q.pop();
-            if (visited[curr.first] || curr.second > k) {
+            if (visited[curr.first]) {
                 continue;
             }
-            result++;
+            if (curr.second % 2 == 0) {
+                result++;
+                color[curr.first] = 0;
+            }
+            else {
+                color[curr.first] = 1;
+            }
             visited[curr.first] = true;
             for (int v : graph[curr.first]) {
-                if (!visited[v] && curr.second < k) {
+                if (!visited[v]) {
                     q.emplace(v, curr.second + 1);
                 }
             }
@@ -37,19 +43,26 @@ class Solution {
     }
 
 public:
-    vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2, int k) {
+    vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
         vector<vector<int>> graph1 = toGraph(edges1);
         vector<vector<int>> graph2 = toGraph(edges2);
         int n = static_cast<int>(graph1.size());
         int m = static_cast<int>(graph2.size());
-        int maxTargetNodes2 = 0;
-        for (int i = 0; i < m; i++) {
-            maxTargetNodes2 = max(maxTargetNodes2, bfs(graph2, i, k - 1));
-        }
+        vector<int> color1(n, 0);
+        vector<int> color2(m, 0);
+        int black1 = bfs(graph1, 0, color1);
+        int white1 = n - black1;
+        int black2 = bfs(graph2, 0, color2);
+        int white2 = m - black2;
         vector<int> results;
         for (int i = 0; i < n; i++) {
-            int maxTargetNodes1 = bfs(graph1, i, k);
-            results.push_back(maxTargetNodes1 + maxTargetNodes2);
+            if (color1[i] == 0) {
+                results.push_back(black1);
+            }
+            else {
+                results.push_back(white1);
+            }
+            results.back() += max(black2, white2);
         }
         return results;
     }
