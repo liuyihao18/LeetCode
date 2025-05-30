@@ -2217,6 +2217,9 @@
     <ClCompile Include="3373_连接两棵树后最大目标节点数目_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2359_找到离给定两个节点最近的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

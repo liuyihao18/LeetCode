@@ -427,6 +427,7 @@
     <ClCompile Include="2351_第一个出现两次的字母.cpp" />
     <ClCompile Include="2353_设计食物评分系统.cpp" />
     <ClCompile Include="2357_使数组中所有元素都等于零.cpp" />
+    <ClCompile Include="2359_找到离给定两个节点最近的节点.cpp" />
     <ClCompile Include="2360_图中的最长环.cpp" />
     <ClCompile Include="2364_统计坏数对的数目.cpp" />
     <ClCompile Include="237_删除链表中的节点.cpp" />
