@@ -192,6 +192,7 @@
     <ClCompile Include="1287_有序数组中出现次数超过25%的元素.cpp" />
     <ClCompile Include="1289_下降路径最小和_II.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
+    <ClCompile Include="1298_你能从盒子里获得的最大糖果数.cpp" />
     <ClCompile Include="1302_层数最深叶子节点的和.cpp" />
     <ClCompile Include="1305_两棵二叉搜索树中的所有元素.cpp" />
     <ClCompile Include="131_分割回文串.cpp" />
