@@ -151,6 +151,7 @@
     <ClCompile Include="1037_有效的回旋镖.cpp" />
     <ClCompile Include="1044_最长重复子串.cpp" />
     <ClCompile Include="1051_高度检查器.cpp" />
+    <ClCompile Include="1061_按字典序排列最小的等效字符串.cpp" />
     <ClCompile Include="1072_按列翻转得到最大值等行数.cpp" />
     <ClCompile Include="1078_Bigram_分词.cpp" />
     <ClCompile Include="1079_活字印刷.cpp" />
