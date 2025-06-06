@@ -2226,6 +2226,9 @@
     <ClCompile Include="1061_按字典序排列最小的等效字符串.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2434_使用机器人打印字典序最小的字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

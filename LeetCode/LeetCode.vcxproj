@@ -440,6 +440,7 @@
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
     <ClCompile Include="2412_完成所有交易的初始最少钱数.cpp" />
     <ClCompile Include="241_为运算表达式设计优先级.cpp" />
+    <ClCompile Include="2434_使用机器人打印字典序最小的字符串.cpp" />
     <ClCompile Include="2451_差值数组不同的字符串.cpp" />
     <ClCompile Include="2469_温度转换.cpp" />
     <ClCompile Include="2487_从链表中移除节点.cpp" />
