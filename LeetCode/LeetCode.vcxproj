@@ -451,6 +451,7 @@
     <ClCompile Include="2511_最多可以摧毁的敌人城堡数目.cpp" />
     <ClCompile Include="2517_礼盒的最大甜蜜度.cpp" />
     <ClCompile Include="2529_正整数和负整数的最大计数.cpp" />
+    <ClCompile Include="2530_执行K次操作后的最大分数.cpp" />
     <ClCompile Include="2537_统计好子数组的数目.cpp" />
     <ClCompile Include="2544_交替数字和.cpp" />
     <ClCompile Include="2552_统计上升四元组.cpp" />
