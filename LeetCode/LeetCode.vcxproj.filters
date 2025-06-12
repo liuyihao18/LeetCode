@@ -2235,6 +2235,9 @@
     <ClCompile Include="3442_奇偶频次间的最大差值_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3423_循环数组中相邻元素的最大差值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
