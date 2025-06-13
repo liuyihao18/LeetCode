@@ -473,6 +473,7 @@
     <ClCompile Include="2610_转换二维数组.cpp" />
     <ClCompile Include="2612_最少翻转操作数.cpp" />
     <ClCompile Include="2614_对角线上的质数.cpp" />
+    <ClCompile Include="2616_最小化数对的最大差值.cpp" />
     <ClCompile Include="2642_设计可以求最短路径的图类.cpp" />
     <ClCompile Include="2643_一最多的行.cpp" />
     <ClCompile Include="2651_计算列车到站时间.cpp" />
