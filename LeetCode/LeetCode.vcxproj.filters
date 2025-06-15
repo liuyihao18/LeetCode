@@ -2241,6 +2241,9 @@
     <ClCompile Include="2616_最小化数对的最大差值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1432_改变一个整数能得到的最大差值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
