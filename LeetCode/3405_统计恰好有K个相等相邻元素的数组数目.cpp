@@ -19,7 +19,7 @@ public:
                 dp[j] = (temp[j - 1] + (temp[j] * (m - 1)) % MOD) % MOD;
             }
         }
-        return dp[k];
+        return static_cast<int>(dp[k]);
     }
 };
 
