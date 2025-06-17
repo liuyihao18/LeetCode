@@ -2244,6 +2244,9 @@
     <ClCompile Include="1432_改变一个整数能得到的最大差值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3405_统计恰好有K个相等相邻元素的数组数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
@@ -2267,6 +2270,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="utils.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="matrix.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
