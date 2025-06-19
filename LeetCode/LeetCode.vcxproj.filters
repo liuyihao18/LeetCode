@@ -2250,6 +2250,9 @@
     <ClCompile Include="2966_划分数组并满足最大差限制.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2294_划分数组使最大差为K.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

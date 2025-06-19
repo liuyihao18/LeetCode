@@ -412,6 +412,7 @@
     <ClCompile Include="2287_重排字符形成目标字符串.cpp" />
     <ClCompile Include="228_汇总区间.cpp" />
     <ClCompile Include="2293_极大极小游戏.cpp" />
+    <ClCompile Include="2294_划分数组使最大差为K.cpp" />
     <ClCompile Include="2296_设计一个文本编辑器.cpp" />
     <ClCompile Include="2299_强密码检验器_II.cpp" />
     <ClCompile Include="229_求众数_II.cpp" />
