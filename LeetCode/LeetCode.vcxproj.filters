@@ -2253,6 +2253,9 @@
     <ClCompile Include="2294_划分数组使最大差为K.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3443_K次修改后的最大曼哈顿距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
