@@ -22,10 +22,3 @@ public:
         return static_cast<int>(dp[k]);
     }
 };
-
-int main() {
-    Solution solution;
-    int n = 10, m = 10, k = 0;
-    cout << solution.countGoodArrays(n, m, k) << endl;
-    return 0;
-}
