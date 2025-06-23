@@ -2259,6 +2259,9 @@
     <ClCompile Include="3085_成为K特殊字符串需要删除的最少字符数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2081_k镜像数字的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
