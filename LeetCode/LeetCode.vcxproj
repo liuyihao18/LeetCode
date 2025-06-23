@@ -390,6 +390,7 @@
     <ClCompile Include="2116_判断一个括号字符串是否有效.cpp" />
     <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
+    <ClCompile Include="2138_将字符串拆分为若干长度为k的组.cpp" />
     <ClCompile Include="2140_解决智力问题.cpp" />
     <ClCompile Include="2145_统计隐藏数组数目.cpp" />
     <ClCompile Include="2176_统计数组中相等且可以被整除的数对.cpp" />

@@ -2262,6 +2262,9 @@
     <ClCompile Include="2081_k镜像数字的和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2138_将字符串拆分为若干长度为k的组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
