@@ -203,6 +203,7 @@
     <ClCompile Include="1332_删除回文子序列.cpp" />
     <ClCompile Include="1342_将数字变成0的操作次数.cpp" />
     <ClCompile Include="1345_跳跃游戏_IV.cpp" />
+    <ClCompile Include="135_分发糖果.cpp" />
     <ClCompile Include="1374_生成每种字符都是奇数个的字符串.cpp" />
     <ClCompile Include="1379_找出克隆二叉树中的相同节点.cpp" />
     <ClCompile Include="1380_矩阵中的幸运数.cpp" />

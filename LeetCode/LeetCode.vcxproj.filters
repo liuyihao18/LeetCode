@@ -2274,6 +2274,9 @@
     <ClCompile Include="3403_从盒子中找出字典序最大的字符串_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="135_分发糖果.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
