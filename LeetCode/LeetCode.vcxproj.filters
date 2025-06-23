@@ -2265,6 +2265,9 @@
     <ClCompile Include="2138_将字符串拆分为若干长度为k的组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2566_替换一个数字后的最大差值.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
