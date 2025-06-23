@@ -540,6 +540,7 @@
     <ClCompile Include="3151_特殊数组_I.cpp" />
     <ClCompile Include="3152_特殊数组_II.cpp" />
     <ClCompile Include="3153_所有数对中数位不同之和.cpp" />
+    <ClCompile Include="3170_删除星号以后字典序最小的字符串.cpp" />
     <ClCompile Include="3174_清除数字.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
@@ -563,6 +564,7 @@
     <ClCompile Include="3375_使数组的值全部为K的最少操作次数.cpp" />
     <ClCompile Include="337_打家劫舍_III.cpp" />
     <ClCompile Include="3396_使数组元素互不相同所需的最少操作次数.cpp" />
+    <ClCompile Include="3403_从盒子中找出字典序最大的字符串_I.cpp" />
     <ClCompile Include="3405_统计恰好有K个相等相邻元素的数组数目.cpp" />
     <ClCompile Include="3423_循环数组中相邻元素的最大差值.cpp" />
     <ClCompile Include="3442_奇偶频次间的最大差值_I.cpp" />

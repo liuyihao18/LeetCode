@@ -2268,6 +2268,12 @@
     <ClCompile Include="2566_替换一个数字后的最大差值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3170_删除星号以后字典序最小的字符串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3403_从盒子中找出字典序最大的字符串_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
