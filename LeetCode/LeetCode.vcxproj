@@ -508,6 +508,7 @@
     <ClCompile Include="2901_最长相邻不相等子序列_II.cpp" />
     <ClCompile Include="2908_元素和最小的山形三元组_I.cpp" />
     <ClCompile Include="2918_数组的最小相等和.cpp" />
+    <ClCompile Include="2929_给小朋友们分糖果_II.cpp" />
     <ClCompile Include="292_Nim_游戏.cpp" />
     <ClCompile Include="2940_找到Alice和Bob可以相遇的建筑.cpp" />
     <ClCompile Include="2961_双模幂运算.cpp" />

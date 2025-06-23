@@ -2277,6 +2277,9 @@
     <ClCompile Include="135_分发糖果.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2929_给小朋友们分糖果_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
