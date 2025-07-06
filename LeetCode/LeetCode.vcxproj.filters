@@ -2289,6 +2289,9 @@
     <ClCompile Include="2200_找出数组中的所有K近邻下标.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1865_找出和为指定值的下标对.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

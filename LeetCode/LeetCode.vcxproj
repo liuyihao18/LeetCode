@@ -340,6 +340,7 @@
     <ClCompile Include="1827_最少操作使数组递增.cpp" />
     <ClCompile Include="1832_判断句子是否为全字母句.cpp" />
     <ClCompile Include="1845_座位预约管理系统.cpp" />
+    <ClCompile Include="1865_找出和为指定值的下标对.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
     <ClCompile Include="1911_最大子序列交替和.cpp" />
