@@ -2292,6 +2292,9 @@
     <ClCompile Include="1865_找出和为指定值的下标对.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1353_最多可以参加的会议数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
