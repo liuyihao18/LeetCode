@@ -558,6 +558,7 @@
     <ClCompile Include="3304_找出第K个字符_I.cpp" />
     <ClCompile Include="3305_元音辅音字符串计数_I.cpp" />
     <ClCompile Include="3306_元音辅音字符串计数_II.cpp" />
+    <ClCompile Include="3307_找出第K个字符_II.cpp" />
     <ClCompile Include="3335_字符串转换后的长度_I.cpp" />
     <ClCompile Include="3337_字符串转换后的长度_II.cpp" />
     <ClCompile Include="3340_检查平衡字符串.cpp" />

@@ -2301,6 +2301,9 @@
     <ClCompile Include="3304_找出第K个字符_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3307_找出第K个字符_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
