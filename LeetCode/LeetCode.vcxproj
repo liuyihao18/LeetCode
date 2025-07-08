@@ -292,6 +292,7 @@
     <ClCompile Include="1748_唯一元素的和.cpp" />
     <ClCompile Include="1749_任意子数组和的绝对值的最大值.cpp" />
     <ClCompile Include="1750_删除字符串两端相同字符后的最短长度.cpp" />
+    <ClCompile Include="1751_最多可以参加的会议数目_II.cpp" />
     <ClCompile Include="1752_检查数组是否经排序和轮转得到.cpp" />
     <ClCompile Include="1753_移除石子的最大得分.cpp" />
     <ClCompile Include="1754_构造字典序最大的合并字符串.cpp" />
