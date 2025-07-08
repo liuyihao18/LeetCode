@@ -16,11 +16,13 @@ public:
         size_t n = events.size();
         vector<vector<int>> dp(n + 1, vector<int>(k + 1, 0));
         for (size_t i = 1; i <= n; i++) {
-            int p = lower_bound(events.begin(), events.end(), events[i - 1],
-                [](const vector<int>& event, const vector<int>& target) {
-                    return event[1] < target[0];
-                }
-            ) - events.begin();
+            int p = static_cast<int>(
+                lower_bound(events.begin(), events.end(), events[i - 1],
+                    [](const vector<int>& event, const vector<int>& target) {
+                        return event[1] < target[0];
+                    }
+                ) - events.begin()
+            );
             for (size_t j = 1; j <= k; j++) {
                 dp[i][j] = max(dp[i - 1][j], dp[p][j - 1] + events[i - 1][2]);
             }

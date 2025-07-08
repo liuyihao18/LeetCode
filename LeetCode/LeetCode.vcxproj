@@ -555,6 +555,7 @@
     <ClCompile Include="324_摆动排序_II.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
     <ClCompile Include="3272_统计好整数的数目.cpp" />
+    <ClCompile Include="3304_找出第K个字符_I.cpp" />
     <ClCompile Include="3305_元音辅音字符串计数_I.cpp" />
     <ClCompile Include="3306_元音辅音字符串计数_II.cpp" />
     <ClCompile Include="3335_字符串转换后的长度_I.cpp" />

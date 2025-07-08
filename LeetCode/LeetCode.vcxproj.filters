@@ -2298,6 +2298,9 @@
     <ClCompile Include="1751_最多可以参加的会议数目_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3304_找出第K个字符_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
