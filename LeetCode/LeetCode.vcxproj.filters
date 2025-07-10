@@ -2307,6 +2307,9 @@
     <ClCompile Include="3439_重新安排会议得到最多空余时间_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3440_重新安排会议得到最多空余时间_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
