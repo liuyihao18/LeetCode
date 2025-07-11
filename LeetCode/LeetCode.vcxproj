@@ -548,6 +548,7 @@
     <ClCompile Include="3151_特殊数组_I.cpp" />
     <ClCompile Include="3152_特殊数组_II.cpp" />
     <ClCompile Include="3153_所有数对中数位不同之和.cpp" />
+    <ClCompile Include="3169_无需开会的工作日.cpp" />
     <ClCompile Include="3170_删除星号以后字典序最小的字符串.cpp" />
     <ClCompile Include="3174_清除数字.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />

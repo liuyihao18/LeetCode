@@ -2310,6 +2310,9 @@
     <ClCompile Include="3440_重新安排会议得到最多空余时间_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3169_无需开会的工作日.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
