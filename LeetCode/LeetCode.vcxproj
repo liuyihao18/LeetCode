@@ -540,6 +540,7 @@
     <ClCompile Include="3131_找出与数组相加的整数_I.cpp" />
     <ClCompile Include="3132_找出与数组相加的整数_II.cpp" />
     <ClCompile Include="3133_数组最后一个元素的最小值.cpp" />
+    <ClCompile Include="3136_有效单词.cpp" />
     <ClCompile Include="3137_K周期字符串需要的最少操作次数.cpp" />
     <ClCompile Include="3142_判断矩阵是否满足条件.cpp" />
     <ClCompile Include="3143_正方形中的最多点数.cpp" />

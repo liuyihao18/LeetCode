@@ -2316,6 +2316,9 @@
     <ClCompile Include="2410_运动员和训练师的最大匹配数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3136_有效单词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
