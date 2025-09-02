@@ -2325,6 +2325,9 @@
     <ClCompile Include="37_解数独.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3025_人员站位的方案数_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
