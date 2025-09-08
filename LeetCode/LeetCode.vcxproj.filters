@@ -2328,6 +2328,9 @@
     <ClCompile Include="3025_人员站位的方案数_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1317_将整数转换为两个无零整数的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
