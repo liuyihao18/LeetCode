@@ -431,6 +431,7 @@
     <ClCompile Include="2315_统计星号.cpp" />
     <ClCompile Include="2319_判断矩阵是否是一个X矩阵.cpp" />
     <ClCompile Include="2325_解密消息.cpp" />
+    <ClCompile Include="2327_知道秘密的人数.cpp" />
     <ClCompile Include="2331_计算布尔二叉树的值.cpp" />
     <ClCompile Include="2335_装满杯子需要的最短总时长.cpp" />
     <ClCompile Include="2337_移动片段得到字符串.cpp" />
