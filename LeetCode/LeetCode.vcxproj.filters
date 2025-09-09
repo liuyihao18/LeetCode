@@ -2334,6 +2334,9 @@
     <ClCompile Include="2327_知道秘密的人数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1304_和为零的N个不同整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
