@@ -288,6 +288,7 @@
     <ClCompile Include="1728_猫和老鼠_II.cpp" />
     <ClCompile Include="172_阶乘后的零.cpp" />
     <ClCompile Include="1732_找到最高海拔.cpp" />
+    <ClCompile Include="1733_需要教语言的最少人数.cpp" />
     <ClCompile Include="1739_放置盒子.cpp" />
     <ClCompile Include="1742_盒子中小球的最大数量.cpp" />
     <ClCompile Include="1745_分割回文串_IV.cpp" />

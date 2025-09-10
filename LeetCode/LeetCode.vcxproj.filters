@@ -2337,6 +2337,9 @@
     <ClCompile Include="1304_和为零的N个不同整数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1733_需要教语言的最少人数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
