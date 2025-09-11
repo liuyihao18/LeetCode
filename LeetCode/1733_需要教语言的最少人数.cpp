@@ -6,7 +6,7 @@ class Solution {
 public:
     int minimumTeachings(int n, vector<vector<int>>& languages, vector<vector<int>>& friendships) {
         int minTech = INT_MAX;
-        int m = languages.size();
+        int m = static_cast<int>(languages.size());
         vector<int> languageIndex(n, 0);
         vector<int> languageCount(n, 0);
         for (vector<int>& language : languages) {

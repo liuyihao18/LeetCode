@@ -2340,6 +2340,9 @@
     <ClCompile Include="1733_需要教语言的最少人数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2785_将字符串中的元音字母排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
