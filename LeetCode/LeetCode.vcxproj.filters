@@ -2343,6 +2343,9 @@
     <ClCompile Include="2785_将字符串中的元音字母排序.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3227_字符串元音游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
