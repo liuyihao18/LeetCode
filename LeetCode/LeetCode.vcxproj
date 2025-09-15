@@ -352,6 +352,7 @@
     <ClCompile Include="1920_基于排列构建数组.cpp" />
     <ClCompile Include="1921_消灭怪物的最大数量.cpp" />
     <ClCompile Include="1922_统计好数字的数目.cpp" />
+    <ClCompile Include="1935_可以输入的最大单词数.cpp" />
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
     <ClCompile Include="1963_使字符串平衡的最小交换次数.cpp" />
     <ClCompile Include="1971_寻找图中是否存在路径.cpp" />

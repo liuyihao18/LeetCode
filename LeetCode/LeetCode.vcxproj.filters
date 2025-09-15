@@ -2349,6 +2349,9 @@
     <ClCompile Include="3541_找到频率最高的元音和辅音.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1935_可以输入的最大单词数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
