@@ -2352,6 +2352,9 @@
     <ClCompile Include="1935_可以输入的最大单词数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2197_替换数组中的非互质数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

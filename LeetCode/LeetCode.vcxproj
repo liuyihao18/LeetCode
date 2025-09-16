@@ -408,6 +408,7 @@
     <ClCompile Include="2180_统计各位数字之和为偶数的整数个数.cpp" />
     <ClCompile Include="2181_合并零之间的节点.cpp" />
     <ClCompile Include="2185_统计包含给定前缀的字符串.cpp" />
+    <ClCompile Include="2197_替换数组中的非互质数.cpp" />
     <ClCompile Include="219_存在重复元素_II.cpp" />
     <ClCompile Include="2200_找出数组中的所有K近邻下标.cpp" />
     <ClCompile Include="2208_将数组和减半的最少操作次数.cpp" />
