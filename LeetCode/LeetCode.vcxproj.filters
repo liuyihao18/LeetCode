@@ -2361,6 +2361,9 @@
     <ClCompile Include="3005_最大频率元素计数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="165_比较版本号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
