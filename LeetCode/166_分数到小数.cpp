@@ -4,6 +4,39 @@ ustd
 
 class Solution {
 public:
+    string fractionToDecimal(long long numerator, long long denominator) {
+        if (numerator == 0) {
+            return "0";
+        }
+        int positve = numerator > 0 && denominator > 0 || numerator < 0 && denominator < 0;
+        numerator = abs(numerator);
+        denominator = abs(denominator);
+        string integer = positve ? to_string(numerator / denominator) : "-" + to_string(numerator / denominator);
+        numerator %= denominator;
+        if (numerator == 0) {
+            return integer;
+        }
+        string decimals;
+        map<int, size_t> visited;
+        size_t pos = 0;
+        while (!visited.count(numerator) && numerator != 0) {
+            visited[numerator] = pos++;
+            decimals += numerator * 10 / denominator + '0';
+            numerator = numerator * 10 % denominator;
+        }
+        if (numerator == 0) {
+            return integer + "." + decimals;
+        }
+        else {
+            return integer + "." + decimals.substr(0, visited[numerator]) +
+                "(" + decimals.substr(visited[numerator]) + ")";
+        }
+    }
+};
+
+/* ÓÐ´í£¡
+class Solution {
+public:
     string fractionToDecimal(int numerator, int denominator) {
         if (numerator == 0) {
             return "0";
@@ -43,3 +76,4 @@ public:
         return result;
     }
 };
+*/
