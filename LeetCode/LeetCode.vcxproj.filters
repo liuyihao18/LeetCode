@@ -2328,15 +2328,51 @@
     <ClCompile Include="3025_人员站位的方案数_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1317_将整数转换为两个无零整数的和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2327_知道秘密的人数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1304_和为零的N个不同整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1733_需要教语言的最少人数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2785_将字符串中的元音字母排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3227_字符串元音游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3541_找到频率最高的元音和辅音.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="1935_可以输入的最大单词数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2197_替换数组中的非互质数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3484_设计电子表格.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3005_最大频率元素计数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="165_比较版本号.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="682_棒球比赛.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
     <ClCompile Include="stdafx.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
-    <None Include="682_棒球比赛.cpp">
-      <Filter>源文件</Filter>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="头文件">

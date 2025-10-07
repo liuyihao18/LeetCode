@@ -199,7 +199,9 @@
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="1298_你能从盒子里获得的最大糖果数.cpp" />
     <ClCompile Include="1302_层数最深叶子节点的和.cpp" />
+    <ClCompile Include="1304_和为零的N个不同整数.cpp" />
     <ClCompile Include="1305_两棵二叉搜索树中的所有元素.cpp" />
+    <ClCompile Include="1317_将整数转换为两个无零整数的和.cpp" />
     <ClCompile Include="131_分割回文串.cpp" />
     <ClCompile Include="1328_破坏回文串.cpp" />
     <ClCompile Include="132_分割回文串_II.cpp" />
@@ -264,6 +266,7 @@
     <ClCompile Include="1652_拆炸弹.cpp" />
     <ClCompile Include="1656_设计有序流.cpp" />
     <ClCompile Include="1658_将x减到0的最小操作数.cpp" />
+    <ClCompile Include="165_比较版本号.cpp" />
     <ClCompile Include="1662_检查两个字符串数组是否相等.cpp" />
     <ClCompile Include="1663_具有给定数值的最小字符串.cpp" />
     <ClCompile Include="1668_最大重复子字符串.cpp" />
@@ -290,6 +293,7 @@
     <ClCompile Include="1728_猫和老鼠_II.cpp" />
     <ClCompile Include="172_阶乘后的零.cpp" />
     <ClCompile Include="1732_找到最高海拔.cpp" />
+    <ClCompile Include="1733_需要教语言的最少人数.cpp" />
     <ClCompile Include="1739_放置盒子.cpp" />
     <ClCompile Include="1742_盒子中小球的最大数量.cpp" />
     <ClCompile Include="1745_分割回文串_IV.cpp" />
@@ -353,6 +357,7 @@
     <ClCompile Include="1920_基于排列构建数组.cpp" />
     <ClCompile Include="1921_消灭怪物的最大数量.cpp" />
     <ClCompile Include="1922_统计好数字的数目.cpp" />
+    <ClCompile Include="1935_可以输入的最大单词数.cpp" />
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
     <ClCompile Include="1963_使字符串平衡的最小交换次数.cpp" />
     <ClCompile Include="1971_寻找图中是否存在路径.cpp" />
@@ -408,6 +413,7 @@
     <ClCompile Include="2180_统计各位数字之和为偶数的整数个数.cpp" />
     <ClCompile Include="2181_合并零之间的节点.cpp" />
     <ClCompile Include="2185_统计包含给定前缀的字符串.cpp" />
+    <ClCompile Include="2197_替换数组中的非互质数.cpp" />
     <ClCompile Include="219_存在重复元素_II.cpp" />
     <ClCompile Include="2200_找出数组中的所有K近邻下标.cpp" />
     <ClCompile Include="2208_将数组和减半的最少操作次数.cpp" />
@@ -434,6 +440,7 @@
     <ClCompile Include="2315_统计星号.cpp" />
     <ClCompile Include="2319_判断矩阵是否是一个X矩阵.cpp" />
     <ClCompile Include="2325_解密消息.cpp" />
+    <ClCompile Include="2327_知道秘密的人数.cpp" />
     <ClCompile Include="2331_计算布尔二叉树的值.cpp" />
     <ClCompile Include="2335_装满杯子需要的最短总时长.cpp" />
     <ClCompile Include="2337_移动片段得到字符串.cpp" />
@@ -503,6 +510,7 @@
     <ClCompile Include="2712_使所有字符相等的最小成本.cpp" />
     <ClCompile Include="2716_最小化字符串长度.cpp" />
     <ClCompile Include="273_整数转换英文表示.cpp" />
+    <ClCompile Include="2785_将字符串中的元音字母排序.cpp" />
     <ClCompile Include="2799_统计完全子数组的数目.cpp" />
     <ClCompile Include="2810_故障键盘.cpp" />
     <ClCompile Include="2829_k-avoiding数组的最小总和.cpp" />
@@ -512,6 +520,7 @@
     <ClCompile Include="2845_统计趣味子数组的数目.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
     <ClCompile Include="2860_让所有学生保持开心的分组方法数.cpp" />
+    <ClCompile Include="2873_有序三元组中的最大值_I.cpp" />
     <ClCompile Include="2874_有序三元组中的最大值_II.cpp" />
     <ClCompile Include="2894_分类求和并作差.cpp" />
     <ClCompile Include="2900_最长相邻不相等子序列_I.cpp" />
@@ -528,6 +537,7 @@
     <ClCompile Include="299_猜数字游戏.cpp" />
     <ClCompile Include="29_两数相除.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
+    <ClCompile Include="3005_最大频率元素计数.cpp" />
     <ClCompile Include="3007_价值和小于等于K的最大数字.cpp" />
     <ClCompile Include="301_删除无效的括号.cpp" />
     <ClCompile Include="3024_三角形类型.cpp" />
@@ -560,6 +570,7 @@
     <ClCompile Include="3174_清除数字.cpp" />
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
+    <ClCompile Include="3227_字符串元音游戏.cpp" />
     <ClCompile Include="324_摆动排序_II.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
     <ClCompile Include="3272_统计好整数的数目.cpp" />
@@ -589,8 +600,10 @@
     <ClCompile Include="3440_重新安排会议得到最多空余时间_II.cpp" />
     <ClCompile Include="3442_奇偶频次间的最大差值_I.cpp" />
     <ClCompile Include="3443_K次修改后的最大曼哈顿距离.cpp" />
+    <ClCompile Include="3484_设计电子表格.cpp" />
     <ClCompile Include="3487_删除后的最大子数组元素和.cpp" />
     <ClCompile Include="352_将数据流变为多个不相交区间.cpp" />
+    <ClCompile Include="3541_找到频率最高的元音和辅音.cpp" />
     <ClCompile Include="357_统计各位数字都不同的数字个数.cpp" />
     <ClCompile Include="367_有效的完全平方数.cpp" />
     <ClCompile Include="368_最大整除子集.cpp" />
@@ -743,6 +756,7 @@
     <ClCompile Include="676_实现一个魔法字典.cpp" />
     <ClCompile Include="677_键值映射.cpp" />
     <ClCompile Include="680_验证回文串_II.cpp" />
+    <ClCompile Include="682_棒球比赛.cpp" />
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
     <ClCompile Include="687_最长同值路径.cpp" />
     <ClCompile Include="688_骑士在棋盘上的概率.cpp" />
@@ -923,7 +937,6 @@
     <ClCompile Include="剑指_Offer_II_091_粉刷房子.cpp" />
     <ClCompile Include="剑指_Offer_II_114_外星文字典.cpp" />
     <ClCompile Include="剑指_Offer_II_115_重建序列.cpp" />
-    <ClCompile Include="2873_有序三元组中的最大值_I.cpp" />
     <ClCompile Include="面试题_01_02_判定是否互为字符重排.cpp" />
     <ClCompile Include="面试题_01_05_一次编辑.cpp" />
     <ClCompile Include="面试题_01_08_零矩阵.cpp" />
@@ -931,7 +944,7 @@
     <ClCompile Include="面试题_04_06_后继者.cpp" />
     <ClCompile Include="面试题_17_09_第k个数.cpp" />
     <ClCompile Include="面试题_17_11_单词距离.cpp" />
-    <ClCompile Include="面试题_17_19_消失的两个数字.cpp" />
+    <ClCompile Include="面试题_17_19_消失的两个数字.cpp" />    
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
@@ -940,7 +953,6 @@
     <ClInclude Include="utils.h" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="682_棒球比赛.cpp" />
     <None Include="cpp.hint" />
   </ItemGroup>
   <ItemGroup>
