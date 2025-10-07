@@ -1,5 +1,5 @@
 // 1222_可以攻击国王的皇后.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

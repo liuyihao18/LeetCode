@@ -1,5 +1,5 @@
 // 496_下一个更大元素_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

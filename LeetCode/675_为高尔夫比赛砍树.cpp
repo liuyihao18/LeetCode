@@ -1,5 +1,5 @@
 // 675_为高尔夫比赛砍树.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

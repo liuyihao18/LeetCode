@@ -1,5 +1,5 @@
 // 2045_到达目的地的第二短时间.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

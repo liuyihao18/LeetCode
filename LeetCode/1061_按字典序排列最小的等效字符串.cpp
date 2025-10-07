@@ -1,5 +1,5 @@
 // 1061_按字典序排列最小的等效字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

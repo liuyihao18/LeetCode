@@ -1,5 +1,5 @@
 // 821_×Ö·ûµÄ×î¶Ì¾àÀë.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define ABS(x, y) static_cast<int>(x < y ? y - x : x - y)

@@ -1,5 +1,5 @@
 // 1716_计算力扣银行的钱.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

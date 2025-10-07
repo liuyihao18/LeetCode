@@ -1,5 +1,5 @@
 // 764_最大加号标志.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 812_最大三角形面积.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define x(p) p[0]

@@ -1,5 +1,5 @@
 // 2651_计算列车到站时间.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

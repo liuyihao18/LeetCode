@@ -1,5 +1,5 @@
 // 2235_两整数相加.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2451_差值数组不同的字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

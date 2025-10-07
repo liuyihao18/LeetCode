@@ -1,5 +1,5 @@
 // 762_二进制表示中质数个计算置位.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 constexpr int prime[] = { 2, 3, 5, 7, 11, 13, 17, 19 };

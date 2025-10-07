@@ -1,5 +1,5 @@
 // 535_TinyURL_的加密与解密.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

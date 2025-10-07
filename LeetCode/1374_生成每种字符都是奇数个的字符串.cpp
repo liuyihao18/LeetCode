@@ -1,5 +1,5 @@
 // 1374_生成每种字符都是奇数个的字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

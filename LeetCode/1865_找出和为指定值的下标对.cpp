@@ -1,5 +1,5 @@
 // 1865_找出和为指定值的下标对.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class FindSumPairs {

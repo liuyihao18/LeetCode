@@ -1,5 +1,5 @@
 // 911_在线选举.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class TopVotedCandidate {

@@ -1,5 +1,5 @@
 // 997_找到小镇的法官.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

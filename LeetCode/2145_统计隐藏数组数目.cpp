@@ -1,5 +1,5 @@
 // 2145_统计隐藏数组数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

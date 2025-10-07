@@ -1,5 +1,5 @@
 // 1799_N次操作后的最大分数和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TLE

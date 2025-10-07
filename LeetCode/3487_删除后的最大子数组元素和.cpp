@@ -1,5 +1,5 @@
 // 3487_删除后的最大子数组元素和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

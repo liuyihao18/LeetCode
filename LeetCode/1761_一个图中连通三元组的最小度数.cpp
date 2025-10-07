@@ -1,5 +1,5 @@
 // 1761_一个图中连通三元组的最小度数
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

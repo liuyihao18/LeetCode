@@ -1,5 +1,5 @@
 // 1963_使字符串平衡的最小交换次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

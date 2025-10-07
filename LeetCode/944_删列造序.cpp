@@ -1,5 +1,5 @@
 // 944_…æ¡–‘Ï–Ú.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

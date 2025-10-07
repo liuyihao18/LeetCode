@@ -1,5 +1,5 @@
 // 2843_统计对称整数的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

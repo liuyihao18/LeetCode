@@ -1,5 +1,5 @@
 // 442_数组中重复的数据.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

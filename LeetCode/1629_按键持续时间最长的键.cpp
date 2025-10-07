@@ -1,5 +1,5 @@
 // 1629_按键持续时间最长的键.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 constexpr size_t INDEX(char c) {

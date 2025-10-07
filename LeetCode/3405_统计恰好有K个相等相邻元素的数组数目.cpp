@@ -1,5 +1,5 @@
 // 3405_统计恰好有K个相等相邻元素的数组数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const long long MOD = static_cast<long long>(1e9 + 7);

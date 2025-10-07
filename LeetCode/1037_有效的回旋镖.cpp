@@ -1,5 +1,5 @@
 // 1037_有效的回旋镖.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /*

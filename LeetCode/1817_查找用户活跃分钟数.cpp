@@ -1,5 +1,5 @@
 // 1817_查找用户活跃分钟数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

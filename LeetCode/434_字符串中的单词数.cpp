@@ -1,5 +1,5 @@
 // 434_字符串中的单词数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

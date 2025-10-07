@@ -1,5 +1,5 @@
 // 2140_解决智力问题.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

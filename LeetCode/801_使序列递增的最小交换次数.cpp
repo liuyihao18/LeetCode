@@ -1,5 +1,5 @@
 // 801_使序列递增的最小交换次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

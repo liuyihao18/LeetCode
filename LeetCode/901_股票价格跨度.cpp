@@ -1,5 +1,5 @@
 // 901_股票价格跨度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class StockSpanner {

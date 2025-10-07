@@ -1,5 +1,5 @@
 // 1464_数组中两元素的最大乘积.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

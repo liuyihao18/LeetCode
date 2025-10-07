@@ -1,5 +1,5 @@
 // 1123_最深叶节点的最近公共祖先.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

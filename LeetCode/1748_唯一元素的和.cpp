@@ -1,5 +1,5 @@
 // 1748_唯一元素的和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

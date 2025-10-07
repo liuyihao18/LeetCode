@@ -1,5 +1,5 @@
 // 725_∑÷∏Ù¡¥±Ì.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 struct ListNode {

@@ -1,5 +1,5 @@
 // 2180_统计各位数字之和为偶数的整数个数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

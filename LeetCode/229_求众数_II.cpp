@@ -1,5 +1,5 @@
 // 229_ÇóÖÚÊı_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 #define VOTE
 ustd
 

@@ -1,5 +1,5 @@
 // 230_二叉搜索树中第K小的元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

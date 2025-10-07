@@ -1,5 +1,5 @@
 // 1576_替换所有的问号.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

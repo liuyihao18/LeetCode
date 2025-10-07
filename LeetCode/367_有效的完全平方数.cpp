@@ -1,5 +1,5 @@
 // 367. 有效的完全平方数
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

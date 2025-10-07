@@ -1,5 +1,5 @@
 // 3131_找出与数组相加的整数_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

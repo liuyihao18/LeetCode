@@ -1,5 +1,5 @@
 // 1252_奇数值单元格的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

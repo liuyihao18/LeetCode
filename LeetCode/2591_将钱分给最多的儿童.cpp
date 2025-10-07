@@ -1,5 +1,5 @@
 // 2591_将钱分给最多的儿童.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

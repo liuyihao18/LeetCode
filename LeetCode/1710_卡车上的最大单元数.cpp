@@ -1,5 +1,5 @@
 // 1710_卡车上的最大单元数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

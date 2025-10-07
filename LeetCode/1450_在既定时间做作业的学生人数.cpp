@@ -1,5 +1,5 @@
 // 1450_在既定时间做作业的学生人数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

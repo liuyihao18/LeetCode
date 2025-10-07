@@ -1,5 +1,5 @@
 // 688_骑士在棋盘上的概率.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

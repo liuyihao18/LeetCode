@@ -1,5 +1,5 @@
 // 790_多米诺和托米诺平铺.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const long long mod = static_cast<long long>(1e9) + 7;

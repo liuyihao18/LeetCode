@@ -1,5 +1,5 @@
 // 2022_将一维数组转变成二维数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define _SIZE(x) static_cast<size_t>(x)

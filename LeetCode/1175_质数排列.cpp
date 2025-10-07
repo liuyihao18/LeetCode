@@ -1,5 +1,5 @@
 // 1175_ÖÊÊıÅÅÁĞ.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const int primes[] = { 

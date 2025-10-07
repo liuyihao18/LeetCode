@@ -1,5 +1,5 @@
 // 715_Range_模块.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: 区间操作

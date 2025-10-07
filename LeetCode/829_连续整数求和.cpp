@@ -1,5 +1,5 @@
 // 829_连续整数求和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 806_写字符串需要的行数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define rows result[0]

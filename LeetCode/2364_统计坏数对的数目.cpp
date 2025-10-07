@@ -1,5 +1,5 @@
 // 2364_统计坏数对的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

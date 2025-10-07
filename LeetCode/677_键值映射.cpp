@@ -1,5 +1,5 @@
 // 677_¼üÖµÓ³Éä.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MapSum {

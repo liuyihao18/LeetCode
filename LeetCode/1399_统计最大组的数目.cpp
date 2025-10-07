@@ -1,5 +1,5 @@
 // 1399_统计最大组的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

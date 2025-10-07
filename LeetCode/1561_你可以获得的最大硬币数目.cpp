@@ -1,5 +1,5 @@
 // 1561_你可以获得的最大硬币数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

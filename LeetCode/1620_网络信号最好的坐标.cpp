@@ -1,5 +1,5 @@
 // 1620_网络信号最好的坐标.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

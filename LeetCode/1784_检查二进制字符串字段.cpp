@@ -1,5 +1,5 @@
 // 1784_检查二进制字符串字段.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

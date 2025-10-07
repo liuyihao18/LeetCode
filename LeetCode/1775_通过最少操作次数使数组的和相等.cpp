@@ -1,5 +1,5 @@
 // 1775_通过最少操作次数使数组的和相等.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

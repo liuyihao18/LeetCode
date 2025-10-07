@@ -1,5 +1,5 @@
 // 606_根据二叉树创建字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a binary tree node.

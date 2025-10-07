@@ -1,5 +1,5 @@
 // 1845_座位预约管理系统.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class SeatManager {

@@ -1,5 +1,5 @@
 // 2236_判断根结点是否等于子结点之和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

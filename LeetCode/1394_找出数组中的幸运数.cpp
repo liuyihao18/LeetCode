@@ -1,5 +1,5 @@
 // 1394_找出数组中的幸运数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2200_找出数组中的所有K近邻下标.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

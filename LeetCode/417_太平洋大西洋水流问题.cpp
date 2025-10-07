@@ -1,5 +1,5 @@
 // 417_太平洋大西洋水流问题.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define INT(x) static_cast<int>(x)

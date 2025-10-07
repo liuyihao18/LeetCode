@@ -1,5 +1,5 @@
 // 2353_设计食物评分系统.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 struct Food {

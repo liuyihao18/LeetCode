@@ -1,5 +1,5 @@
 // 933_最近的请求次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class RecentCounter {

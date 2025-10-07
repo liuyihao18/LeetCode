@@ -1,5 +1,5 @@
 // 558_ËÄ²æÊ÷½»¼¯.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a QuadTree node.

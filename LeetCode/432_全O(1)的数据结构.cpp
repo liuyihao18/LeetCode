@@ -1,5 +1,5 @@
 // 432_全O(1)的数据结构.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class AllOne {

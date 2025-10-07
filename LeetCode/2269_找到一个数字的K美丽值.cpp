@@ -1,5 +1,5 @@
 // 2269_找到一个数字的K美丽值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

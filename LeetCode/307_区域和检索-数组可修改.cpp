@@ -1,5 +1,5 @@
 // 307_区域和检索 - 数组可修改.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class NumArray {

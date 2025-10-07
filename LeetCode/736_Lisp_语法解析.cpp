@@ -1,5 +1,5 @@
 // 736_Lisp_Óï·¨½âÎö.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

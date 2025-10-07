@@ -1,5 +1,5 @@
 // 3342_到达最后一个房间的最少时间_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

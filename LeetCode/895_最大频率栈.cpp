@@ -1,5 +1,5 @@
 // 895_×î´óÆµÂÊÕ».cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class FreqStack {

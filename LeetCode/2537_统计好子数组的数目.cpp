@@ -1,5 +1,5 @@
 // 2537_统计好子数组的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

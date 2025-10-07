@@ -1,5 +1,5 @@
 // 849_到最近的人的最大距离.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

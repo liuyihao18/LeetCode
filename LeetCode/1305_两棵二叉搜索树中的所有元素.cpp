@@ -1,5 +1,5 @@
 // 1305_两棵二叉搜索树中的所有元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

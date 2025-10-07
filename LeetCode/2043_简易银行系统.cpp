@@ -1,5 +1,5 @@
 // 2043_简易银行系统.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define INDEX(account) static_cast<size_t>(account - 1)

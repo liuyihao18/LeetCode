@@ -1,5 +1,5 @@
 // LCP_50_±¦Ê¯²¹¸ø.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

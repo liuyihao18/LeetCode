@@ -1,5 +1,5 @@
 // 284_¿úÌ½µü´úÆ÷.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Below is the interface for Iterator, which is already defined for you.

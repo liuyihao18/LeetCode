@@ -1,5 +1,5 @@
 // 809_情感丰富的文字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

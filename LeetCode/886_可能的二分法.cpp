@@ -1,5 +1,5 @@
 // 886_可能的二分法.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2908_元素和最小的山形三元组_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

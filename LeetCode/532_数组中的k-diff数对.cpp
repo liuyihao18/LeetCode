@@ -1,5 +1,5 @@
 // 532_数组中的k-diff数对.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

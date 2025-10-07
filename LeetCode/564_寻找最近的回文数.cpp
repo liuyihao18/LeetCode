@@ -1,5 +1,5 @@
 // 564_寻找最近的回文数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

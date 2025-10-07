@@ -1,5 +1,5 @@
 // 600_不含连续1的非负整数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

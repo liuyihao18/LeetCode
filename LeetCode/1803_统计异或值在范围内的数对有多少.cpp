@@ -1,5 +1,5 @@
 // 1803_统计异或值在范围内的数对有多少.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 struct Trie {

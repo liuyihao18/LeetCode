@@ -1,5 +1,5 @@
 // 2559_统计范围内的元音字符串数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 961_在长度2N的数组中找出重复N次的元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

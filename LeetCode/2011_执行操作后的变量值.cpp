@@ -1,5 +1,5 @@
 // 2011_执行操作后的变量值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

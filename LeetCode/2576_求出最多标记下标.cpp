@@ -1,5 +1,5 @@
 // 2576_求出最多标记下标.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

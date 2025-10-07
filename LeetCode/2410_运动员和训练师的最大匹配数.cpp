@@ -1,5 +1,5 @@
 // 2410_运动员和训练师的最大匹配数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

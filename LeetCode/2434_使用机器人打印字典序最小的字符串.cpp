@@ -1,5 +1,5 @@
 // 2434_使用机器人打印字典序最小的字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 template<typename T>

@@ -1,5 +1,5 @@
 // 1663_具有给定数值的最小字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1072_按列翻转得到最大值等行数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

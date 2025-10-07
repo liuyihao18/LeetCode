@@ -1,5 +1,5 @@
 // 650_只有两个键的键盘.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1742_盒子中小球的最大数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

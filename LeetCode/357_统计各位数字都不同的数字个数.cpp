@@ -1,5 +1,5 @@
 // 357_统计各位数字都不同的数字个数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

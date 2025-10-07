@@ -1,5 +1,5 @@
 // 405_数字转换为十六进制数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

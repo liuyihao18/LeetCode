@@ -1,5 +1,5 @@
 // 1640_能否连接形成数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

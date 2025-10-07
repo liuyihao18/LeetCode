@@ -1,4 +1,4 @@
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Graph {

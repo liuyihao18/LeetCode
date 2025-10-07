@@ -1,5 +1,5 @@
 // 1760_袋子里最少数目的球.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

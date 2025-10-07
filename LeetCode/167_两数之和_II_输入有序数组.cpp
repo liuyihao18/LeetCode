@@ -1,5 +1,5 @@
 // 167_两数之和_II_输入有序数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

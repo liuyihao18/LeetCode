@@ -1,5 +1,5 @@
 // ½£Ö¸_Offer_II_091_·ÛË¢·¿×Ó.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

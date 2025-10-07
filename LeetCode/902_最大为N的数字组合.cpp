@@ -1,5 +1,5 @@
 // 902_最大为N的数字组合.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

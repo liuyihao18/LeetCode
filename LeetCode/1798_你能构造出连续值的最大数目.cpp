@@ -1,5 +1,5 @@
 // 1798_你能构造出连续值的最大数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

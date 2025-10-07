@@ -1,5 +1,5 @@
 // 2873_有序三元组中的最大值_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

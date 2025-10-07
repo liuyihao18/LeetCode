@@ -1,5 +1,5 @@
 // 641_设计循环双端队列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MyCircularDeque {

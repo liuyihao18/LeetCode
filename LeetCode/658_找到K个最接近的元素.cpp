@@ -1,5 +1,5 @@
 // 658_找到K个最接近的元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 878_第N个神奇数字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

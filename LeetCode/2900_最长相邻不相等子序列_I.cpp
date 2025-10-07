@@ -1,5 +1,5 @@
 // 2900_最长相邻不相等子序列_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

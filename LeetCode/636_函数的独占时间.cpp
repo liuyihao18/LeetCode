@@ -1,5 +1,5 @@
 // 636_函数的独占时间.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 剑指_Offer_II_115_重建序列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

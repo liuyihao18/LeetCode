@@ -1,5 +1,5 @@
 // 1678_Éè¼Æ_Goal_½âÎöÆ÷.cpp
-#include "custom.h"
+#include "stdafx.h"
 #include <regex>
 ustd
 

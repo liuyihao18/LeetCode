@@ -1,5 +1,5 @@
 // 2080_区间内查询数字的频率.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 constexpr size_t MAX_NUM = 10005;

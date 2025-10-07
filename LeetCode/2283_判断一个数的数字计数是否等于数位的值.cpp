@@ -1,5 +1,5 @@
 // 2283_判断一个数的数字计数是否等于数位的值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

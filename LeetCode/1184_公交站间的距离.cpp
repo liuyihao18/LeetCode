@@ -1,5 +1,5 @@
 // 1184_公交站间的距离.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 面试题_01_05_一次编辑.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

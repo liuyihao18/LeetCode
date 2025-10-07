@@ -1,5 +1,5 @@
 // 1993_Ê÷ÉÏµÄ²Ù×÷.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class LockingTree {

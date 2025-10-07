@@ -1,5 +1,5 @@
 // 2028_找出缺失的观测数据.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

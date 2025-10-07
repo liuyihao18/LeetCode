@@ -1,5 +1,5 @@
 // 1822_数组元素积的符号.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

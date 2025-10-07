@@ -1,5 +1,5 @@
 // 560_和为K的子数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

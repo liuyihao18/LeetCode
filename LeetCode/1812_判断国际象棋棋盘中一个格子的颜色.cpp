@@ -1,5 +1,5 @@
 // 1812_判断国际象棋棋盘中一个格子的颜色.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 583_两个字符串的删除操作.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2013_¼ì²âÕý·½ÐÎ.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class DetectSquares {

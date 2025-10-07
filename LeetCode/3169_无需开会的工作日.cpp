@@ -1,5 +1,5 @@
 // 3169_无需开会的工作日.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1792_最大平均通过率.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

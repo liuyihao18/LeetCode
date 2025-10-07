@@ -1,5 +1,5 @@
 // 462_最少移动次数使数组元素相等_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

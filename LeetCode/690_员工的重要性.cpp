@@ -1,5 +1,5 @@
 // 690_员工的重要性.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for Employee.

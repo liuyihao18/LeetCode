@@ -1,5 +1,5 @@
 // 1460_通过翻转子数组使两个数组相等.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

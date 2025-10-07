@@ -1,5 +1,5 @@
 // 310_最小高度树.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

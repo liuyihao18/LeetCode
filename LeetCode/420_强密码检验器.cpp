@@ -1,5 +1,5 @@
 // 420_强密码检验器.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: 全然やりたくない。

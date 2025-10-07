@@ -1,5 +1,5 @@
 // 2412_完成所有交易的初始最少钱数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /*

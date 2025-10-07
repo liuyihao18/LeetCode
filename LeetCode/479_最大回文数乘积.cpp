@@ -1,5 +1,5 @@
 // 479_最大回文数乘积.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

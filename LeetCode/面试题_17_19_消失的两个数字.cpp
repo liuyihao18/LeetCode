@@ -1,5 +1,5 @@
 // 面试题_17_19_消失的两个数字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

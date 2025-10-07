@@ -1,5 +1,5 @@
 // 剑指_Offer_II_041_滑动窗口的平均值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MovingAverage {

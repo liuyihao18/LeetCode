@@ -1,5 +1,5 @@
 // 2487_从链表中移除节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

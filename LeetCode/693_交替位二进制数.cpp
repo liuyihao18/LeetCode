@@ -1,5 +1,5 @@
 // 693_交替位二进制数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

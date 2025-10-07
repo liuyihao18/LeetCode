@@ -1,5 +1,5 @@
 // 784_字母大小写全排列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

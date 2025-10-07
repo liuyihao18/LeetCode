@@ -1,5 +1,5 @@
 // 598_区间加法_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

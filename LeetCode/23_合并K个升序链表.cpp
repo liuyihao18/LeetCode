@@ -1,5 +1,5 @@
 // 23_合并K个升序链表.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

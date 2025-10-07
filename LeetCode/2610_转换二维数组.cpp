@@ -1,5 +1,5 @@
 // 2610_转换二维数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

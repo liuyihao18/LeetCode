@@ -1,5 +1,5 @@
 // 1921_消灭怪物的最大数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

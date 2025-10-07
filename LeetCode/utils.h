@@ -2,7 +2,7 @@
 #pragma once
 #ifndef __UTILS_H__
 #define __UTILS_H__
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 istream& getArray(istream& in, vector<int>& nums);

@@ -1,5 +1,5 @@
 // 56_合并区间.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1413_逐步求和得到正数的最小值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

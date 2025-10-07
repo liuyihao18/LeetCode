@@ -1,5 +1,5 @@
 // 453_最小操作次数使数组元素相等.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

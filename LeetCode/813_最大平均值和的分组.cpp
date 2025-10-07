@@ -1,5 +1,5 @@
 // 813_最大平均值和的分组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

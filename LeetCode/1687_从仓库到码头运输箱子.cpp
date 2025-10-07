@@ -1,5 +1,5 @@
 // 1687_从仓库到码头运输箱子.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

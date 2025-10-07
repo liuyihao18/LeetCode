@@ -1,5 +1,5 @@
 // 871_最低加油次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

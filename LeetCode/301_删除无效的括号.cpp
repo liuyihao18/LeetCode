@@ -1,5 +1,5 @@
 // 301_É¾³ıÎŞĞ§µÄÀ¨ºÅ.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 #define BFS
 

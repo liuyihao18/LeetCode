@@ -1,5 +1,5 @@
 // 3136_ÓÐÐ§µ¥´Ê.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 bool isvowel(char c) {

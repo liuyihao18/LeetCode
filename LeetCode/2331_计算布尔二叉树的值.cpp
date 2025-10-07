@@ -1,5 +1,5 @@
 // 2331_计算布尔二叉树的值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a binary tree node.

@@ -1,5 +1,5 @@
 // 41_缺失的第一个正数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // 原地哈希方法

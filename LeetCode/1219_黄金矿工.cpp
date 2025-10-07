@@ -1,5 +1,5 @@
 // 1219_»Æ½ð¿ó¹¤.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const pair<int, int> directions[] = {

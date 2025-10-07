@@ -1,5 +1,5 @@
 // 680_验证回文串_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

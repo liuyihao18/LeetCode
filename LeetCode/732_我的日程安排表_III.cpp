@@ -1,5 +1,5 @@
 // 732_我的日程安排表_III.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MyCalendarThree {

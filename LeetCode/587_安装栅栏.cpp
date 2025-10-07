@@ -1,5 +1,5 @@
 // 587_安装栅栏.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // 凸包检测：Andrew算法

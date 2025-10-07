@@ -1,5 +1,5 @@
 // 868_二进制间距.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

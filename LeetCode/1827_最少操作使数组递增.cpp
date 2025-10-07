@@ -1,5 +1,5 @@
 // 1827_最少操作使数组递增.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

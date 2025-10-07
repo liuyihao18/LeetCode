@@ -1,5 +1,5 @@
 // 855_¿¼³¡¾Í×ù.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 struct Comp {

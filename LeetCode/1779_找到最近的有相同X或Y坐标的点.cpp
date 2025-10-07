@@ -1,5 +1,5 @@
 // 1779_找到最近的有相同X或Y坐标的点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

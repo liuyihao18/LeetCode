@@ -1,5 +1,5 @@
 // 1441_用栈操作构建数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

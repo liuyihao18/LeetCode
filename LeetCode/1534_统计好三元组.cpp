@@ -1,5 +1,5 @@
 // 1534_统计好三元组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

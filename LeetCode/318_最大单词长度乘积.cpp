@@ -1,5 +1,5 @@
 // 318_最大单词长度乘积.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 #define HASH
 

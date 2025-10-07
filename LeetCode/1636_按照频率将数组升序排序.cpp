@@ -1,5 +1,5 @@
 // 1636_按照频率将数组升序排序.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

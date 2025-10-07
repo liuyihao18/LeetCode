@@ -1,5 +1,5 @@
 // 1669_合并两个链表.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for singly-linked list.

@@ -1,5 +1,5 @@
 // 2711_对角线上不同值的数量差.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

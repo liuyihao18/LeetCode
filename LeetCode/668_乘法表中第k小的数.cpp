@@ -1,5 +1,5 @@
 // 668_乘法表中第k小的数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TLE

@@ -1,5 +1,5 @@
 // 2012_数组美丽值求和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

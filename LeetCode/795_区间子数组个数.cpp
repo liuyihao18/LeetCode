@@ -1,5 +1,5 @@
 // 795_区间子数组个数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1475_商品折扣后的最终价格.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

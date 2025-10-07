@@ -1,5 +1,5 @@
 // 3133_数组最后一个元素的最小值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

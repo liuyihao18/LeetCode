@@ -1,5 +1,5 @@
 // 919_完全二叉树插入器.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a binary tree node.

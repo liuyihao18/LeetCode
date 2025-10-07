@@ -1,5 +1,5 @@
 // 1922_统计好数字的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

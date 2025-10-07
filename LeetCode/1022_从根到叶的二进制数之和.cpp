@@ -1,5 +1,5 @@
 // 1022_从根到叶的二进制数之和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a binary tree node.

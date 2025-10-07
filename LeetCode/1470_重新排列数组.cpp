@@ -1,5 +1,5 @@
 // 1470_重新排列数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

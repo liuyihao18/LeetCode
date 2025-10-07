@@ -1,5 +1,5 @@
 // 1774_最接近目标价格的甜点成本.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

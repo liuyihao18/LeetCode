@@ -1,5 +1,5 @@
 // 2319_判断矩阵是否是一个X矩阵.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

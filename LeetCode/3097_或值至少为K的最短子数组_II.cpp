@@ -1,5 +1,5 @@
 // 3097_或值至少为K的最短子数组_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 void orAdd(vector<int>& bitCount, int num) {

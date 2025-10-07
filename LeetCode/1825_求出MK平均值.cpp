@@ -1,5 +1,5 @@
 // 1825_求出MK平均值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MKAverage {

@@ -1,5 +1,5 @@
 // 827_最大人工岛.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const vector<int> d = { 0, -1, 0, 1, 0 };

@@ -1,5 +1,5 @@
 // 3137_K周期字符串需要的最少操作次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

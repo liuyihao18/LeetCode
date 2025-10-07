@@ -1,5 +1,5 @@
 // 2044_统计按位或能得到最大值的子集数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

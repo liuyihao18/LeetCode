@@ -1,5 +1,5 @@
 // 707_…Ëº∆¡¥±Ì.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MyLinkedList {

@@ -1,5 +1,5 @@
 // 2347_最好的扑克手牌.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

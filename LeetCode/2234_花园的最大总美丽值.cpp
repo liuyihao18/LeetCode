@@ -1,5 +1,5 @@
 // 2234_花园的最大总美丽值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

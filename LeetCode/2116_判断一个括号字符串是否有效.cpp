@@ -1,5 +1,5 @@
 // 2116_判断一个括号字符串是否有效.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1754_构造字典序最大的合并字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

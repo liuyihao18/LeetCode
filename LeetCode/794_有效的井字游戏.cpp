@@ -1,5 +1,5 @@
 // 794_有效的井字游戏.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

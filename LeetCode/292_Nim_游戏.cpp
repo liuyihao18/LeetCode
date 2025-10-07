@@ -1,5 +1,5 @@
 // 292_Nim_сно╥.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

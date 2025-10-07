@@ -1,5 +1,5 @@
 // 1572_矩阵对角线元素的和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

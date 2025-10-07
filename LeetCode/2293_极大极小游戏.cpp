@@ -1,5 +1,5 @@
 // 2293_极大极小游戏.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

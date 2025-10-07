@@ -1,5 +1,5 @@
 // 2042_检查句子中的数字是否递增.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

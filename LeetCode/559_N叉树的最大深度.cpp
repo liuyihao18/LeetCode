@@ -1,5 +1,5 @@
 // 559_N叉树的最大深度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 #define STACK
 

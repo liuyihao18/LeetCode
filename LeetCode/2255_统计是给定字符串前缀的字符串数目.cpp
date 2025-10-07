@@ -1,5 +1,5 @@
 // 2255_统计是给定字符串前缀的字符串数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1753_移除石子的最大得分.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

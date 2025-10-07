@@ -1,5 +1,5 @@
 // 1005_K次取反后最大化的数组和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

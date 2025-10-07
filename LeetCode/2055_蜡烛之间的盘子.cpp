@@ -1,5 +1,5 @@
 // 2055_蜡烛之间的盘子.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

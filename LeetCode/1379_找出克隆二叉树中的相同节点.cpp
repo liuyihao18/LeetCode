@@ -1,5 +1,5 @@
 // 1379_找出克隆二叉树中的相同节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

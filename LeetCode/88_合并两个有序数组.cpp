@@ -1,5 +1,5 @@
 // 88_合并两个有序数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1759_统计同构子字符串的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

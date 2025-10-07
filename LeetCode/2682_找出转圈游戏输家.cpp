@@ -1,5 +1,5 @@
 // 2682_找出转圈游戏输家.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

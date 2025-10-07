@@ -1,5 +1,5 @@
 // 2070_每一个查询的最大美丽值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1996_游戏中弱角色的数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

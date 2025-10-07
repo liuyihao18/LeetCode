@@ -1,5 +1,5 @@
 // 917_仅仅反转字母.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

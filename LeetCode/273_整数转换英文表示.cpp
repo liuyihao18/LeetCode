@@ -1,5 +1,5 @@
 // 273_整数转换英文表示.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

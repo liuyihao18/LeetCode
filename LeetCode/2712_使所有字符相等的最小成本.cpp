@@ -1,5 +1,5 @@
 // 2712_使所有字符相等的最小成本.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

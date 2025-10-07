@@ -1,5 +1,5 @@
 // 2032_至少在两个数组中出现的值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

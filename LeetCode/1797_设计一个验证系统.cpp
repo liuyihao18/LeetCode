@@ -1,5 +1,5 @@
 // 1797_设计一个验证系统.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class AuthenticationManager {

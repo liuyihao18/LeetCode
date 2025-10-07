@@ -1,5 +1,5 @@
 // 3024_三角形类型.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

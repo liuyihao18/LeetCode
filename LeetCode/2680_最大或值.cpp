@@ -1,5 +1,5 @@
 // 2680_最大或值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

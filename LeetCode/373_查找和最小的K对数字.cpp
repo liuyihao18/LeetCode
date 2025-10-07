@@ -1,5 +1,5 @@
 // 373_查找和最小的K对数字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

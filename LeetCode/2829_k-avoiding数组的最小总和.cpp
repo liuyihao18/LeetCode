@@ -1,5 +1,5 @@
 // 2829_k-avoiding数组的最小总和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

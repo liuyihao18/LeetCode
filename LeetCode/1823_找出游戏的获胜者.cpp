@@ -1,5 +1,5 @@
 // 1823_找出游戏的获胜者.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

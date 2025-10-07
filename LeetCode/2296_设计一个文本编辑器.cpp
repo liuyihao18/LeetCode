@@ -1,5 +1,5 @@
 // 2296_设计一个文本编辑器.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class TextEditor {

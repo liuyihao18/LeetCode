@@ -1,5 +1,5 @@
 // 面试题_01_02_判定是否互为字符重排.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

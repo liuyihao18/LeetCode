@@ -1,5 +1,5 @@
 // 540_有序数组中的单一元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

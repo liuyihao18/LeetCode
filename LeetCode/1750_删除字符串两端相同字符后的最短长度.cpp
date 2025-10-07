@@ -1,5 +1,5 @@
 // 1750_删除字符串两端相同字符后的最短长度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

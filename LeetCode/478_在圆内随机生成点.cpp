@@ -1,5 +1,5 @@
 // 478_在圆内随机生成点.cpp
-#include "custom.h"
+#include "stdafx.h"
 #include <random>
 ustd
 

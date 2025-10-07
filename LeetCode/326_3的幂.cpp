@@ -1,5 +1,5 @@
 // 326_3µÄÃİ
-#include "custom.h"
+#include "stdafx.h"
 #include <cmath>
 ustd
 

@@ -1,5 +1,5 @@
 // 2845_统计趣味子数组的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

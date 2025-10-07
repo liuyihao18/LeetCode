@@ -1,5 +1,5 @@
 // 1656_设计有序流.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class OrderedStream {

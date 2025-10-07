@@ -1,5 +1,5 @@
 // 2357_使数组中所有元素都等于零.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

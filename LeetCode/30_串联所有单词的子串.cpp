@@ -1,5 +1,5 @@
 // 30_串联所有单词的子串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

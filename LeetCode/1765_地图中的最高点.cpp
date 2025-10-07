@@ -1,5 +1,5 @@
 // 1765_地图中的最高点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

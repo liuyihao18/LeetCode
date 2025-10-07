@@ -1,5 +1,5 @@
 // 864_获取所有钥匙的最短路径.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

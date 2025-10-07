@@ -1,5 +1,5 @@
 // 2037_使每位学生都有座位的最少移动次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

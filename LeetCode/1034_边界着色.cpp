@@ -1,5 +1,5 @@
 // 1034_±ß½ç×ÅÉ«.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define CURR(row, col) [static_cast<size_t>(row)][static_cast<size_t>(col)]

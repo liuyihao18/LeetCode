@@ -1,5 +1,5 @@
 // 2024_考试的最大困扰度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

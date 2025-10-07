@@ -1,5 +1,5 @@
 // 1732_找到最高海拔.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

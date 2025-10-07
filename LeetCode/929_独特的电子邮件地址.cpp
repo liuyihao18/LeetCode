@@ -1,5 +1,5 @@
 // 929_独特的电子邮件地址.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2966_划分数组并满足最大差限制.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

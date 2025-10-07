@@ -1,5 +1,5 @@
 // 1298_你能从盒子里获得的最大糖果数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

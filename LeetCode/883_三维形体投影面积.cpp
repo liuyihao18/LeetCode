@@ -1,5 +1,5 @@
 // 883_三维形体投影面积.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

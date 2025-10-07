@@ -1,5 +1,5 @@
 // 2716_最小化字符串长度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

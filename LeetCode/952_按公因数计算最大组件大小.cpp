@@ -1,5 +1,5 @@
 // 952_按公因数计算最大组件大小.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // ? TLE

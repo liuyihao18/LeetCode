@@ -1,5 +1,5 @@
 // 1920_基于排列构建数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

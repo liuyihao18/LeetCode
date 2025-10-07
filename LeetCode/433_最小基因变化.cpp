@@ -1,5 +1,5 @@
 // 433_最小基因变化.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

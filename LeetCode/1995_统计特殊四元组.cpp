@@ -1,5 +1,5 @@
 // 1995_统计特殊四元组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

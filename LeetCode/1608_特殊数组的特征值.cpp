@@ -1,5 +1,5 @@
 // 1608_特殊数组的特征值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

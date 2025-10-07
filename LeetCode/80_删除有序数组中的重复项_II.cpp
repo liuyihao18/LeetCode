@@ -1,5 +1,5 @@
 // 80_删除有序数组中的重复项_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1704_判断字符串的两半是否相似.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

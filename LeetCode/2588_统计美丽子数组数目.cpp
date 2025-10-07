@@ -1,5 +1,5 @@
 // 2588_统计美丽子数组数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

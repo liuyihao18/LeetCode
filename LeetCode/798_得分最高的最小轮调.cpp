@@ -1,5 +1,5 @@
 // 798_得分最高的最小轮调.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: 差分数组（https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/solution/de-fen-zui-gao-de-zui-xiao-lun-diao-by-l-hbtd/）

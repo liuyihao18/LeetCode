@@ -1,5 +1,5 @@
 // 2552_统计上升四元组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // 题目看错了，这个“上升”并不上升啊！

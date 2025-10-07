@@ -1,5 +1,5 @@
 // 882_细分图中的可到达节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

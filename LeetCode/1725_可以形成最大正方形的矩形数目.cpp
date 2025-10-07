@@ -1,5 +1,5 @@
 // 1725_可以形成最大正方形的矩形数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

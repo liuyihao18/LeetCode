@@ -1,5 +1,5 @@
 // 393_UTF-8±àÂëÑéÖ¤.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define ONE(B)                 (~B & 0x80)

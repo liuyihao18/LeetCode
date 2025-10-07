@@ -1,5 +1,5 @@
 // 334_递增的三元子序列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

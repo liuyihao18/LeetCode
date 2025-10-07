@@ -1,5 +1,5 @@
 // 383_Êê½ğĞÅ.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 constexpr size_t INDEX(char c) {

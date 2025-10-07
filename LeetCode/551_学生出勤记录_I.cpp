@@ -1,5 +1,5 @@
 // 551_学生出勤记录_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

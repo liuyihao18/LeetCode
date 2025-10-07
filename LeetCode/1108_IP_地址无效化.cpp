@@ -1,5 +1,5 @@
 // 1108_IP_地址无效化.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

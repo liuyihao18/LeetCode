@@ -1,5 +1,5 @@
 // 599_两个列表的最小索引总和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

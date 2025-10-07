@@ -1,5 +1,5 @@
 // 1154_一年中的第几天.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

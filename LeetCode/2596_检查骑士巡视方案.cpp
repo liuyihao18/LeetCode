@@ -1,5 +1,5 @@
 // 2596_检查骑士巡视方案.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

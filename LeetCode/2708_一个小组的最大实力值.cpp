@@ -1,5 +1,5 @@
 // 2708_一个小组的最大实力值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

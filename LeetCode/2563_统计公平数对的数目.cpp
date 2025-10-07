@@ -1,5 +1,5 @@
 // 2563_统计公平数对的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2094_ÕÒ³ö3Î»Å¼Êý.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define SOLUTION_2

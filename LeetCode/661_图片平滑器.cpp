@@ -1,5 +1,5 @@
 // 661_Í¼Æ¬Æ½»¬Æ÷.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const int dirs[][2] = {

@@ -1,5 +1,5 @@
 // 1448_统计二叉树中好节点的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

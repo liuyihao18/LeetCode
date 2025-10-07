@@ -1,5 +1,5 @@
 // 3153_所有数对中数位不同之和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

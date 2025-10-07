@@ -1,5 +1,5 @@
 // 698_划分为k个相等的子集.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

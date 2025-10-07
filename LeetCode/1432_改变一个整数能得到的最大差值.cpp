@@ -1,5 +1,5 @@
 // 1432_改变一个整数能得到的最大差值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

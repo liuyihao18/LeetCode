@@ -1,5 +1,5 @@
 // 537_¸´Êý³Ë·¨.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Complex;

@@ -1,5 +1,5 @@
 // 1752_检查数组是否经排序和轮转得到.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

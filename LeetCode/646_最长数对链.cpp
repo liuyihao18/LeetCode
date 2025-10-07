@@ -1,5 +1,5 @@
 // 646_最长数对链.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

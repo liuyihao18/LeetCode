@@ -1,5 +1,5 @@
 // 1796_字符串中第二大的数字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

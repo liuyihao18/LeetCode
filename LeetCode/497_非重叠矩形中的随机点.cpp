@@ -1,5 +1,5 @@
 // 497_非重叠矩形中的随机点.cpp
-#include "custom.h"
+#include "stdafx.h"
 #include <random>
 ustd
 

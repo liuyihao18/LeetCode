@@ -1,5 +1,5 @@
 // 391_ÍêÃÀ¾ØĞÎ.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 #define HASH
 

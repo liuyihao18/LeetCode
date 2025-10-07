@@ -1,5 +1,5 @@
 // 1824_最少侧跳次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

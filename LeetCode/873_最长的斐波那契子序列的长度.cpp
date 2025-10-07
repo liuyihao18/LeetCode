@@ -1,5 +1,5 @@
 // 873_最长的斐波那契子序列的长度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

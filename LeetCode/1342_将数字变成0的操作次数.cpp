@@ -1,5 +1,5 @@
 // 1342_将数字变成0的操作次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

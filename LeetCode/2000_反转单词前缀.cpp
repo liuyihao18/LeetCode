@@ -1,5 +1,5 @@
 // 2000_反转单词前缀.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

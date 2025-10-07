@@ -1,5 +1,5 @@
 // 1672_最富有客户的资产总量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

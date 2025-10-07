@@ -1,5 +1,5 @@
 // 1773_统计匹配检索规则的物品数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2511_最多可以摧毁的敌人城堡数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

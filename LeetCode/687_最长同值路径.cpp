@@ -1,5 +1,5 @@
 // 687_最长同值路径.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

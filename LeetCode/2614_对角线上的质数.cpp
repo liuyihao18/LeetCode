@@ -1,5 +1,5 @@
 // 2614_对角线上的质数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

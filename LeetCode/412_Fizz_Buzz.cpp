@@ -1,5 +1,5 @@
 // 412_Fizz_Buzz.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

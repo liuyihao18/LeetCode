@@ -1,5 +1,5 @@
 // 1224_最大相等频率.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

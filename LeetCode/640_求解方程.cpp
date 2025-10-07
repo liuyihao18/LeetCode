@@ -1,5 +1,5 @@
 // 640_求解方程.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

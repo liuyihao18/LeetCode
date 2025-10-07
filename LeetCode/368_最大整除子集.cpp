@@ -1,5 +1,5 @@
 // 368_最大整除子集.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

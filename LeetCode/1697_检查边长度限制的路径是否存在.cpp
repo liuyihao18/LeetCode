@@ -1,5 +1,5 @@
 // 1697_检查边长度限制的路径是否存在.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

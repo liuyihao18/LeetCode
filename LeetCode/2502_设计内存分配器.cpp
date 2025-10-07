@@ -1,5 +1,5 @@
 // 2502_设计内存分配器.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Allocator {

@@ -1,5 +1,5 @@
 // 913_√®∫Õ¿œ Û.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /* alpha-betaºÙ÷¶ */

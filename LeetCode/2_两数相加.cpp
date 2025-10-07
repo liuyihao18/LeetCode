@@ -1,5 +1,5 @@
 // 2_两数相加.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for singly-linked list.

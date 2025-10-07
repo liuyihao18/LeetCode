@@ -1,5 +1,5 @@
 // 1020_飞地的数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 const int directions[4][2] = {

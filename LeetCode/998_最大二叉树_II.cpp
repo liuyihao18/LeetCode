@@ -1,5 +1,5 @@
 // 998_×î´ó¶þ²æÊ÷_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 //  Definition for a binary tree node.

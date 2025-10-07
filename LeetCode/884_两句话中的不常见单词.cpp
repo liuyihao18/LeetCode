@@ -1,5 +1,5 @@
 // 884_两句话中的不常见单词.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

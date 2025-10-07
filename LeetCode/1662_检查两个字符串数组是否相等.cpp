@@ -1,5 +1,5 @@
 // 1662_检查两个字符串数组是否相等.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

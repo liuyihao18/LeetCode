@@ -1,5 +1,5 @@
 // 2600_K件物品的最大和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

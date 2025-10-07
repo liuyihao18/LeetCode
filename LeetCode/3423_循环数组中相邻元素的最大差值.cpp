@@ -1,5 +1,5 @@
 // 3423_循环数组中相邻元素的最大差值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

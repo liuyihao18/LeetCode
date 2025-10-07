@@ -1,5 +1,5 @@
 // 2302_统计得分小于K的子数组数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

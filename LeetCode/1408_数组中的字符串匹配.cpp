@@ -1,5 +1,5 @@
 // 1408_数组中的字符串匹配.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

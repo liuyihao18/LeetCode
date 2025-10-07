@@ -1,5 +1,5 @@
 // 2006_差的绝对值为K的数对数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

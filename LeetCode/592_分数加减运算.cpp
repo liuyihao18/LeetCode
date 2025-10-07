@@ -1,5 +1,5 @@
 // 592_分数加减运算.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 int lcm(int m, int n) {

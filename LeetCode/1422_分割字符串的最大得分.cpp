@@ -1,5 +1,5 @@
 // 1422_分割字符串的最大得分.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

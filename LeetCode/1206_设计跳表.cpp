@@ -1,5 +1,5 @@
 // 1206_Éè¼ÆÌø±í.cpp
-#include "custom.h"
+#include "stdafx.h"
 #include <random>
 ustd
 

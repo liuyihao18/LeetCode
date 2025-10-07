@@ -1,5 +1,5 @@
 // 869_重新排序得到2的幂.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1186_删除一次得到子数组最大和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

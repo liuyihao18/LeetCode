@@ -1,5 +1,5 @@
 // 2073_买票需要的时间.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

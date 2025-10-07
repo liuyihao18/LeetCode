@@ -1,5 +1,5 @@
 // 2605_从两个数字数组里生成最小数字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

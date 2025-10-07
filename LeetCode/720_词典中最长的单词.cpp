@@ -1,5 +1,5 @@
 // 720_词典中最长的单词.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

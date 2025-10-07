@@ -1,5 +1,5 @@
 // 3170_删除星号以后字典序最小的字符串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

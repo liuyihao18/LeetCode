@@ -1,5 +1,5 @@
 // 剑指_Offer_II_069_山峰数组的顶部.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

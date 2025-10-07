@@ -1,5 +1,5 @@
 // 2929_给小朋友们分糖果_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1253_重构2行二进制矩阵.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

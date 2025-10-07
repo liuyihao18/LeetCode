@@ -1,5 +1,5 @@
 // 1289_下降路径最小和_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

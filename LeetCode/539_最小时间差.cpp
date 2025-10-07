@@ -1,5 +1,5 @@
 // 539_最小时间差.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

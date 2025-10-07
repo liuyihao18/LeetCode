@@ -1,5 +1,5 @@
 // 1728_√®∫Õ¿œ Û_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 static const int MOUSE_TURN = 0, CAT_TURN = 1;

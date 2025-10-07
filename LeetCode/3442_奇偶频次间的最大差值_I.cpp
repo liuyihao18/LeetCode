@@ -1,5 +1,5 @@
 // 3442_奇偶频次间的最大差值_I.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

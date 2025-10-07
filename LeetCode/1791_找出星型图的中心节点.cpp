@@ -1,5 +1,5 @@
 // 1791_找出星型图的中心节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

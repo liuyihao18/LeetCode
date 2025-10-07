@@ -1,5 +1,5 @@
 // 593_有效的正方形.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

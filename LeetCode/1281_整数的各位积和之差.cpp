@@ -1,5 +1,5 @@
 // 1281_整数的各位积和之差.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

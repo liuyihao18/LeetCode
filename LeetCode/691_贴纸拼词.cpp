@@ -1,5 +1,5 @@
 // 691_ÌùÖ½Æ´´Ê.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: ×´Ñ¹dp

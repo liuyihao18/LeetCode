@@ -1,5 +1,5 @@
 // 1267_统计参与通信的服务器.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

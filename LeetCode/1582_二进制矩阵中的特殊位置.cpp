@@ -1,5 +1,5 @@
 // 1582_二进制矩阵中的特殊位置.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

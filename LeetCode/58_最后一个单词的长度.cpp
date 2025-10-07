@@ -1,5 +1,5 @@
 // 58_最后一个单词的长度.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

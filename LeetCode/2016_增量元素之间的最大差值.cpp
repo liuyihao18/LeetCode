@@ -1,5 +1,5 @@
 // 2016_增量元素之间的最大差值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

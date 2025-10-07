@@ -1,5 +1,5 @@
 // 1814_统计一个数组中好对子的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

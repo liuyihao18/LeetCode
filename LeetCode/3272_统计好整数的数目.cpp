@@ -1,5 +1,5 @@
 // 3272_统计好整数的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

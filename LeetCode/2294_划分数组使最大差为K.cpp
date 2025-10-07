@@ -1,5 +1,5 @@
 // 2294_划分数组使最大差为K.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /**

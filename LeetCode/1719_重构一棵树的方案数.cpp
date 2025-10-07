@@ -1,5 +1,5 @@
 // 1719_重构一棵树的方案数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /*

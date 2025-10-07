@@ -1,5 +1,5 @@
 // 522_最长特殊序列_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

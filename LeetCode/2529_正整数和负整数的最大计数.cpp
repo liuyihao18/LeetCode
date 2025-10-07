@@ -1,5 +1,5 @@
 // 2529_正整数和负整数的最大计数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

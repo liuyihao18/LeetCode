@@ -1,5 +1,5 @@
 // 2034_股票价格波动.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class StockPrice {

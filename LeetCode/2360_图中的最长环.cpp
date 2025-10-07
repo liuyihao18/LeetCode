@@ -1,5 +1,5 @@
 // 2360_图中的最长环.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

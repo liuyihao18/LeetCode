@@ -1,5 +1,5 @@
 // 745_Ç°×ººÍºó×ºËÑË÷.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class WordFilter {

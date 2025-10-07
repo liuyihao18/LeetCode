@@ -1,5 +1,5 @@
 // 1090_受标签影响的最大值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

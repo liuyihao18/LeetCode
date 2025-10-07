@@ -1,5 +1,5 @@
 // 563_¶þ²æÊ÷µÄÆÂ¶È.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /**

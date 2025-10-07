@@ -1,5 +1,5 @@
 // 2398_预算内的最多机器人数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

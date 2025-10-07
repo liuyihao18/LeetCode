@@ -1,5 +1,5 @@
 // 629_K个逆序对数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

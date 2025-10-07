@@ -1,5 +1,5 @@
 // 1380_矩阵中的幸运数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

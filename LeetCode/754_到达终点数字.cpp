@@ -1,5 +1,5 @@
 // 754_到达终点数字.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

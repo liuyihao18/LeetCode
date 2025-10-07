@@ -1,5 +1,5 @@
 // 3127_构造相同颜色的正方形.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

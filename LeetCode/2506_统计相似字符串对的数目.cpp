@@ -1,5 +1,5 @@
 // 2506_统计相似字符串对的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

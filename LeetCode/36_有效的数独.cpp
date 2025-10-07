@@ -1,5 +1,5 @@
 // 36_有效的数独.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

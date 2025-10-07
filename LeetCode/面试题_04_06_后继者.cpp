@@ -1,5 +1,5 @@
 // 面试题_04_06_后继者.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 //  Definition for a binary tree node.

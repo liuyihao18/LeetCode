@@ -1,5 +1,5 @@
 // 1455_检查单词是否为句中其他单词的前缀.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

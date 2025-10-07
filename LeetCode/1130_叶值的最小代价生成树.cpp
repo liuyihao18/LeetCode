@@ -1,5 +1,5 @@
 // 1130_叶值的最小代价生成树.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1129_颜色交替的最短路径.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

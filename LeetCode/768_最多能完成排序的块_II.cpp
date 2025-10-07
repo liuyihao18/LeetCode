@@ -1,5 +1,5 @@
 // 768_最多能完成排序的块_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

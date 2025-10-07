@@ -1,5 +1,5 @@
 // 2104_子数组范围和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

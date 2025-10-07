@@ -1,5 +1,5 @@
 // 2341_数组能形成多少数对.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2240_买钢笔和铅笔的方案数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

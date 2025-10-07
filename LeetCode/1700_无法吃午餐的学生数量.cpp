@@ -1,5 +1,5 @@
 // 1700_无法吃午餐的学生数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

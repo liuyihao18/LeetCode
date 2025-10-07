@@ -1,5 +1,5 @@
 // 1472_设计浏览器历史记录.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class BrowserHistory {

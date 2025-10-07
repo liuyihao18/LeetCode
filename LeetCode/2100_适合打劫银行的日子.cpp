@@ -1,5 +1,5 @@
 // 2100_适合打劫银行的日子.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

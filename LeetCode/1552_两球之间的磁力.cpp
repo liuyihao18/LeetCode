@@ -1,5 +1,5 @@
 // 1552_两球之间的磁力.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

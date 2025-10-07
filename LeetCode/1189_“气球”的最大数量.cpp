@@ -1,5 +1,5 @@
 // 1189_“气球”的最大数量.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

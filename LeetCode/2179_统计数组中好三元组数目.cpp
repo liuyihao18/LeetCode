@@ -1,5 +1,5 @@
 // 2179_统计数组中好三元组数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class FenwickTree {

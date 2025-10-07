@@ -1,5 +1,5 @@
 // 3375_使数组的值全部为K的最少操作次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 757_设置交集大小至少为2.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: 不想做困难题今天

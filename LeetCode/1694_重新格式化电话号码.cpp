@@ -1,5 +1,5 @@
 // 1694_重新格式化电话号码.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

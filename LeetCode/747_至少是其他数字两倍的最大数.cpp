@@ -1,5 +1,5 @@
 // 747_至少是其他数字两倍的最大数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

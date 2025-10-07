@@ -1,5 +1,5 @@
 // 2176_统计数组中相等且可以被整除的数对.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

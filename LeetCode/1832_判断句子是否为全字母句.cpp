@@ -1,5 +1,5 @@
 // 1832_判断句子是否为全字母句
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

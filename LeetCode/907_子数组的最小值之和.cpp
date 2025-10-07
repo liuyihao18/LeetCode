@@ -1,5 +1,5 @@
 // 907_子数组的最小值之和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

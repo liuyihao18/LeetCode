@@ -1,5 +1,5 @@
 // 850_¾ØĞÎÃæ»ı_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 struct Segtree {

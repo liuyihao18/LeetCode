@@ -1,5 +1,5 @@
 // 589_N²æÊ÷µÄÇ°Ğò±éÀú.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a Node.

@@ -1,5 +1,5 @@
 // 2860_让所有学生保持开心的分组方法数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

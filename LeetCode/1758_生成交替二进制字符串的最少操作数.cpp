@@ -1,5 +1,5 @@
 // 1758_生成交替二进制字符串的最少操作数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

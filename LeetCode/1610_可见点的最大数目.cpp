@@ -1,5 +1,5 @@
 // 1610_可见点的最大数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

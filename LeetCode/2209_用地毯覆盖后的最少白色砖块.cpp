@@ -1,5 +1,5 @@
 // 2209_用地毯覆盖后的最少白色砖块.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

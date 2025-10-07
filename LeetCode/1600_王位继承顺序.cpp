@@ -1,5 +1,5 @@
 // 1600_ÍõÎ»¼Ì³ĞË³Ğò.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class ThroneInheritance {

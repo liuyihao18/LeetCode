@@ -1,5 +1,5 @@
 // 398_随机数索引.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // 可学习：水塘抽样

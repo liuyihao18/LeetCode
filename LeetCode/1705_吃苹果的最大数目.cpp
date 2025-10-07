@@ -1,5 +1,5 @@
 // 1705_吃苹果的最大数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

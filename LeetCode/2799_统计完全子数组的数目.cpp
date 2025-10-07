@@ -1,5 +1,5 @@
 // 2799_统计完全子数组的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 3146_两个字符串的排列差.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

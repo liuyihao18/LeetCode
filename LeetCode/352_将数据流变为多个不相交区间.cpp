@@ -1,5 +1,5 @@
 // 352_将数据流变为多个不相交区间.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class SummaryRanges {

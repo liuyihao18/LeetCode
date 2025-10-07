@@ -1,5 +1,5 @@
 // 1782_统计点对的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

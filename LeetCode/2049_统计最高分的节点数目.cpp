@@ -1,5 +1,5 @@
 // 2049_统计最高分的节点数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

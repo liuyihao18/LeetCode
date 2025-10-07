@@ -1,5 +1,5 @@
 // 3396_使数组元素互不相同所需的最少操作次数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 1781_所有子字符串美丽值之和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

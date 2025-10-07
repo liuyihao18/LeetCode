@@ -1,5 +1,5 @@
 // 791_×Ô¶¨Òå×Ö·û´®ÅÅÐò.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #define INDEX(c) static_cast<size_t>(c) - 'a'

@@ -1,5 +1,5 @@
 // 890_查找和替换模式.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 2278_字母在字符串中的百分比.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

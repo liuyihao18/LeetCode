@@ -1,5 +1,5 @@
 // 653_两数之和 IV - 输入 BST.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a binary tree node.

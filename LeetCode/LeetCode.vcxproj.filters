@@ -39,7 +39,7 @@
     <ClCompile Include="187_重复的DNA序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp">
+    <ClCompile Include="211_添加与搜索单词-数据结构设计.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="212_单词搜索Ⅱ.cpp">
@@ -612,7 +612,7 @@
     <ClCompile Include="744_寻找比目标字母大的最小字母.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="307_区域和检索 - 数组可修改.cpp">
+    <ClCompile Include="307_区域和检索-数组可修改.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="762_二进制表示中质数个计算置位.cpp">
@@ -2328,6 +2328,9 @@
     <ClCompile Include="3025_人员站位的方案数_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
@@ -2344,7 +2347,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="custom.h">
+    <ClInclude Include="stdafx.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="resource.h">

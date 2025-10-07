@@ -1,5 +1,5 @@
 // 667_优美的排列_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

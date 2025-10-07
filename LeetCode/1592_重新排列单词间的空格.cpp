@@ -1,5 +1,5 @@
 // 1592_重新排列单词间的空格.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

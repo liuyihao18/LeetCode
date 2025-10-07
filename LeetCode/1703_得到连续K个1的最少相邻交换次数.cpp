@@ -1,5 +1,5 @@
 // 1703_得到连续K个1的最少相邻交换次数
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

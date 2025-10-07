@@ -1,5 +1,5 @@
 // 2616_最小化数对的最大差值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

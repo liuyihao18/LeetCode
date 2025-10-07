@@ -1,5 +1,5 @@
 // 719_找出第K小的数对距离.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

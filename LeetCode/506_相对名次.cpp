@@ -1,5 +1,5 @@
 // 506_相对名次.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

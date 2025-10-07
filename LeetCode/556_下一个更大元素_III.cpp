@@ -1,5 +1,5 @@
 // 556_下一个更大元素_III.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: 下一个排列

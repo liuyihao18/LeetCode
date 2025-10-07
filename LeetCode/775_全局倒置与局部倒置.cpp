@@ -1,5 +1,5 @@
 // 775_全局倒置与局部倒置.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

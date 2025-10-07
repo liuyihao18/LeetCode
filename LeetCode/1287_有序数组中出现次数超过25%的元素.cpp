@@ -1,5 +1,5 @@
 // 1287_有序数组中出现次数超过25%的元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

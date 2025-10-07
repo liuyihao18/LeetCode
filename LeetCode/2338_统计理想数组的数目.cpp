@@ -1,5 +1,5 @@
 // 2338_统计理想数组的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TLE，题解是组合数学

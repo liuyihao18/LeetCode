@@ -1,5 +1,5 @@
 // 3443_K次修改后的最大曼哈顿距离.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

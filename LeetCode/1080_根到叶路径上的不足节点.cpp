@@ -1,5 +1,5 @@
 // 1080_根到叶路径上的不足节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 

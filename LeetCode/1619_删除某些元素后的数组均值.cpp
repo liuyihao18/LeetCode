@@ -1,5 +1,5 @@
 // 1619_删除某些元素后的数组均值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

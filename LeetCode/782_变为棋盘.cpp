@@ -1,5 +1,5 @@
 // 782_±äÎªÆåÅÌ.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 #ifdef GCC

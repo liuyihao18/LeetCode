@@ -1,5 +1,5 @@
 // 1945_字符串转化后的各位数字之和.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

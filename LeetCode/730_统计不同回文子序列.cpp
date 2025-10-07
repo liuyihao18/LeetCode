@@ -1,5 +1,5 @@
 // 730_统计不同回文子序列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

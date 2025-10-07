@@ -1,5 +1,5 @@
 // 710_黑名单中的随机数.cpp
-#include "custom.h"
+#include "stdafx.h"
 #include <random>
 ustd
 

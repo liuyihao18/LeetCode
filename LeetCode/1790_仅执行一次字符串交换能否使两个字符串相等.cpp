@@ -1,5 +1,5 @@
 // 1790_仅执行一次字符串交换能否使两个字符串相等.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

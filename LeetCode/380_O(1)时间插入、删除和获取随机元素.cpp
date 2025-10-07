@@ -1,5 +1,5 @@
 // 380_O(1)时间插入、删除和获取随机元素.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class RandomizedSet {

@@ -1,5 +1,5 @@
 // 2566_替换一个数字后的最大差值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

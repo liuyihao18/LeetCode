@@ -1,5 +1,5 @@
 // 2351_第一个出现两次的字母.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

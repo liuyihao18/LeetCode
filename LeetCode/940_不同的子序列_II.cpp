@@ -1,5 +1,5 @@
 // 940_不同的子序列_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

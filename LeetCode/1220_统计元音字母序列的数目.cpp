@@ -1,5 +1,5 @@
 // 1220_统计元音字母序列的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

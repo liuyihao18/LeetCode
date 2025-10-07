@@ -1,5 +1,5 @@
 // 388_文件的最长绝对路径.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

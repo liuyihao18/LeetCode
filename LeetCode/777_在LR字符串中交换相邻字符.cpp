@@ -1,5 +1,5 @@
 // 777_在LR字符串中交换相邻字符.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

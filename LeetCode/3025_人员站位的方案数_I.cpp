@@ -1,4 +1,4 @@
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {
@@ -18,7 +18,7 @@ public:
                     const vector<int>& A = points[i];
                     const vector<int>& B = points[j];
                     if (A[0] <= B[0] && B[1] <= A[1]) {
-                        candidates.push_back(j);
+                        candidates.push_back(static_cast<int>(j));
                     }
                 }
             }

@@ -1,5 +1,5 @@
 // 2894_分类求和并作差.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

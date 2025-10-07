@@ -1,5 +1,5 @@
 // 894_所有可能的真二叉树.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // Definition for a binary tree node.

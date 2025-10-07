@@ -1,5 +1,5 @@
 // 2901_最长相邻不相等子序列_II.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

@@ -1,5 +1,5 @@
 // 622_设计循环队列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MyCircularQueue {

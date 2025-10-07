@@ -1,5 +1,5 @@
 // 1044_最长重复子串.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TODO: 需要再次学习

@@ -1,5 +1,5 @@
 // 382_链表随机节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /**

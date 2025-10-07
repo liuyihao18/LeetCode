@@ -1,5 +1,5 @@
 // 1994_好子集的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /* 总算做对了，但是还是TLE了 */

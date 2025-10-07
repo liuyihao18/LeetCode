@@ -1,5 +1,5 @@
 // 238_除自身以外数组的乘积.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

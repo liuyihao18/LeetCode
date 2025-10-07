@@ -1,5 +1,5 @@
 // 1815_得到新鲜甜甜圈的最多组数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

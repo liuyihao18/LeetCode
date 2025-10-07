@@ -1,5 +1,5 @@
 // 38_外观数列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

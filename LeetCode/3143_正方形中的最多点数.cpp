@@ -1,5 +1,5 @@
 // 3143_正方形中的最多点数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

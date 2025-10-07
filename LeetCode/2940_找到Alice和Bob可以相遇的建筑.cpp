@@ -1,5 +1,5 @@
 // 2940_找到Alice和Bob可以相遇的建筑.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // 错的，找到的不是最近的楼，而是最矮的楼

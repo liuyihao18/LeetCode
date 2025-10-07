@@ -1,5 +1,5 @@
 // 1078_Bigram_·Ö´Ê.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

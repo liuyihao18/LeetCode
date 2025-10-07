@@ -1,5 +1,5 @@
 // 862_和至少为K的最短子数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

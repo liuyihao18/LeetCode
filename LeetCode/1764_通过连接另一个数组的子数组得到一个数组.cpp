@@ -1,5 +1,5 @@
 // 1764_通过连接另一个数组的子数组得到一个数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

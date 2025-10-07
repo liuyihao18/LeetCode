@@ -1,5 +1,5 @@
 // 954_二倍数对数组.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

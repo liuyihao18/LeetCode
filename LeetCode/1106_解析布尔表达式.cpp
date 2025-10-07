@@ -1,5 +1,5 @@
 // 1106_解析布尔表达式.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 /* LL1

@@ -1,5 +1,5 @@
 // 1805_字符串中不同整数的数目.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

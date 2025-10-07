@@ -1,5 +1,5 @@
 // 676_实现一个魔法字典.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class MagicDictionary {

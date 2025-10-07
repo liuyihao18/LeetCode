@@ -1,5 +1,5 @@
 // 2555_两个线段获得的最多奖品.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

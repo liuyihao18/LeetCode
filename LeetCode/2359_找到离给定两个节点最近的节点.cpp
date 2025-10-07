@@ -1,5 +1,5 @@
 // 2359_找到离给定两个节点最近的节点.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

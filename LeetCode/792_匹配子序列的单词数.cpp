@@ -1,5 +1,5 @@
 // 792_匹配子序列的单词数.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 // TLE

@@ -1,5 +1,5 @@
 // 1984_学生分数的最小差值.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {

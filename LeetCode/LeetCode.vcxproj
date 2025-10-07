@@ -89,6 +89,7 @@
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -103,6 +104,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -118,6 +120,7 @@
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
       <LanguageStandard>stdcpp20</LanguageStandard>
+      <PrecompiledHeader>Use</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -132,6 +135,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <PrecompiledHeader>Use</PrecompiledHeader>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -393,7 +397,7 @@
     <ClCompile Include="2109_向字符串添加空格.cpp" />
     <ClCompile Include="210_课程表_II.cpp" />
     <ClCompile Include="2116_判断一个括号字符串是否有效.cpp" />
-    <ClCompile Include="211_添加与搜索单词_-_数据结构设计.cpp" />
+    <ClCompile Include="211_添加与搜索单词-数据结构设计.cpp" />
     <ClCompile Include="212_单词搜索Ⅱ.cpp" />
     <ClCompile Include="2138_将字符串拆分为若干长度为k的组.cpp" />
     <ClCompile Include="2140_解决智力问题.cpp" />
@@ -529,7 +533,7 @@
     <ClCompile Include="3024_三角形类型.cpp" />
     <ClCompile Include="3025_人员站位的方案数_I.cpp" />
     <ClCompile Include="306_累加数.cpp" />
-    <ClCompile Include="307_区域和检索 - 数组可修改.cpp" />
+    <ClCompile Include="307_区域和检索-数组可修改.cpp" />
     <ClCompile Include="3085_成为K特殊字符串需要删除的最少字符数.cpp" />
     <ClCompile Include="3097_或值至少为K的最短子数组_II.cpp" />
     <ClCompile Include="30_串联所有单词的子串.cpp" />
@@ -895,8 +899,24 @@
     <ClCompile Include="LCP_06_拿硬币.cpp" />
     <ClCompile Include="LCP_40_心算挑战.cpp" />
     <ClCompile Include="LCP_50_宝石补给.cpp" />
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="utils.cpp" />
+    <ClCompile Include="main.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+    <ClCompile Include="utils.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+    </ClCompile>
     <ClCompile Include="剑指_Offer_II_029_排序的循环链表.cpp" />
     <ClCompile Include="剑指_Offer_II_041_滑动窗口的平均值.cpp" />
     <ClCompile Include="剑指_Offer_II_069_山峰数组的顶部.cpp" />
@@ -914,7 +934,7 @@
     <ClCompile Include="面试题_17_19_消失的两个数字.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="custom.h" />
+    <ClInclude Include="stdafx.h" />
     <ClInclude Include="matrix.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="utils.h" />

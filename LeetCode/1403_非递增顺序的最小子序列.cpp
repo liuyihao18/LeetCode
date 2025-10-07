@@ -1,5 +1,5 @@
 // 1403_非递增顺序的最小子序列.cpp
-#include "custom.h"
+#include "stdafx.h"
 ustd
 
 class Solution {
