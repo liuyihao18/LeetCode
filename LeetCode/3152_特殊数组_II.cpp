@@ -9,12 +9,12 @@ public:
         int left = 0;
         for (size_t i = 0; i + 1 < nums.size(); i++) {
             if (~(nums[i] + nums[i + 1]) & 1) {
-                specialArrayRange.emplace_back(left, i + 1);
+                specialArrayRange.emplace_back(left, static_cast<int>(i) + 1);
                 left = static_cast<int>(i) + 1;
             }
         }
         if (left != nums.size()) {
-            specialArrayRange.emplace_back(left, nums.size());
+            specialArrayRange.emplace_back(left, static_cast<int>(nums.size()));
         }
         for (auto& [l, r] : specialArrayRange) {
             cout << "Range: [" << l << ", " << r << ")" << endl;
