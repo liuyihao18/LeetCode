@@ -29,7 +29,7 @@ public:
             }
 
             int t = grid[i][j], res = 0;
-            grid[i][j] = -1;
+            grid[i][j] = -1; 
             vector<array<int, 2>> dir({ {-1, 0}, {1, 0}, {0, -1}, {0, 1} });
             for (auto& [di, dj] : dir) {
                 int ni = i + di;
