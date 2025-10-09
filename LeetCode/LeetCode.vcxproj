@@ -602,6 +602,7 @@
     <ClCompile Include="3443_K次修改后的最大曼哈顿距离.cpp" />
     <ClCompile Include="3484_设计电子表格.cpp" />
     <ClCompile Include="3487_删除后的最大子数组元素和.cpp" />
+    <ClCompile Include="3494_酿造药水需要的最少总时间.cpp" />
     <ClCompile Include="352_将数据流变为多个不相交区间.cpp" />
     <ClCompile Include="3541_找到频率最高的元音和辅音.cpp" />
     <ClCompile Include="357_统计各位数字都不同的数字个数.cpp" />
@@ -944,7 +945,7 @@
     <ClCompile Include="面试题_04_06_后继者.cpp" />
     <ClCompile Include="面试题_17_09_第k个数.cpp" />
     <ClCompile Include="面试题_17_11_单词距离.cpp" />
-    <ClCompile Include="面试题_17_19_消失的两个数字.cpp" />    
+    <ClCompile Include="面试题_17_19_消失的两个数字.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="stdafx.h" />
