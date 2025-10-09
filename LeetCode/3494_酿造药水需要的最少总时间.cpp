@@ -2,7 +2,34 @@
 #include "stdafx.h"
 ustd
 
-// ²»»á×ö
+class Solution {
+public:
+    long long minTime(vector<int>& skill, vector<int>& mana) {
+        size_t n = skill.size();
+        size_t m = mana.size();
+        long long skillSum = accumulate(skill.begin(), skill.end(), 0LL);
+        long long manaSum = accumulate(mana.begin(), mana.end(), 0LL);
+        long long result = skillSum * manaSum;
+        for (size_t i = 1; i < m; i++) {
+            long long overlap = 0;
+            long long timestamp1 = 0, timestamp2 = 0;
+            for (size_t j = n - 1; j > 0; j--) {
+                timestamp1 = timestamp1 - 1LL * mana[i - 1] * skill[j];
+                timestamp2 = timestamp2 - 1LL * mana[i] * skill[j - 1];
+                if (timestamp2 < timestamp1) {
+                    overlap += timestamp1;
+                    timestamp1 = 0;
+                    timestamp2 = 0;
+                }
+            }
+            overlap += timestamp2;
+            result += overlap;
+        }
+        return result;
+    }
+};
+
+/*
 class Solution {
 public:
     using ll = long long;
