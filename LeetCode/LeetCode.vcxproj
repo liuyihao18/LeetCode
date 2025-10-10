@@ -561,6 +561,7 @@
     <ClCompile Include="3143_正方形中的最多点数.cpp" />
     <ClCompile Include="3144_分割字符频率相等的最少子字符串.cpp" />
     <ClCompile Include="3146_两个字符串的排列差.cpp" />
+    <ClCompile Include="3147_从魔法师身上吸取的最大能量.cpp" />
     <ClCompile Include="3148_矩阵中的最大得分.cpp" />
     <ClCompile Include="3151_特殊数组_I.cpp" />
     <ClCompile Include="3152_特殊数组_II.cpp" />
