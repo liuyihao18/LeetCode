@@ -2376,6 +2376,9 @@
     <ClCompile Include="3147_从魔法师身上吸取的最大能量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2273_移除字母异位词后的结果数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
