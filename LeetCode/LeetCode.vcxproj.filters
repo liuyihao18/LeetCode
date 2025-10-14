@@ -2379,6 +2379,9 @@
     <ClCompile Include="2273_移除字母异位词后的结果数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3349_检测相邻递增子数组_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
