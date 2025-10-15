@@ -2382,6 +2382,9 @@
     <ClCompile Include="3349_检测相邻递增子数组_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3350_检测相邻递增子数组_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

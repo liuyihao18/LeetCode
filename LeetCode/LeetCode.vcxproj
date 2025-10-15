@@ -587,6 +587,7 @@
     <ClCompile Include="3342_到达最后一个房间的最少时间_II.cpp" />
     <ClCompile Include="3349_检测相邻递增子数组_I.cpp" />
     <ClCompile Include="334_递增的三元子序列.cpp" />
+    <ClCompile Include="3350_检测相邻递增子数组_II.cpp" />
     <ClCompile Include="3355_零数组变换_I.cpp" />
     <ClCompile Include="3356_零数组变换_II.cpp" />
     <ClCompile Include="335_路径交叉.cpp" />
