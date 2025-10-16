@@ -2385,6 +2385,9 @@
     <ClCompile Include="3350_检测相邻递增子数组_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2598_执行操作后的最大MEX.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

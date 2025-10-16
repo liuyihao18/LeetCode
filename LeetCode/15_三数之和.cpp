@@ -53,6 +53,38 @@ public:
 
 /*
 class Solution {
+private:
+    long long hash(long long a, long long b, long long c) {
+        return a << 40 | b << 20 | c;
+    }
+public:
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        size_t n = nums.size();
+        sort(nums.begin(), nums.end());
+        unordered_map<long long, vector<int>> ans;
+        for (size_t i = 0; i + 2 < n; i++) {
+            int num1 = nums[i];
+            for (size_t j = i + 1; j + 1 < n; j++) {
+                int num2 = nums[j];
+                int num3 = -num1 - num2;
+                auto iter = lower_bound(nums.begin() + j + 1, nums.end(), num3);
+                if (iter != nums.end() && *iter == num3 && !ans.count(hash(num1, num2, num3))) {
+                    ans[hash(num1, num2, num3)] = { num1, num2, num3 };
+                }
+            }
+        }
+        // 把ans的value放入vector
+        vector<vector<int>> result;
+        for (const auto& [key, value] : ans) {
+            result.push_back(value);
+        }
+        return result;
+    }
+};
+*/
+
+/*
+class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
         size_t n = nums.size();
