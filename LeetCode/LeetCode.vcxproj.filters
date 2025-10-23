@@ -2388,6 +2388,9 @@
     <ClCompile Include="2598_执行操作后的最大MEX.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3461_判断操作后字符串中的数字是否相等_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
