@@ -2391,6 +2391,9 @@
     <ClCompile Include="3461_判断操作后字符串中的数字是否相等_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="474_一和零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
