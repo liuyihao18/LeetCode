@@ -574,6 +574,7 @@
     <ClCompile Include="318_最大单词长度乘积.cpp" />
     <ClCompile Include="319_灯泡开关.cpp" />
     <ClCompile Include="3227_字符串元音游戏.cpp" />
+    <ClCompile Include="3228_将1移动到末尾的最大操作次数.cpp" />
     <ClCompile Include="324_摆动排序_II.cpp" />
     <ClCompile Include="326_3的幂.cpp" />
     <ClCompile Include="3272_统计好整数的数目.cpp" />

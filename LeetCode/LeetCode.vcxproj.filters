@@ -2394,6 +2394,9 @@
     <ClCompile Include="474_一和零.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3228_将1移动到末尾的最大操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
