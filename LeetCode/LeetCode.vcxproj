@@ -255,6 +255,7 @@
     <ClCompile Include="1608_特殊数组的特征值.cpp" />
     <ClCompile Include="1609_奇偶树.cpp" />
     <ClCompile Include="1610_可见点的最大数目.cpp" />
+    <ClCompile Include="1611_使整数变为0的最少操作次数.cpp" />
     <ClCompile Include="1614_括号的最大嵌套深度.cpp" />
     <ClCompile Include="1619_删除某些元素后的数组均值.cpp" />
     <ClCompile Include="1620_网络信号最好的坐标.cpp" />
