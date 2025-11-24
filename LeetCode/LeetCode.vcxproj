@@ -147,6 +147,7 @@
   <ItemGroup>
     <ClCompile Include="1001_网格照明.cpp" />
     <ClCompile Include="1005_K次取反后最大化的数组和.cpp" />
+    <ClCompile Include="1018_可被5整除的二进制前缀.cpp" />
     <ClCompile Include="1020_飞地的数量.cpp" />
     <ClCompile Include="1021_删除最外层的括号.cpp" />
     <ClCompile Include="1022_从根到叶的二进制数之和.cpp" />
