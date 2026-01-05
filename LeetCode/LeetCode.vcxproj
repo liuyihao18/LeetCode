@@ -363,6 +363,7 @@
     <ClCompile Include="1945_字符串转化后的各位数字之和.cpp" />
     <ClCompile Include="1963_使字符串平衡的最小交换次数.cpp" />
     <ClCompile Include="1971_寻找图中是否存在路径.cpp" />
+    <ClCompile Include="1975_最大方阵和.cpp" />
     <ClCompile Include="1984_学生分数的最小差值.cpp" />
     <ClCompile Include="198_打家劫舍.cpp" />
     <ClCompile Include="1993_树上的操作.cpp" />

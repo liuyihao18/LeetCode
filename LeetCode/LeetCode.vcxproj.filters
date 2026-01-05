@@ -2412,6 +2412,9 @@
     <ClCompile Include="2435_矩阵中和能被K整除的路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1975_最大方阵和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
