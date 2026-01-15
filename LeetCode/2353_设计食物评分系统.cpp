@@ -137,7 +137,7 @@ public:
 };
 */
 
-/*
+#ifndef LEETCODE
 int main() {
 	vector<string> foods = { "kimchi","miso","sushi","moussaka","ramen","bulgogi" };
 	vector<string> cuisines = { "korean","japanese","japanese","greek","japanese","korean" };
@@ -151,4 +151,4 @@ int main() {
 	cout << obj->highestRated("japanese") << endl;
 	return 0;
 }
-*/
+#endif

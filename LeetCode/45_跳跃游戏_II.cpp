@@ -19,10 +19,10 @@ public:
     }
 };
 
-/*
+#ifndef LEETCODE
 int main() {
     Solution solution;
     cout << solution.jump({ 2,3,1,1,4 }) << endl;
     return 0;
 }
-*/
+#endif

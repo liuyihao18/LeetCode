@@ -41,7 +41,7 @@ public:
  * string param_3 = obj->forward(steps);
  */
 
-/*/
+#ifndef LEETCODE
 int main() {
     BrowserHistory* obj = new BrowserHistory("leetcode.com");
     obj->visit("google.com");
@@ -56,4 +56,4 @@ int main() {
     cout << obj->back(7) << endl;
     return 0;
 }
-*/
+#endif

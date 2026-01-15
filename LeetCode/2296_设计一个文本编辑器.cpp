@@ -74,7 +74,7 @@ public:
  * string param_4 = obj->cursorRight(k);
  */
 
-/*
+#ifndef LEETCODE
 int main() {
     TextEditor* obj = new TextEditor();
     obj->addText("leetcode");
@@ -87,4 +87,4 @@ int main() {
     obj->cursorRight(6);
     return 0;
 }
-*/
+#endif
