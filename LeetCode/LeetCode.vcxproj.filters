@@ -2415,6 +2415,9 @@
     <ClCompile Include="1975_最大方阵和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2943_最大化网格图中正方形空洞的面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
