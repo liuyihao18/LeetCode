@@ -2,6 +2,21 @@
 #include "stdafx.h"
 ustd
 
+// New Version
+class Solution {
+public:
+    int minimumDifference(vector<int>& nums, int k) {
+        ranges::sort(nums);
+        int result = INT_MAX;
+        for (size_t i{}, n{ nums.size() }; i + k - 1 < n; i++) {
+            result = min(result, nums[i + k - 1] - nums[i]);
+        }
+        return result;
+    }
+};
+
+/* 
+// Old Version
 class Solution {
 public:
     int minimumDifference(vector<int>& nums, int k) {
@@ -20,3 +35,4 @@ public:
         return min_diff;
     }
 };
+*/
