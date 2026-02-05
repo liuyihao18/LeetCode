@@ -2418,6 +2418,12 @@
     <ClCompile Include="2943_最大化网格图中正方形空洞的面积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3637_三段式数组_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3379_转换数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
