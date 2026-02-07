@@ -2424,6 +2424,9 @@
     <ClCompile Include="3379_转换数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1653_使字符串平衡的最少删除次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
