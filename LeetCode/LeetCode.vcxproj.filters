@@ -2433,6 +2433,9 @@
     <ClCompile Include="1382_将二叉搜索树变平衡.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3713_最长的平衡子串_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

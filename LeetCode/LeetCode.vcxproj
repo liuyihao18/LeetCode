@@ -628,6 +628,7 @@
     <ClCompile Include="367_有效的完全平方数.cpp" />
     <ClCompile Include="368_最大整除子集.cpp" />
     <ClCompile Include="36_有效的数独.cpp" />
+    <ClCompile Include="3713_最长的平衡子串_I.cpp" />
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="372_超级次方.cpp" />
     <ClCompile Include="373_查找和最小的K对数字.cpp" />
