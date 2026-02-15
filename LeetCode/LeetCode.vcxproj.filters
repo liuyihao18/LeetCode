@@ -2436,6 +2436,9 @@
     <ClCompile Include="3713_最长的平衡子串_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="67_二进制求和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

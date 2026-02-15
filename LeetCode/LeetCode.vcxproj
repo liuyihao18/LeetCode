@@ -777,6 +777,7 @@
     <ClCompile Include="675_为高尔夫比赛砍树.cpp" />
     <ClCompile Include="676_实现一个魔法字典.cpp" />
     <ClCompile Include="677_键值映射.cpp" />
+    <ClCompile Include="67_二进制求和.cpp" />
     <ClCompile Include="680_验证回文串_II.cpp" />
     <ClCompile Include="682_棒球比赛.cpp" />
     <ClCompile Include="686_重复叠加字符串匹配.cpp" />
