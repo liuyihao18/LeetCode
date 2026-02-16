@@ -2439,6 +2439,9 @@
     <ClCompile Include="67_二进制求和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="190_颠倒二进制位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -358,6 +358,7 @@
     <ClCompile Include="1865_找出和为指定值的下标对.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
+    <ClCompile Include="190_颠倒二进制位.cpp" />
     <ClCompile Include="1911_最大子序列交替和.cpp" />
     <ClCompile Include="1920_基于排列构建数组.cpp" />
     <ClCompile Include="1921_消灭怪物的最大数量.cpp" />
