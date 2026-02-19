@@ -2442,6 +2442,9 @@
     <ClCompile Include="190_颠倒二进制位.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="696_计数二进制子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

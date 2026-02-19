@@ -788,6 +788,7 @@
     <ClCompile Include="690_员工的重要性.cpp" />
     <ClCompile Include="691_贴纸拼词.cpp" />
     <ClCompile Include="693_交替位二进制数.cpp" />
+    <ClCompile Include="696_计数二进制子串.cpp" />
     <ClCompile Include="698_划分为k个相等的子集.cpp" />
     <ClCompile Include="699_掉落的方块cpp.cpp" />
     <ClCompile Include="6_Z字形变换.cpp" />
