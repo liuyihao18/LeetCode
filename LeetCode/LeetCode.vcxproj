@@ -223,6 +223,7 @@
     <ClCompile Include="1399_统计最大组的数目.cpp" />
     <ClCompile Include="1401_圆和矩形是否有重叠.cpp" />
     <ClCompile Include="1403_非递增顺序的最小子序列.cpp" />
+    <ClCompile Include="1404_将二进制表示减到1的步骤数.cpp" />
     <ClCompile Include="1405_最长快乐字符串.cpp" />
     <ClCompile Include="1408_数组中的字符串匹配.cpp" />
     <ClCompile Include="1413_逐步求和得到正数的最小值.cpp" />
