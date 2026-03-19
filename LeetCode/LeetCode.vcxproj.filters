@@ -2454,6 +2454,9 @@
     <ClCompile Include="1404_将二进制表示减到1的步骤数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3212_统计X和Y频数相等的子矩阵数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
