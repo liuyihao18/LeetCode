@@ -252,6 +252,7 @@
     <ClCompile Include="1576_替换所有的问号.cpp" />
     <ClCompile Include="1582_二进制矩阵中的特殊位置.cpp" />
     <ClCompile Include="1592_重新排列单词间的空格.cpp" />
+    <ClCompile Include="1594_矩阵的最大非负积.cpp" />
     <ClCompile Include="1598_文件夹操作日志搜集器.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
     <ClCompile Include="1600_王位继承顺序.cpp" />
