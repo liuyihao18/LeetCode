@@ -2466,6 +2466,9 @@
     <ClCompile Include="1594_矩阵的最大非负积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2946_循环移位后的矩阵相似检查.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
