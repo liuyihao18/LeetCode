@@ -532,6 +532,7 @@
     <ClCompile Include="2829_k-avoiding数组的最小总和.cpp" />
     <ClCompile Include="282_给表达式添加运算符.cpp" />
     <ClCompile Include="283_移动零.cpp" />
+    <ClCompile Include="2840_判断通过操作能否让字符串相等_II.cpp" />
     <ClCompile Include="2843_统计对称整数的数目.cpp" />
     <ClCompile Include="2845_统计趣味子数组的数目.cpp" />
     <ClCompile Include="284_窥探迭代器.cpp" />
