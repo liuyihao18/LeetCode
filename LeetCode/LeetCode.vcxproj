@@ -620,6 +620,7 @@
     <ClCompile Include="3396_使数组元素互不相同所需的最少操作次数.cpp" />
     <ClCompile Include="3403_从盒子中找出字典序最大的字符串_I.cpp" />
     <ClCompile Include="3405_统计恰好有K个相等相邻元素的数组数目.cpp" />
+    <ClCompile Include="3418_机器人可以获得的最大金币数.cpp" />
     <ClCompile Include="3423_循环数组中相邻元素的最大差值.cpp" />
     <ClCompile Include="3439_重新安排会议得到最多空余时间_I.cpp" />
     <ClCompile Include="3440_重新安排会议得到最多空余时间_II.cpp" />
