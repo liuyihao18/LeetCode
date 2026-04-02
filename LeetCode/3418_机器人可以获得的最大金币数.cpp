@@ -23,7 +23,7 @@ void reset(vector<vector<array<int, K>>>& dp, size_t i, size_t j)
 	ranges::for_each(dp[i][j], [](int& num) { num = INT_MIN; });
 }
 
-template <size_t K, bool CompWithOriginal>
+template <size_t K, bool CompareWithOriginal>
 void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins,
             const size_t i, const size_t j, const size_t di, const size_t dj)
 {
@@ -32,7 +32,7 @@ void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins,
 	{
 		for (size_t k = 0; k < K; k++)
 		{
-			if constexpr (CompWithOriginal)
+			if constexpr (CompareWithOriginal)
 			{
 				dp[i][j][k] = max({
 					dp[i][j][k],
@@ -47,7 +47,7 @@ void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins,
 	}
 	else
 	{
-		if constexpr (CompWithOriginal)
+		if constexpr (CompareWithOriginal)
 		{
 			dp[i][j][0] = max({
 				dp[i][j][0],
@@ -60,7 +60,7 @@ void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins,
 		}
 		for (size_t k = 1; k < K; k++)
 		{
-			if constexpr (CompWithOriginal)
+			if constexpr (CompareWithOriginal)
 			{
 				dp[i][j][k] = max({
 					dp[i][j][k],
