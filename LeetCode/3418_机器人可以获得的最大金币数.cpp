@@ -5,20 +5,15 @@ ustd
 template <size_t K>
 void initialize(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins)
 {
-	if (coins[0][0] >= 0)
+	int coin = coins[0][0];
+	if (coin >= 0)
 	{
-		for (size_t k = 0; k < K; k++)
-		{
-			dp[0][0][k] = coins[0][0];
-		}
+		ranges::for_each(dp[0][0], [coin](int& num) { num = coin; });
 	}
 	else
 	{
-		dp[0][0][0] = coins[0][0];
-		for (size_t k = 1; k < K; k++)
-		{
-			dp[0][0][k] = 0; // ¸Ð»¯
-		}
+		ranges::for_each(dp[0][0], [](int& num) { num = 0; });
+		dp[0][0][0] = coin;
 	}
 }
 
