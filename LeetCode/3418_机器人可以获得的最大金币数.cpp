@@ -2,7 +2,7 @@
 #include "stdafx.h"
 ustd
 
-template<size_t K>
+template <size_t K>
 void initialize(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins)
 {
 	if (coins[0][0] >= 0)
@@ -22,9 +22,15 @@ void initialize(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& co
 	}
 }
 
-template<size_t K>
-void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins, 
-	const size_t i, const size_t j, const size_t di, const size_t dj)
+template <size_t K>
+void reset(vector<vector<array<int, K>>>& dp, size_t i, size_t j)
+{
+	ranges::for_each(dp[i][j], [](int& num) { num = INT_MIN; });
+}
+
+template <size_t K>
+void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins,
+            const size_t i, const size_t j, const size_t di, const size_t dj)
 {
 	if (coins[i][j] >= 0)
 	{
@@ -53,34 +59,39 @@ void update(vector<vector<array<int, K>>>& dp, const vector<vector<int>>& coins,
 	}
 }
 
-class Solution {
+class Solution
+{
 public:
-	int maximumAmount(const vector<vector<int>>& coins)	{
+	int maximumAmount(const vector<vector<int>>& coins)
+	{
 		size_t m = coins.size(), n = coins.front().size();
 		// dp[i][j][k]表示用了k次感化后在(i,j)可以获取的最大金币值
 		constexpr size_t K = 3;
-		vector dp(m, vector(n, array<int, K>({ INT_MIN, INT_MIN, INT_MIN })));
+		vector dp(m, vector(n, array<int, K>()));
 		initialize<K>(dp, coins);
 		auto updateFromUp = []<typename... ArgTypes>(ArgTypes&&... args)
 		{
 			update<K>(std::forward<ArgTypes>(args)..., 1, 0);
 		};
-		auto updateFromLeft = []<typename... ArgTypes>(ArgTypes&&... args) 
+		auto updateFromLeft = []<typename... ArgTypes>(ArgTypes&&... args)
 		{
 			update<K>(std::forward<ArgTypes>(args)..., 0, 1);
 		};
 		for (size_t i = 1; i < m; i++)
 		{
+			reset(dp, i, 0);
 			updateFromUp(dp, coins, i, 0);
 		}
 		for (size_t j = 1; j < n; j++)
 		{
+			reset(dp, 0, j);
 			updateFromLeft(dp, coins, 0, j);
 		}
 		for (size_t i = 1; i < m; i++)
 		{
 			for (size_t j = 1; j < n; j++)
 			{
+				reset(dp, i, j);
 				updateFromUp(dp, coins, i, j);
 				updateFromLeft(dp, coins, i, j);
 			}
