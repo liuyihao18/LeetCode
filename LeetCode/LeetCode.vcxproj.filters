@@ -2475,6 +2475,9 @@
     <ClCompile Include="3418_机器人可以获得的最大金币数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2839_判断通过操作能否让字符串相等_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
