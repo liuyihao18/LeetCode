@@ -776,6 +776,7 @@
     <ClCompile Include="653_两数之和 IV - 输入 BST.cpp" />
     <ClCompile Include="654_最大二叉树.cpp" />
     <ClCompile Include="655_输出二叉树.cpp" />
+    <ClCompile Include="657_机器人能否返回原点.cpp" />
     <ClCompile Include="658_找到K个最接近的元素.cpp" />
     <ClCompile Include="661_图片平滑器.cpp" />
     <ClCompile Include="662_二叉树最大宽度.cpp" />

@@ -2478,6 +2478,9 @@
     <ClCompile Include="2839_判断通过操作能否让字符串相等_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="657_机器人能否返回原点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
