@@ -2484,6 +2484,9 @@
     <ClCompile Include="3741_三个相等元素之间的最小距离_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1848_到目标元素的最小距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
