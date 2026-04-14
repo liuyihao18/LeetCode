@@ -10,6 +10,7 @@
 #include <map>
 #include <numeric>
 #include <queue>
+#include <ranges>
 #include <set>
 #include <sstream>
 #include <stack>
