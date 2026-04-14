@@ -403,6 +403,7 @@
     <ClCompile Include="2047_句子中的有效单词数.cpp" />
     <ClCompile Include="2049_统计最高分的节点数目.cpp" />
     <ClCompile Include="2055_蜡烛之间的盘子.cpp" />
+    <ClCompile Include="2069_模拟行走机器人_II.cpp" />
     <ClCompile Include="2070_每一个查询的最大美丽值.cpp" />
     <ClCompile Include="2073_买票需要的时间.cpp" />
     <ClCompile Include="207_课程表.cpp" />
@@ -638,6 +639,7 @@
     <ClCompile Include="357_统计各位数字都不同的数字个数.cpp" />
     <ClCompile Include="3637_三段式数组_I.cpp" />
     <ClCompile Include="3643_垂直翻转子矩阵.cpp" />
+    <ClCompile Include="3653_区间乘法查询后的异或_I.cpp" />
     <ClCompile Include="367_有效的完全平方数.cpp" />
     <ClCompile Include="368_最大整除子集.cpp" />
     <ClCompile Include="36_有效的数独.cpp" />
@@ -645,6 +647,7 @@
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="372_超级次方.cpp" />
     <ClCompile Include="373_查找和最小的K对数字.cpp" />
+    <ClCompile Include="3740_三个相等元素之间的最小距离_I.cpp" />
     <ClCompile Include="3741_三个相等元素之间的最小距离_II.cpp" />
     <ClCompile Include="375_猜数字大小_II.cpp" />
     <ClCompile Include="37_解数独.cpp" />

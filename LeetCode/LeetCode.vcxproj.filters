@@ -2487,6 +2487,15 @@
     <ClCompile Include="1848_到目标元素的最小距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3740_三个相等元素之间的最小距离_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3653_区间乘法查询后的异或_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2069_模拟行走机器人_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
