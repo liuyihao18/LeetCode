@@ -487,6 +487,7 @@
     <ClCompile Include="2502_设计内存分配器.cpp" />
     <ClCompile Include="2506_统计相似字符串对的数目.cpp" />
     <ClCompile Include="2511_最多可以摧毁的敌人城堡数目.cpp" />
+    <ClCompile Include="2515_到目标字符串的最短距离.cpp" />
     <ClCompile Include="2517_礼盒的最大甜蜜度.cpp" />
     <ClCompile Include="2529_正整数和负整数的最大计数.cpp" />
     <ClCompile Include="2530_执行K次操作后的最大分数.cpp" />
