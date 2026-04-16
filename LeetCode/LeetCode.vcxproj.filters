@@ -2499,6 +2499,9 @@
     <ClCompile Include="2515_到目标字符串的最短距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3488_距离最小相等元素查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
