@@ -652,6 +652,7 @@
     <ClCompile Include="3740_三个相等元素之间的最小距离_I.cpp" />
     <ClCompile Include="3741_三个相等元素之间的最小距离_II.cpp" />
     <ClCompile Include="375_猜数字大小_II.cpp" />
+    <ClCompile Include="3761_镜像对之间最小绝对距离.cpp" />
     <ClCompile Include="37_解数独.cpp" />
     <ClCompile Include="380_O%281%29时间插入、删除和获取随机元素.cpp" />
     <ClCompile Include="382_链表随机节点.cpp" />

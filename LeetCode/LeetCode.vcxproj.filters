@@ -2502,6 +2502,9 @@
     <ClCompile Include="3488_距离最小相等元素查询.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3761_镜像对之间最小绝对距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
