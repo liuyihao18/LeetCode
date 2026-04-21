@@ -2511,6 +2511,9 @@
     <ClCompile Include="2078_两栋颜色不同且距离最远的房子.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1722_执行交换操作后的最小汉明距离.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
