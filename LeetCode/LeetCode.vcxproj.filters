@@ -2514,6 +2514,9 @@
     <ClCompile Include="1722_执行交换操作后的最小汉明距离.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1559_二维网格图中探测环.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -247,6 +247,7 @@
     <ClCompile Include="1518_换酒问题.cpp" />
     <ClCompile Include="1534_统计好三元组.cpp" />
     <ClCompile Include="1552_两球之间的磁力.cpp" />
+    <ClCompile Include="1559_二维网格图中探测环.cpp" />
     <ClCompile Include="1561_你可以获得的最大硬币数目.cpp" />
     <ClCompile Include="1572_矩阵对角线元素的和.cpp" />
     <ClCompile Include="1576_替换所有的问号.cpp" />
