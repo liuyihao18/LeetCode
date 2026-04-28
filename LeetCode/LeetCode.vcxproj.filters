@@ -2517,6 +2517,9 @@
     <ClCompile Include="1559_二维网格图中探测环.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1391_检查网格中是否存在有效路径.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

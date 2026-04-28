@@ -219,6 +219,7 @@
     <ClCompile Include="1380_矩阵中的幸运数.cpp" />
     <ClCompile Include="1382_将二叉搜索树变平衡.cpp" />
     <ClCompile Include="1388_3n块披萨.cpp" />
+    <ClCompile Include="1391_检查网格中是否存在有效路径.cpp" />
     <ClCompile Include="1394_找出数组中的幸运数.cpp" />
     <ClCompile Include="1399_统计最大组的数目.cpp" />
     <ClCompile Include="1401_圆和矩形是否有重叠.cpp" />
