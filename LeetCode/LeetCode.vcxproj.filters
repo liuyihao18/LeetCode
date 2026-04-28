@@ -2520,6 +2520,9 @@
     <ClCompile Include="1391_检查网格中是否存在有效路径.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2033_获取单值网格的最小操作数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
