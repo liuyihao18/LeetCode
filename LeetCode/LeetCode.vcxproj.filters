@@ -2523,6 +2523,9 @@
     <ClCompile Include="2033_获取单值网格的最小操作数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2770_达到末尾下标所需的最大跳跃次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
