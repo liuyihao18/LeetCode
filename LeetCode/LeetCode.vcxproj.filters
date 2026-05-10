@@ -2526,6 +2526,9 @@
     <ClCompile Include="2770_达到末尾下标所需的最大跳跃次数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="61_旋转链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -774,6 +774,7 @@
     <ClCompile Include="600_不含连续1的非负整数.cpp" />
     <ClCompile Include="606_根据二叉树创建字符串.cpp" />
     <ClCompile Include="617_合并二叉树.cpp" />
+    <ClCompile Include="61_旋转链表.cpp" />
     <ClCompile Include="622_设计循环队列.cpp" />
     <ClCompile Include="623_在二叉树中增加一行.cpp" />
     <ClCompile Include="624_数组列表中的最大距离.cpp" />
