@@ -2529,6 +2529,9 @@
     <ClCompile Include="61_旋转链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2553_分割数组中数字的数位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
