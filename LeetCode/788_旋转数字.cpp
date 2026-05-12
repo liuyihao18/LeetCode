@@ -3,6 +3,42 @@
 ustd
 
 class Solution {
+public:
+    int rotatedDigits(const int n) {
+        auto isGoodNum = [](int num)
+            {
+                bool isExactTheSame = true;
+                while (num > 0) {
+                    constexpr int rotate[10] = {
+                        0, 1, 5, -1, -1, 2, 9, -1, 8, 6
+                    };
+                    const int r = num % 10;
+                    if (rotate[r] == -1)
+                    {
+                        return false;
+                    }
+                    if (rotate[r] != r)
+                    {
+                        isExactTheSame = false;
+                    }
+                    num /= 10;
+                }
+                return !isExactTheSame;
+            };
+        int count = 0;
+        for (int i = 1; i <= n; i++)
+        {
+	        if (isGoodNum(i))
+	        {
+                count++;
+	        }
+        }
+        return count;
+    }
+};
+
+/*
+class Solution {
     bool isGoodNum(int num) {
         vector<int> digits;
         int temp = num;
@@ -50,3 +86,4 @@ public:
         return result;
     }
 };
+*/
