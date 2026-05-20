@@ -4,6 +4,7 @@
 #define __CUSTOM_H__
 #include <array>
 #include <algorithm>
+#include <bit>
 #include <functional>
 #include <iostream>
 #include <iterator>
