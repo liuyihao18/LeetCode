@@ -630,6 +630,7 @@
     <ClCompile Include="3379_转换数组.cpp" />
     <ClCompile Include="337_打家劫舍_III.cpp" />
     <ClCompile Include="3396_使数组元素互不相同所需的最少操作次数.cpp" />
+    <ClCompile Include="33_搜索旋转排序数组.cpp" />
     <ClCompile Include="3403_从盒子中找出字典序最大的字符串_I.cpp" />
     <ClCompile Include="3405_统计恰好有K个相等相邻元素的数组数目.cpp" />
     <ClCompile Include="3418_机器人可以获得的最大金币数.cpp" />

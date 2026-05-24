@@ -2535,6 +2535,9 @@
     <ClCompile Include="2657_找到两个数组的前缀公共数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="33_搜索旋转排序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
