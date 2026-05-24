@@ -498,6 +498,7 @@
     <ClCompile Include="2530_执行K次操作后的最大分数.cpp" />
     <ClCompile Include="2536_子矩阵元素加1.cpp" />
     <ClCompile Include="2537_统计好子数组的数目.cpp" />
+    <ClCompile Include="2540_最小公共值.cpp" />
     <ClCompile Include="2544_交替数字和.cpp" />
     <ClCompile Include="2552_统计上升四元组.cpp" />
     <ClCompile Include="2553_分割数组中数字的数位.cpp" />
