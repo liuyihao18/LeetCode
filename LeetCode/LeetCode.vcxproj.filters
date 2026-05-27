@@ -2541,6 +2541,9 @@
     <ClCompile Include="2540_最小公共值.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3121_统计特殊字母的数量_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
