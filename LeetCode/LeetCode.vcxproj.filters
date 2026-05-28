@@ -2544,6 +2544,9 @@
     <ClCompile Include="3121_统计特殊字母的数量_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3093_最长公共后缀查询.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
