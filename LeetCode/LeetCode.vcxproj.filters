@@ -2550,6 +2550,9 @@
     <ClCompile Include="2144_打折购买糖果的最小开销.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3633_最早完成陆地和水上游乐设施的时间_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
