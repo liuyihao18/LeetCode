@@ -11,7 +11,50 @@ struct TreeNode {
     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
     TreeNode(int x, TreeNode* left, TreeNode* right) : val(x), left(left), right(right) {}
 };
- 
+
+class Solution {
+    int levelSum(queue<TreeNode*>& inQueue, queue<TreeNode*>& outQueue)
+    {
+        int sum = 0;
+        while (!inQueue.empty())
+        {
+            const TreeNode* currNode = inQueue.front();
+            inQueue.pop();
+            sum += currNode->val;
+            if (currNode->left)
+            {
+                outQueue.push(currNode->left);
+            }
+            if (currNode->right)
+            {
+                outQueue.push(currNode->right);
+            }
+        }
+        return sum;
+    }
+public:
+    int maxLevelSum(TreeNode* root) {
+        int maxSum = INT_MIN;
+        int maxSumLevelId = -1;
+    	queue<TreeNode*> inQueue, outQueue;
+        inQueue.push(root);
+        int currLevelId = 1;
+        while (!inQueue.empty())
+        {
+	        if (const int currSum = levelSum(inQueue, outQueue); 
+                currSum > maxSum)
+            {
+                maxSum = currSum;
+                maxSumLevelId = currLevelId;
+            }
+            currLevelId++;
+            swap(inQueue, outQueue);
+        }
+        return maxSumLevelId;
+    }
+};
+
+/*
 class Solution {
     struct State {
         TreeNode* node;
@@ -52,3 +95,4 @@ public:
         return maxSumLevel;
     }
 };
+*/
