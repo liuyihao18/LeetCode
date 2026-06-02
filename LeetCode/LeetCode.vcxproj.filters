@@ -2553,6 +2553,9 @@
     <ClCompile Include="3633_最早完成陆地和水上游乐设施的时间_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1390_四因数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
