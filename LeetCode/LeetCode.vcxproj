@@ -209,6 +209,7 @@
     <ClCompile Include="132_分割回文串_II.cpp" />
     <ClCompile Include="1331_数组序号转换.cpp" />
     <ClCompile Include="1332_删除回文子序列.cpp" />
+    <ClCompile Include="1339_分裂二叉树的最大乘积.cpp" />
     <ClCompile Include="1342_将数字变成0的操作次数.cpp" />
     <ClCompile Include="1345_跳跃游戏_IV.cpp" />
     <ClCompile Include="1353_最多可以参加的会议数目.cpp" />
