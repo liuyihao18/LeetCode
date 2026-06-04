@@ -2562,6 +2562,9 @@
     <ClCompile Include="1339_分裂二叉树的最大乘积.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3751_范围内总波动值_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
