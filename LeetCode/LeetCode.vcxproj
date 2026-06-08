@@ -429,6 +429,7 @@
     <ClCompile Include="2144_打折购买糖果的最小开销.cpp" />
     <ClCompile Include="2145_统计隐藏数组数目.cpp" />
     <ClCompile Include="2154_将找到的值乘以2.cpp" />
+    <ClCompile Include="2161_根据给定数字划分数组.cpp" />
     <ClCompile Include="2176_统计数组中相等且可以被整除的数对.cpp" />
     <ClCompile Include="2178_拆分成最多数目的正偶数之和.cpp" />
     <ClCompile Include="2179_统计数组中好三元组数目.cpp" />
