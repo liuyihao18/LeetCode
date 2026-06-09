@@ -2574,6 +2574,9 @@
     <ClCompile Include="2161_根据给定数字划分数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3689_最大子数组总值_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
