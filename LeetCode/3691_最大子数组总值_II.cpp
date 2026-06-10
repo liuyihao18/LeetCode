@@ -40,6 +40,7 @@ public:
             const auto& [maxValue, maxIndex] = *st.maxIter;
             auto newMinIter = next(st.minIter);
             auto newMaxIter = next(st.maxIter);
+            arrayCount += min(minIndex, maxIndex) * max(minIndex, maxIndex);
             pq.emplace(st.maxIter->first - newMinIter->first, newMinIter, st.maxIter);
             pq.emplace(newMaxIter->first - st.minIter->first, st.minIter, newMaxIter);
         }
