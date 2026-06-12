@@ -8,7 +8,7 @@ class Solution {
         st.emplace(0, 0);
         int maxDepth = 0;
         while (!st.empty()) {
-            auto [u, depth] = st.top();
+            const auto [u, depth] = st.top();
             st.pop();
             maxDepth = max(maxDepth, depth);
             for (const int v : graph[u]) {
