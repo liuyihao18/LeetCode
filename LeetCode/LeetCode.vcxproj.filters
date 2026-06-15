@@ -2586,6 +2586,9 @@
     <ClCompile Include="3559_给边赋权值的方案数_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2095_删除链表的中间节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
