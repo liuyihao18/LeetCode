@@ -2589,6 +2589,9 @@
     <ClCompile Include="2095_删除链表的中间节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3612_用特殊操作处理字符串_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

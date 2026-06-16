@@ -660,6 +660,7 @@
     <ClCompile Include="3559_给边赋权值的方案数_II.cpp" />
     <ClCompile Include="3567_子矩阵的最小绝对差.cpp" />
     <ClCompile Include="357_统计各位数字都不同的数字个数.cpp" />
+    <ClCompile Include="3612_用特殊操作处理字符串_I.cpp" />
     <ClCompile Include="3633_最早完成陆地和水上游乐设施的时间_I.cpp" />
     <ClCompile Include="3635_最早完成陆地和水上游乐设施的时间_II.cpp" />
     <ClCompile Include="3637_三段式数组_I.cpp" />
