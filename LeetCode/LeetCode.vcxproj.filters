@@ -2592,6 +2592,9 @@
     <ClCompile Include="3612_用特殊操作处理字符串_I.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3614_用特殊操作处理字符串_II.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
