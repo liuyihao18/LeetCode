@@ -20,9 +20,7 @@ public:
                 ranges::reverse(result);
                 break;
             default:
-                if (isalpha(c) && islower(c)) {
-                    result.push_back(c);
-                }
+                result.push_back(c);
             }
         }
         return result;
