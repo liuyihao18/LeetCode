@@ -2595,6 +2595,9 @@
     <ClCompile Include="3614_用特殊操作处理字符串_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1833_雪糕的最大数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
