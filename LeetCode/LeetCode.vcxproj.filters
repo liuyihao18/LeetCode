@@ -2598,6 +2598,9 @@
     <ClCompile Include="1833_雪糕的最大数量.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3699_锯齿形数组的总数_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />

@@ -672,6 +672,7 @@
     <ClCompile Include="3689_最大子数组总值_I.cpp" />
     <ClCompile Include="368_最大整除子集.cpp" />
     <ClCompile Include="3691_最大子数组总值_II.cpp" />
+    <ClCompile Include="3699_锯齿形数组的总数_I.cpp" />
     <ClCompile Include="36_有效的数独.cpp" />
     <ClCompile Include="3713_最长的平衡子串_I.cpp" />
     <ClCompile Include="371_两整数之和.cpp" />
