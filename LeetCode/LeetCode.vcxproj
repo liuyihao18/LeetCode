@@ -677,6 +677,7 @@
     <ClCompile Include="3713_最长的平衡子串_I.cpp" />
     <ClCompile Include="371_两整数之和.cpp" />
     <ClCompile Include="372_超级次方.cpp" />
+    <ClCompile Include="3737_统计主要元素子数组数目_I.cpp" />
     <ClCompile Include="373_查找和最小的K对数字.cpp" />
     <ClCompile Include="3740_三个相等元素之间的最小距离_I.cpp" />
     <ClCompile Include="3741_三个相等元素之间的最小距离_II.cpp" />
