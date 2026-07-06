@@ -197,6 +197,7 @@
     <ClCompile Include="1281_整数的各位积和之差.cpp" />
     <ClCompile Include="1282_用户分组.cpp" />
     <ClCompile Include="1287_有序数组中出现次数超过25%的元素.cpp" />
+    <ClCompile Include="1288_删除被覆盖区间.cpp" />
     <ClCompile Include="1289_下降路径最小和_II.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="1298_你能从盒子里获得的最大糖果数.cpp" />
