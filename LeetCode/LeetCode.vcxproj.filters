@@ -2607,6 +2607,9 @@
     <ClCompile Include="1288_删除被覆盖区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3754_连接非零数字并乘以其数字和_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
