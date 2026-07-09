@@ -2613,6 +2613,9 @@
     <ClCompile Include="3756_连接非零数字并乘以其数字和_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3532_针对图的路径存在性查询_I.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
