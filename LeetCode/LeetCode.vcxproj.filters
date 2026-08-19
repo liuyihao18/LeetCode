@@ -2619,6 +2619,9 @@
     <ClCompile Include="3702_按位异或非零的最长子序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1386_安排电影院座位.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
