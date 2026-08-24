@@ -2625,6 +2625,9 @@
     <ClCompile Include="3622_判断整除性.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1927_求和游戏.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
