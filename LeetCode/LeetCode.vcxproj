@@ -488,6 +488,7 @@
     <ClCompile Include="2398_预算内的最多机器人数目.cpp" />
     <ClCompile Include="239_滑动窗口最大值.cpp" />
     <ClCompile Include="23_合并K个升序链表.cpp" />
+    <ClCompile Include="2409_统计共同度过的日子数.cpp" />
     <ClCompile Include="240_搜索二维矩阵_II.cpp" />
     <ClCompile Include="2410_运动员和训练师的最大匹配数.cpp" />
     <ClCompile Include="2412_完成所有交易的初始最少钱数.cpp" />

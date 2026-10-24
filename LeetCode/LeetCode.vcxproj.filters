@@ -2631,6 +2631,9 @@
     <ClCompile Include="3904_最小稳定下标_II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="2409_统计共同度过的日子数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
