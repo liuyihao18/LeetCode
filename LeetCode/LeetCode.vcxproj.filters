@@ -2634,6 +2634,9 @@
     <ClCompile Include="2409_统计共同度过的日子数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3665_统计镜子反射路径数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
