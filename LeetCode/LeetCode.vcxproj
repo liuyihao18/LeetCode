@@ -370,6 +370,7 @@
     <ClCompile Include="1848_到目标元素的最小距离.cpp" />
     <ClCompile Include="1865_找出和为指定值的下标对.cpp" />
     <ClCompile Include="187_重复的DNA序列.cpp" />
+    <ClCompile Include="1882_使用服务器处理任务.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
     <ClCompile Include="190_颠倒二进制位.cpp" />
     <ClCompile Include="1911_最大子序列交替和.cpp" />
