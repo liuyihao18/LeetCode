@@ -2643,6 +2643,9 @@
     <ClCompile Include="3364_最小正和子数组.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1524_和为奇数的子数组数目.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
