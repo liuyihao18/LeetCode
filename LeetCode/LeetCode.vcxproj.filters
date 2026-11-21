@@ -2646,6 +2646,9 @@
     <ClCompile Include="1524_和为奇数的子数组数目.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3331_修改后子树的大小.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="cpp.hint" />
