@@ -10,6 +10,15 @@ class Solution
             | static_cast<long long>(c) << 32;
     }
 
+    pair<int, char> split(const long long request)
+    {
+        return
+        {
+            static_cast<int>(request & 0xffffffff),
+            static_cast<char>(request >> 32)
+        };
+    }
+
     int findNearestAncestor(const vector<int>& parent, const string& s,
         const long long request, unordered_map<long long, int>& nearestAncesotr)
     {
@@ -18,13 +27,12 @@ class Solution
             return nearestAncesotr[request];
         }
 
-        int index = static_cast<int>(request & 0xffffffff);        
+        auto [index, c] = split(request);
         if (index == -1)
         {
             return -1;
         }
 
-        char c = static_cast<char>(request >> 32);
         if (s[index] == c)
         {
             nearestAncesotr[request] = index;
