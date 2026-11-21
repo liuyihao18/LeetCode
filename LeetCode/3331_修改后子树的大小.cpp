@@ -18,13 +18,13 @@ class Solution
             return nearestAncesotr[request];
         }
 
-        int index = request & 0xffffffff;
-        char c = request >> 32;
+        int index = static_cast<int>(request & 0xffffffff);        
         if (index == -1)
         {
             return -1;
         }
 
+        char c = static_cast<char>(request >> 32);
         if (s[index] == c)
         {
             nearestAncesotr[request] = index;
