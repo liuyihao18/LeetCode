@@ -49,10 +49,14 @@ class Solution
 
     int calculateTreeSize(const vector<vector<int>>& children, int root, vector<int>& outTreeSize)
     {
+        if (outTreeSize[root] > 0)
+        {
+            return outTreeSize[root];
+        }
         if (children[root].size() == 0)
         {
             outTreeSize[root] = 1;
-            return 1;
+            return outTreeSize[root];
         }
         int treeSize = 1;
         for (int child : children[root])
@@ -60,7 +64,7 @@ class Solution
             treeSize += calculateTreeSize(children, child, outTreeSize);
         }
         outTreeSize[root] = treeSize;
-        return treeSize;
+        return outTreeSize[root];
     }
 
 public:
